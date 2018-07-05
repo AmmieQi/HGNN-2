@@ -1,5 +1,5 @@
-# LGGN_chem
-Hierachical Graph Neural Networks applied to classification and regression tasks
+# Hierachical Graph Neural Networks
+Application to classification and regression tasks
 
 ## Requirements
 - python 3
