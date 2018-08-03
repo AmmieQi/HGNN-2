@@ -1,0 +1,30 @@
+INFO:__main__:Log path : log/qm9/lg_False_up_1_bs_30_ep_70_st_20_op_adamax_lr_0.0004_da_0.9_L_20_h_2_ta_0_607.pickle
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Epoch 1 : Avg Error 1.058; Average Loss 1.931 Time : 154
+INFO:__main__:Epoch 2 : Avg Error 0.926; Average Loss 1.449 Time : 154
+INFO:__main__:Epoch 3 : Avg Error 0.886; Average Loss 1.375 Time : 156
+INFO:__main__:Epoch 4 : Avg Error 0.826; Average Loss 1.134 Time : 157
+INFO:__main__:Epoch 5 : Avg Error 0.763; Average Loss 1.012 Time : 158
+INFO:__main__:Epoch 6 : Avg Error 0.659; Average Loss 0.776 Time : 159
+INFO:__main__:Epoch 7 : Avg Error 0.630; Average Loss 0.768 Time : 159
+INFO:__main__:Epoch 8 : Avg Error 0.606; Average Loss 0.681 Time : 159
+INFO:__main__:Epoch 9 : Avg Error 0.613; Average Loss 0.690 Time : 160
+INFO:__main__:Epoch 10 : Avg Error 0.589; Average Loss 0.648 Time : 160
+INFO:__main__:Epoch 11 : Avg Error 0.588; Average Loss 0.696 Time : 160
+INFO:__main__:Epoch 12 : Avg Error 0.547; Average Loss 0.575 Time : 160
+INFO:__main__:Epoch 13 : Avg Error 0.551; Average Loss 0.578 Time : 165
+INFO:__main__:Epoch 14 : Avg Error 0.539; Average Loss 0.561 Time : 170
+INFO:__main__:Epoch 15 : Avg Error 0.528; Average Loss 0.541 Time : 164
+INFO:__main__:Epoch 16 : Avg Error 0.537; Average Loss 0.559 Time : 233
+INFO:__main__:Epoch 17 : Avg Error 0.521; Average Loss 0.531 Time : 225
+INFO:__main__:Epoch 18 : Avg Error 0.528; Average Loss 0.512 Time : 188
+INFO:__main__:Epoch 19 : Avg Error 0.527; Average Loss 0.513 Time : 317
+INFO:__main__:Epoch 20 : Avg Error 0.510; Average Loss 0.475 Time : 177
+INFO:__main__:Epoch 21 : Avg Error 0.514; Average Loss 0.471 Time : 178
+/var/lib/slurm/slurmd/job67810/slurm_script: line 19: 31034 Killed                  python3 scripts/main_gnn_qm9.py --lr $lr --lrdamping $lrdamp --step $step --data_path $data_path --epochs $epochs

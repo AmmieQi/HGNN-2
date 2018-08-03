@@ -1,0 +1,186 @@
+INFO:__main__:Log path : log/qm9/lg_False_up_1_bs_30_ep_50_st_10_op_adamax_lr_0.0003_da_0.9_L_20_h_2_ta_0_713.pickle
+INFO:__main__:Log path : log/qm9/lg_False_up_1_bs_30_ep_50_st_10_op_adamax_lr_0.0003_da_0.9_L_20_h_2_ta_0_744.pickle
+INFO:root:New directory created
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:root:Loading data...
+INFO:__main__:Log path : log/qm9/lg_False_up_1_bs_30_ep_50_st_10_op_adamax_lr_0.0003_da_0.9_L_20_h_2_ta_0_362.pickle
+INFO:root:New directory created
+INFO:__main__:Log path : log/qm9/lg_False_up_1_bs_30_ep_50_st_10_op_adamax_lr_0.0003_da_0.9_L_20_h_2_ta_0_187.pickle
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:__main__:Log path : log/qm9/lg_False_up_1_bs_30_ep_50_st_10_op_adamax_lr_0.0003_da_0.9_L_20_h_2_ta_0_939.pickle
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Epoch 1 : Avg Error 4.393; Average Loss 24.474 Time : 154
+INFO:__main__:Epoch 1 : Avg Error 1.304; Average Loss 2.187 Time : 156
+INFO:__main__:Epoch 1 : Avg Error 0.827; Average Loss 1.029 Time : 157
+INFO:__main__:Epoch 1 : Avg Error 6.355; Average Loss 51.461 Time : 161
+INFO:__main__:Epoch 1 : Avg Error 6.329; Average Loss 47.388 Time : 174
+INFO:__main__:Epoch 2 : Avg Error 1.898; Average Loss 6.180 Time : 154
+INFO:__main__:Epoch 2 : Avg Error 0.630; Average Loss 0.666 Time : 157
+INFO:__main__:Epoch 2 : Avg Error 0.767; Average Loss 0.871 Time : 157
+INFO:__main__:Epoch 2 : Avg Error 2.159; Average Loss 9.171 Time : 162
+INFO:__main__:Epoch 2 : Avg Error 2.242; Average Loss 8.999 Time : 175
+INFO:__main__:Epoch 3 : Avg Error 1.620; Average Loss 4.944 Time : 154
+INFO:__main__:Epoch 3 : Avg Error 0.503; Average Loss 0.445 Time : 157
+INFO:__main__:Epoch 3 : Avg Error 0.692; Average Loss 0.746 Time : 158
+INFO:__main__:Epoch 3 : Avg Error 1.140; Average Loss 2.527 Time : 163
+INFO:__main__:Epoch 3 : Avg Error 1.496; Average Loss 3.704 Time : 175
+INFO:__main__:Epoch 4 : Avg Error 1.413; Average Loss 3.064 Time : 155
+INFO:__main__:Epoch 4 : Avg Error 0.479; Average Loss 0.397 Time : 158
+INFO:__main__:Epoch 4 : Avg Error 0.666; Average Loss 0.713 Time : 158
+INFO:__main__:Epoch 4 : Avg Error 0.883; Average Loss 1.257 Time : 163
+INFO:__main__:Epoch 4 : Avg Error 1.338; Average Loss 2.656 Time : 176
+INFO:__main__:Epoch 5 : Avg Error 1.312; Average Loss 2.547 Time : 155
+INFO:__main__:Epoch 5 : Avg Error 0.457; Average Loss 0.358 Time : 158
+INFO:__main__:Epoch 5 : Avg Error 0.622; Average Loss 0.657 Time : 159
+INFO:__main__:Epoch 5 : Avg Error 0.780; Average Loss 1.017 Time : 164
+INFO:__main__:Epoch 5 : Avg Error 1.137; Average Loss 2.002 Time : 177
+INFO:__main__:Epoch 6 : Avg Error 1.248; Average Loss 2.312 Time : 157
+INFO:__main__:Epoch 6 : Avg Error 0.447; Average Loss 0.342 Time : 160
+INFO:__main__:Epoch 6 : Avg Error 0.599; Average Loss 0.631 Time : 160
+INFO:__main__:Epoch 6 : Avg Error 0.759; Average Loss 0.921 Time : 164
+INFO:__main__:Epoch 6 : Avg Error 1.009; Average Loss 1.603 Time : 178
+INFO:__main__:Epoch 7 : Avg Error 1.212; Average Loss 2.190 Time : 156
+INFO:__main__:Epoch 7 : Avg Error 0.440; Average Loss 0.330 Time : 159
+INFO:__main__:Epoch 7 : Avg Error 0.563; Average Loss 0.598 Time : 160
+INFO:__main__:Epoch 7 : Avg Error 0.688; Average Loss 0.789 Time : 165
+INFO:__main__:Epoch 7 : Avg Error 0.892; Average Loss 1.316 Time : 179
+INFO:__main__:Epoch 8 : Avg Error 1.104; Average Loss 1.832 Time : 156
+INFO:__main__:Epoch 8 : Avg Error 0.435; Average Loss 0.322 Time : 159
+INFO:__main__:Epoch 8 : Avg Error 0.540; Average Loss 0.569 Time : 162
+INFO:__main__:Epoch 8 : Avg Error 0.641; Average Loss 0.693 Time : 165
+INFO:__main__:Epoch 9 : Avg Error 1.007; Average Loss 1.535 Time : 157
+INFO:__main__:Epoch 8 : Avg Error 0.734; Average Loss 1.032 Time : 180
+INFO:__main__:Epoch 9 : Avg Error 0.431; Average Loss 0.319 Time : 159
+INFO:__main__:Epoch 9 : Avg Error 0.574; Average Loss 0.617 Time : 167
+INFO:__main__:Epoch 9 : Avg Error 0.588; Average Loss 0.585 Time : 166
+INFO:__main__:Epoch 10 : Avg Error 0.956; Average Loss 1.381 Time : 158
+INFO:__main__:Epoch 10 : Avg Error 0.425; Average Loss 0.313 Time : 163
+INFO:__main__:Epoch 9 : Avg Error 0.727; Average Loss 0.995 Time : 178
+INFO:__main__:Epoch 10 : Avg Error 0.555; Average Loss 0.581 Time : 163
+INFO:__main__:Epoch 10 : Avg Error 0.552; Average Loss 0.509 Time : 169
+INFO:__main__:Epoch 11 : Avg Error 0.905; Average Loss 1.231 Time : 159
+INFO:__main__:Epoch 11 : Avg Error 0.421; Average Loss 0.308 Time : 163
+INFO:__main__:Epoch 11 : Avg Error 0.501; Average Loss 0.491 Time : 162
+INFO:__main__:Epoch 10 : Avg Error 0.743; Average Loss 0.975 Time : 198
+INFO:__main__:Epoch 12 : Avg Error 0.845; Average Loss 1.089 Time : 161
+INFO:__main__:Epoch 12 : Avg Error 0.420; Average Loss 0.304 Time : 164
+INFO:__main__:Epoch 11 : Avg Error 0.543; Average Loss 0.472 Time : 286
+INFO:__main__:Epoch 11 : Avg Error 0.782; Average Loss 1.052 Time : 173
+INFO:__main__:Epoch 12 : Avg Error 0.477; Average Loss 0.442 Time : 262
+INFO:__main__:Epoch 13 : Avg Error 0.807; Average Loss 1.031 Time : 164
+INFO:__main__:Epoch 13 : Avg Error 0.416; Average Loss 0.298 Time : 165
+INFO:__main__:Epoch 12 : Avg Error 0.537; Average Loss 0.450 Time : 167
+INFO:__main__:Epoch 12 : Avg Error 0.769; Average Loss 1.010 Time : 186
+/var/lib/slurm/slurmd/job68298/slurm_script: line 19: 14116 Killed                  python3 scripts/main_gnn_qm9.py --lr $lr --lrdamping $lrdamp --step $step --data_path $data_path --epochs $epochs
+INFO:__main__:Epoch 13 : Avg Error 0.459; Average Loss 0.421 Time : 246
+INFO:__main__:Epoch 14 : Avg Error 0.413; Average Loss 0.291 Time : 238
+INFO:__main__:Epoch 13 : Avg Error 0.520; Average Loss 0.418 Time : 234
+INFO:__main__:Epoch 13 : Avg Error 0.760; Average Loss 1.017 Time : 219
+INFO:__main__:Epoch 14 : Avg Error 0.466; Average Loss 0.422 Time : 168
+INFO:__main__:Epoch 15 : Avg Error 0.408; Average Loss 0.284 Time : 159
+INFO:__main__:Epoch 14 : Avg Error 0.504; Average Loss 0.395 Time : 159
+INFO:__main__:Epoch 14 : Avg Error 0.599; Average Loss 0.752 Time : 169
+/var/lib/slurm/slurmd/job68297/slurm_script: line 19: 14107 Killed                  python3 scripts/main_gnn_qm9.py --lr $lr --lrdamping $lrdamp --step $step --data_path $data_path --epochs $epochs
+INFO:__main__:Epoch 15 : Avg Error 0.467; Average Loss 0.416 Time : 1035
+INFO:__main__:Epoch 15 : Avg Error 0.499; Average Loss 0.380 Time : 1027
+INFO:__main__:Epoch 15 : Avg Error 0.619; Average Loss 0.748 Time : 1035
+INFO:__main__:Epoch 16 : Avg Error 0.454; Average Loss 0.397 Time : 169
+INFO:__main__:Epoch 16 : Avg Error 0.490; Average Loss 0.362 Time : 160
+INFO:__main__:Epoch 16 : Avg Error 0.604; Average Loss 0.731 Time : 172
+INFO:__main__:Epoch 17 : Avg Error 0.468; Average Loss 0.401 Time : 169
+INFO:__main__:Epoch 17 : Avg Error 0.480; Average Loss 0.348 Time : 159
+INFO:__main__:Epoch 17 : Avg Error 0.580; Average Loss 0.697 Time : 212
+INFO:__main__:Epoch 18 : Avg Error 0.461; Average Loss 0.389 Time : 206
+INFO:__main__:Epoch 18 : Avg Error 0.487; Average Loss 0.354 Time : 200
+INFO:__main__:Epoch 18 : Avg Error 0.586; Average Loss 0.687 Time : 156
+INFO:__main__:Epoch 19 : Avg Error 0.473; Average Loss 0.396 Time : 161
+INFO:__main__:Epoch 19 : Avg Error 0.476; Average Loss 0.344 Time : 160
+INFO:__main__:Epoch 19 : Avg Error 0.583; Average Loss 0.688 Time : 158
+INFO:__main__:Epoch 20 : Avg Error 0.458; Average Loss 0.373 Time : 161
+INFO:__main__:Epoch 20 : Avg Error 0.480; Average Loss 0.361 Time : 161
+INFO:__main__:Epoch 20 : Avg Error 0.554; Average Loss 0.617 Time : 161
+INFO:__main__:Epoch 21 : Avg Error 0.477; Average Loss 0.388 Time : 161
+INFO:__main__:Epoch 21 : Avg Error 0.464; Average Loss 0.330 Time : 172
+INFO:__main__:Epoch 21 : Avg Error 0.543; Average Loss 0.641 Time : 191
+INFO:__main__:Epoch 22 : Avg Error 0.451; Average Loss 0.364 Time : 192
+INFO:__main__:Epoch 22 : Avg Error 0.458; Average Loss 0.319 Time : 183
+INFO:__main__:Epoch 22 : Avg Error 0.531; Average Loss 0.632 Time : 159
+INFO:__main__:Epoch 23 : Avg Error 0.449; Average Loss 0.370 Time : 161
+INFO:__main__:Epoch 23 : Avg Error 0.457; Average Loss 0.317 Time : 160
+INFO:__main__:Epoch 23 : Avg Error 0.515; Average Loss 0.572 Time : 157
+INFO:__main__:Epoch 24 : Avg Error 0.450; Average Loss 0.358 Time : 161
+INFO:__main__:Epoch 24 : Avg Error 0.455; Average Loss 0.313 Time : 163
+INFO:__main__:Epoch 24 : Avg Error 0.528; Average Loss 0.598 Time : 162
+INFO:__main__:Epoch 25 : Avg Error 0.424; Average Loss 0.342 Time : 161
+INFO:__main__:Epoch 25 : Avg Error 0.460; Average Loss 0.322 Time : 166
+INFO:__main__:Epoch 25 : Avg Error 0.499; Average Loss 0.538 Time : 164
+INFO:__main__:Epoch 26 : Avg Error 0.432; Average Loss 0.345 Time : 161
+INFO:__main__:Epoch 26 : Avg Error 0.449; Average Loss 0.304 Time : 165
+INFO:__main__:Epoch 26 : Avg Error 0.516; Average Loss 0.541 Time : 165
+/var/lib/slurm/slurmd/job68295/slurm_script: line 19: 14088 Killed                  python3 scripts/main_gnn_qm9.py --lr $lr --lrdamping $lrdamp --step $step --data_path $data_path --epochs $epochs
+INFO:__main__:Epoch 27 : Avg Error 0.436; Average Loss 0.292 Time : 699
+INFO:__main__:Epoch 27 : Avg Error 0.503; Average Loss 0.507 Time : 689
+INFO:__main__:Epoch 28 : Avg Error 0.438; Average Loss 0.295 Time : 166
+INFO:__main__:Epoch 28 : Avg Error 0.506; Average Loss 0.513 Time : 159
+INFO:__main__:Epoch 29 : Avg Error 0.434; Average Loss 0.287 Time : 166
+INFO:__main__:Epoch 29 : Avg Error 0.508; Average Loss 0.505 Time : 159
+INFO:__main__:Epoch 30 : Avg Error 0.430; Average Loss 0.285 Time : 170
+INFO:__main__:Epoch 30 : Avg Error 0.511; Average Loss 0.478 Time : 164
+INFO:__main__:Epoch 31 : Avg Error 0.422; Average Loss 0.275 Time : 173
+INFO:__main__:Epoch 31 : Avg Error 0.482; Average Loss 0.450 Time : 165
+INFO:__main__:Epoch 32 : Avg Error 0.421; Average Loss 0.276 Time : 170
+INFO:__main__:Epoch 32 : Avg Error 0.496; Average Loss 0.457 Time : 166
+INFO:__main__:Epoch 33 : Avg Error 0.419; Average Loss 0.273 Time : 173
+INFO:__main__:Epoch 33 : Avg Error 0.489; Average Loss 0.440 Time : 165
+INFO:__main__:Epoch 34 : Avg Error 0.419; Average Loss 0.271 Time : 173
+INFO:__main__:Epoch 34 : Avg Error 0.487; Average Loss 0.449 Time : 165
+INFO:__main__:Epoch 35 : Avg Error 0.463; Average Loss 0.423 Time : 166
+INFO:__main__:Epoch 35 : Avg Error 0.413; Average Loss 0.269 Time : 174
+INFO:__main__:Epoch 36 : Avg Error 0.467; Average Loss 0.424 Time : 2141
+INFO:__main__:Epoch 36 : Avg Error 0.412; Average Loss 0.266 Time : 2138
+INFO:__main__:Epoch 37 : Avg Error 0.459; Average Loss 0.389 Time : 165
+INFO:__main__:Epoch 37 : Avg Error 0.399; Average Loss 0.254 Time : 167
+INFO:__main__:Epoch 38 : Avg Error 0.480; Average Loss 0.415 Time : 169
+INFO:__main__:Epoch 38 : Avg Error 0.407; Average Loss 0.259 Time : 171
+INFO:__main__:Epoch 39 : Avg Error 0.476; Average Loss 0.413 Time : 170
+INFO:__main__:Epoch 39 : Avg Error 0.403; Average Loss 0.254 Time : 172
+INFO:__main__:Epoch 40 : Avg Error 0.470; Average Loss 0.398 Time : 175
+INFO:__main__:Epoch 40 : Avg Error 0.397; Average Loss 0.250 Time : 206
+/var/lib/slurm/slurmd/job68296/slurm_script: line 19: 14099 Killed                  python3 scripts/main_gnn_qm9.py --lr $lr --lrdamping $lrdamp --step $step --data_path $data_path --epochs $epochs
+INFO:__main__:Epoch 41 : Avg Error 0.402; Average Loss 0.253 Time : 202
+INFO:__main__:Epoch 42 : Avg Error 0.399; Average Loss 0.249 Time : 166
+INFO:__main__:Epoch 43 : Avg Error 0.399; Average Loss 0.255 Time : 165
+INFO:__main__:Epoch 44 : Avg Error 0.399; Average Loss 0.256 Time : 168
+INFO:__main__:Epoch 45 : Avg Error 0.400; Average Loss 0.254 Time : 168
+INFO:__main__:Epoch 46 : Avg Error 0.397; Average Loss 0.253 Time : 174
+INFO:__main__:Epoch 47 : Avg Error 0.396; Average Loss 0.253 Time : 239
+/var/lib/slurm/slurmd/job68294/slurm_script: line 19: 14133 Killed                  python3 scripts/main_gnn_qm9.py --lr $lr --lrdamping $lrdamp --step $step --data_path $data_path --epochs $epochs

@@ -1,0 +1,18 @@
+INFO:__main__:Log path : log/qm9/ccn_k_2_ep_20_st_5_op_adamax_lr_0.0001_da_0.9_L_2_h_2_ta_0_096.pickle
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:__main__:Number of training instances : 107108
+INFO:__main__:Number of validation instances : 13388
+INFO:__main__:Number of test instances : 13389
+INFO:__main__:Second-order CCN created
+INFO:__main__:Training the CCN...
+INFO:__main__:Epoch 1 : Train loss 2.123 error 4.549 Time : 27318
+INFO:__main__:Validation loss 21.407 error 3.767
+INFO:__main__:Test loss 40.072 error 5.308
+INFO:__main__:Epoch 2 : Train loss 0.881 error 0.956 Time : 26691
+INFO:__main__:Validation loss 6.640 error 2.076
+INFO:__main__:Test loss 48.099 error 6.020
+INFO:__main__:Epoch 3 : Train loss 0.376 error 0.189 Time : 26180
+INFO:__main__:Validation loss 0.991 error 0.798
+INFO:__main__:Test loss 25.420 error 4.167

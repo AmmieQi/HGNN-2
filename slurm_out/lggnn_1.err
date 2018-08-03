@@ -1,0 +1,88 @@
+INFO:__main__:Log path : log/qm9/lg_True_up_2_bs_30_ep_30_st_10_op_adamax_lr_0.0004_da_0.9_L_20_h_2_ta_0_015.pickle
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Epoch 1 : Avg Error 0.725; Average Loss 0.811 Time : 359
+INFO:__main__:Epoch 2 : Avg Error 0.597; Average Loss 0.531 Time : 362
+INFO:__main__:Epoch 3 : Avg Error 0.518; Average Loss 0.420 Time : 362
+INFO:__main__:Epoch 4 : Avg Error 0.458; Average Loss 0.356 Time : 369
+INFO:__main__:Epoch 5 : Avg Error 0.426; Average Loss 0.315 Time : 869
+INFO:__main__:Epoch 6 : Avg Error 0.413; Average Loss 0.293 Time : 518
+INFO:__main__:Epoch 7 : Avg Error 0.413; Average Loss 0.286 Time : 419
+INFO:__main__:Epoch 8 : Avg Error 0.408; Average Loss 0.277 Time : 363
+INFO:__main__:Epoch 9 : Avg Error 0.391; Average Loss 0.260 Time : 364
+INFO:__main__:Epoch 10 : Avg Error 0.373; Average Loss 0.239 Time : 411
+INFO:__main__:Epoch 11 : Avg Error 0.377; Average Loss 0.237 Time : 379
+INFO:__main__:Epoch 12 : Avg Error 0.382; Average Loss 0.241 Time : 451
+INFO:__main__:Epoch 13 : Avg Error 0.376; Average Loss 0.232 Time : 375
+INFO:__main__:Epoch 14 : Avg Error 0.380; Average Loss 0.234 Time : 364
+INFO:__main__:Epoch 15 : Avg Error 0.377; Average Loss 0.232 Time : 365
+INFO:__main__:Epoch 16 : Avg Error 0.377; Average Loss 0.232 Time : 366
+INFO:__main__:Epoch 17 : Avg Error 0.374; Average Loss 0.228 Time : 366
+INFO:__main__:Epoch 18 : Avg Error 0.372; Average Loss 0.225 Time : 365
+INFO:__main__:Epoch 19 : Avg Error 0.356; Average Loss 0.210 Time : 366
+INFO:__main__:Epoch 20 : Avg Error 0.353; Average Loss 0.207 Time : 366
+INFO:__main__:Epoch 21 : Avg Error 0.353; Average Loss 0.209 Time : 367
+INFO:__main__:Epoch 22 : Avg Error 0.349; Average Loss 0.209 Time : 367
+INFO:__main__:Epoch 23 : Avg Error 0.349; Average Loss 0.210 Time : 373
+INFO:__main__:Epoch 24 : Avg Error 0.351; Average Loss 0.215 Time : 385
+INFO:__main__:Epoch 25 : Avg Error 0.353; Average Loss 0.220 Time : 385
+INFO:__main__:Epoch 26 : Avg Error 0.349; Average Loss 0.219 Time : 385
+INFO:__main__:Epoch 27 : Avg Error 0.347; Average Loss 0.213 Time : 385
+INFO:__main__:Epoch 28 : Avg Error 0.342; Average Loss 0.208 Time : 385
+INFO:__main__:Epoch 29 : Avg Error 0.336; Average Loss 0.200 Time : 386
+INFO:__main__:Epoch 30 : Avg Error 0.331; Average Loss 0.195 Time : 386
+INFO:__main__:Training finished : Duration 11963 secs, Avg Loss 0.195, Mean Average Error 0.331, Error ratio 3.315
+INFO:root:Model saved
+INFO:__main__:Evaluating on the validation set...
+WARNING:root:Testing on 1338 molecules
+INFO:root:Batch 1 Loss : 0.070 Error : 0.205
+INFO:root:Batch 2 Loss : 0.106 Error : 0.277
+INFO:root:Batch 3 Loss : 0.054 Error : 0.190
+INFO:root:Batch 4 Loss : 0.077 Error : 0.229
+INFO:root:Batch 5 Loss : 0.102 Error : 0.274
+INFO:root:Batch 6 Loss : 0.109 Error : 0.280
+INFO:root:Batch 7 Loss : 0.147 Error : 0.300
+INFO:root:Batch 8 Loss : 0.139 Error : 0.294
+INFO:root:Batch 9 Loss : 0.199 Error : 0.349
+INFO:root:Batch 10 Loss : 0.138 Error : 0.305
+INFO:root:Batch 11 Loss : 0.111 Error : 0.263
+INFO:root:Batch 12 Loss : 0.067 Error : 0.201
+INFO:root:Batch 13 Loss : 0.081 Error : 0.231
+INFO:root:Batch 14 Loss : 0.092 Error : 0.231
+INFO:root:Batch 15 Loss : 0.112 Error : 0.239
+INFO:root:Batch 16 Loss : 0.086 Error : 0.253
+INFO:root:Batch 17 Loss : 0.136 Error : 0.289
+INFO:root:Batch 18 Loss : 0.092 Error : 0.255
+INFO:root:Batch 19 Loss : 0.203 Error : 0.345
+INFO:root:Batch 20 Loss : 0.095 Error : 0.248
+INFO:root:Batch 21 Loss : 0.148 Error : 0.301
+INFO:root:Batch 22 Loss : 0.131 Error : 0.289
+INFO:root:Batch 23 Loss : 0.185 Error : 0.336
+INFO:root:Batch 24 Loss : 0.196 Error : 0.336
+INFO:root:Batch 25 Loss : 0.098 Error : 0.251
+INFO:root:Batch 26 Loss : 0.125 Error : 0.271
+INFO:root:Batch 27 Loss : 0.158 Error : 0.288
+INFO:root:Batch 28 Loss : 0.235 Error : 0.360
+INFO:root:Batch 29 Loss : 0.087 Error : 0.224
+INFO:root:Batch 30 Loss : 0.057 Error : 0.190
+INFO:root:Batch 31 Loss : 0.117 Error : 0.271
+INFO:root:Batch 32 Loss : 0.128 Error : 0.275
+INFO:root:Batch 33 Loss : 0.211 Error : 0.327
+INFO:root:Batch 34 Loss : 0.153 Error : 0.285
+INFO:root:Batch 35 Loss : 0.126 Error : 0.276
+INFO:root:Batch 36 Loss : 0.090 Error : 0.250
+INFO:root:Batch 37 Loss : 0.107 Error : 0.245
+INFO:root:Batch 38 Loss : 0.066 Error : 0.192
+INFO:root:Batch 39 Loss : 0.252 Error : 0.335
+INFO:root:Batch 40 Loss : 0.096 Error : 0.260
+INFO:root:Batch 41 Loss : 0.074 Error : 0.213
+INFO:root:Batch 42 Loss : 0.100 Error : 0.271
+INFO:root:Batch 43 Loss : 0.081 Error : 0.230
+INFO:root:Batch 44 Loss : 0.108 Error : 0.275
+INFO:root:Batch 45 Loss : 0.204 Error : 0.324
+INFO:__main__:Validation finished : Avg loss 0.123, Mean Average Error 0.269, Error ratio 2.692

@@ -1,0 +1,111 @@
+INFO:__main__:Log path : log/ccn/k_2_ep_50_st_1_op_adamax_lr_0.001_da_0.93_L_2_h_2_ta_0_618.pickle
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:__main__:Number of training instances : 8000
+INFO:__main__:Number of validation instances : 1000
+INFO:__main__:Second-order CCN created
+INFO:__main__:Training the CCN...
+INFO:__main__:Epoch 1 : Avg Error 2.907; Average Loss 8.621 Time : 1705
+INFO:__main__:Epoch 2 : Avg Error 0.418; Average Loss 0.919 Time : 1842
+INFO:__main__:Epoch 3 : Avg Error 0.397; Average Loss 0.237 Time : 1695
+INFO:__main__:Epoch 4 : Avg Error 0.191; Average Loss 0.061 Time : 1690
+INFO:__main__:Epoch 5 : Avg Error 0.342; Average Loss 0.124 Time : 2080
+INFO:__main__:Epoch 6 : Avg Error 0.310; Average Loss 0.100 Time : 1672
+INFO:__main__:Epoch 7 : Avg Error 0.346; Average Loss 0.123 Time : 1673
+INFO:__main__:Epoch 8 : Avg Error 0.369; Average Loss 0.140 Time : 1666
+INFO:__main__:Epoch 9 : Avg Error 0.527; Average Loss 0.288 Time : 1666
+INFO:__main__:Epoch 10 : Avg Error 0.234; Average Loss 0.071 Time : 1810
+INFO:__main__:Epoch 11 : Avg Error 0.200; Average Loss 0.048 Time : 1636
+INFO:__main__:Epoch 12 : Avg Error 0.288; Average Loss 0.089 Time : 1635
+INFO:__main__:Epoch 13 : Avg Error 0.196; Average Loss 0.046 Time : 1635
+INFO:__main__:Epoch 14 : Avg Error 0.179; Average Loss 0.039 Time : 1636
+INFO:__main__:Epoch 15 : Avg Error 0.170; Average Loss 0.036 Time : 1652
+INFO:__main__:Epoch 16 : Avg Error 0.164; Average Loss 0.034 Time : 1662
+INFO:__main__:Epoch 17 : Avg Error 0.159; Average Loss 0.032 Time : 1658
+INFO:__main__:Epoch 18 : Avg Error 0.153; Average Loss 0.031 Time : 1658
+INFO:__main__:Epoch 19 : Avg Error 0.149; Average Loss 0.029 Time : 1658
+INFO:__main__:Epoch 20 : Avg Error 0.144; Average Loss 0.028 Time : 1658
+INFO:__main__:Epoch 21 : Avg Error 0.139; Average Loss 0.027 Time : 1658
+INFO:__main__:Epoch 22 : Avg Error 0.134; Average Loss 0.025 Time : 1657
+INFO:__main__:Epoch 23 : Avg Error 0.129; Average Loss 0.024 Time : 1646
+INFO:__main__:Epoch 24 : Avg Error 0.123; Average Loss 0.023 Time : 1651
+INFO:__main__:Epoch 25 : Avg Error 0.117; Average Loss 0.021 Time : 1656
+INFO:__main__:Epoch 26 : Avg Error 0.111; Average Loss 0.020 Time : 1655
+INFO:__main__:Epoch 27 : Avg Error 0.105; Average Loss 0.019 Time : 1655
+INFO:__main__:Epoch 28 : Avg Error 0.098; Average Loss 0.017 Time : 1656
+INFO:__main__:Epoch 29 : Avg Error 0.090; Average Loss 0.016 Time : 1655
+INFO:__main__:Epoch 30 : Avg Error 0.083; Average Loss 0.015 Time : 1656
+INFO:__main__:Epoch 31 : Avg Error 0.076; Average Loss 0.014 Time : 1655
+INFO:__main__:Epoch 32 : Avg Error 0.069; Average Loss 0.013 Time : 1655
+INFO:__main__:Epoch 33 : Avg Error 0.063; Average Loss 0.012 Time : 1655
+INFO:__main__:Epoch 34 : Avg Error 0.056; Average Loss 0.011 Time : 1655
+INFO:__main__:Epoch 35 : Avg Error 0.050; Average Loss 0.011 Time : 1656
+INFO:__main__:Epoch 36 : Avg Error 0.045; Average Loss 0.010 Time : 1655
+INFO:__main__:Epoch 37 : Avg Error 0.040; Average Loss 0.010 Time : 1656
+INFO:__main__:Epoch 38 : Avg Error 0.036; Average Loss 0.010 Time : 1655
+INFO:__main__:Epoch 39 : Avg Error 0.031; Average Loss 0.009 Time : 1655
+INFO:__main__:Epoch 40 : Avg Error 0.028; Average Loss 0.009 Time : 1656
+INFO:__main__:Epoch 41 : Avg Error 0.024; Average Loss 0.009 Time : 1655
+INFO:__main__:Epoch 42 : Avg Error 0.024; Average Loss 0.009 Time : 1655
+INFO:__main__:Epoch 43 : Avg Error 0.025; Average Loss 0.009 Time : 1655
+INFO:__main__:Epoch 44 : Avg Error 0.027; Average Loss 0.009 Time : 1655
+INFO:__main__:Epoch 45 : Avg Error 0.029; Average Loss 0.009 Time : 1655
+INFO:__main__:Epoch 46 : Avg Error 0.030; Average Loss 0.009 Time : 1656
+INFO:__main__:Epoch 47 : Avg Error 0.032; Average Loss 0.008 Time : 1655
+INFO:__main__:Epoch 48 : Avg Error 0.033; Average Loss 0.008 Time : 1655
+INFO:__main__:Epoch 49 : Avg Error 0.034; Average Loss 0.008 Time : 1655
+INFO:__main__:Epoch 50 : Avg Error 0.036; Average Loss 0.008 Time : 1656
+INFO:__main__:Training finished : Duration 83637 secs, Avg Loss 0.008, Mean Average Error 0.036, Error ratio 0.356
+ERROR:root:Issue saving model or model parameters
+INFO:__main__:Evaluating on the validation set...
+INFO:root:After 1 instances: Average Loss : 0.008 Average Error : 0.090
+INFO:root:After 21 instances: Average Loss : 0.296 Average Error : 0.360
+INFO:root:After 41 instances: Average Loss : 0.213 Average Error : 0.300
+INFO:root:After 61 instances: Average Loss : 0.172 Average Error : 0.272
+INFO:root:After 81 instances: Average Loss : 0.407 Average Error : 0.333
+INFO:root:After 101 instances: Average Loss : 0.429 Average Error : 0.362
+INFO:root:After 121 instances: Average Loss : 0.377 Average Error : 0.342
+INFO:root:After 141 instances: Average Loss : 0.349 Average Error : 0.339
+INFO:root:After 161 instances: Average Loss : 0.325 Average Error : 0.336
+INFO:root:After 181 instances: Average Loss : 0.317 Average Error : 0.338
+INFO:root:After 201 instances: Average Loss : 0.361 Average Error : 0.354
+INFO:root:After 221 instances: Average Loss : 0.339 Average Error : 0.346
+INFO:root:After 241 instances: Average Loss : 0.326 Average Error : 0.342
+INFO:root:After 261 instances: Average Loss : 0.329 Average Error : 0.343
+INFO:root:After 281 instances: Average Loss : 0.315 Average Error : 0.336
+INFO:root:After 301 instances: Average Loss : 0.318 Average Error : 0.342
+INFO:root:After 321 instances: Average Loss : 0.306 Average Error : 0.338
+INFO:root:After 341 instances: Average Loss : 0.305 Average Error : 0.336
+INFO:root:After 361 instances: Average Loss : 0.295 Average Error : 0.333
+INFO:root:After 381 instances: Average Loss : 0.288 Average Error : 0.328
+INFO:root:After 401 instances: Average Loss : 0.280 Average Error : 0.326
+INFO:root:After 421 instances: Average Loss : 0.272 Average Error : 0.322
+INFO:root:After 441 instances: Average Loss : 0.261 Average Error : 0.313
+INFO:root:After 461 instances: Average Loss : 0.253 Average Error : 0.308
+INFO:root:After 481 instances: Average Loss : 0.273 Average Error : 0.317
+INFO:root:After 501 instances: Average Loss : 0.269 Average Error : 0.317
+INFO:root:After 521 instances: Average Loss : 0.264 Average Error : 0.316
+INFO:root:After 541 instances: Average Loss : 0.259 Average Error : 0.313
+INFO:root:After 561 instances: Average Loss : 0.257 Average Error : 0.315
+INFO:root:After 581 instances: Average Loss : 0.256 Average Error : 0.316
+INFO:root:After 601 instances: Average Loss : 0.255 Average Error : 0.317
+INFO:root:After 621 instances: Average Loss : 0.260 Average Error : 0.322
+INFO:root:After 641 instances: Average Loss : 0.265 Average Error : 0.323
+INFO:root:After 661 instances: Average Loss : 0.261 Average Error : 0.322
+INFO:root:After 681 instances: Average Loss : 0.264 Average Error : 0.326
+INFO:root:After 701 instances: Average Loss : 0.263 Average Error : 0.327
+INFO:root:After 721 instances: Average Loss : 0.259 Average Error : 0.327
+INFO:root:After 741 instances: Average Loss : 0.254 Average Error : 0.323
+INFO:root:After 761 instances: Average Loss : 0.265 Average Error : 0.326
+INFO:root:After 781 instances: Average Loss : 0.265 Average Error : 0.326
+INFO:root:After 801 instances: Average Loss : 0.264 Average Error : 0.327
+INFO:root:After 821 instances: Average Loss : 0.267 Average Error : 0.328
+INFO:root:After 841 instances: Average Loss : 0.263 Average Error : 0.325
+INFO:root:After 861 instances: Average Loss : 0.263 Average Error : 0.326
+INFO:root:After 881 instances: Average Loss : 0.272 Average Error : 0.331
+INFO:root:After 901 instances: Average Loss : 0.274 Average Error : 0.331
+INFO:root:After 921 instances: Average Loss : 0.271 Average Error : 0.330
+INFO:root:After 941 instances: Average Loss : 0.272 Average Error : 0.330
+INFO:root:After 961 instances: Average Loss : 0.270 Average Error : 0.330
+INFO:root:After 981 instances: Average Loss : 0.266 Average Error : 0.327
+INFO:__main__:Validation finished : Avg loss 0.262, Mean Average Error 0.325, Error ratio 3.249, Duration : 149 seconds

@@ -1,0 +1,30 @@
+INFO:__main__:Log path : log/qm9/lg_True_up_2_bs_10_ep_5_st_10_op_adamax_lr_0.0004_da_0.9_L_20_h_2_ta_0_645.pickle
+INFO:__main__:Log path : log/qm9/lg_True_up_2_bs_10_ep_5_st_10_op_adamax_lr_0.0004_da_0.9_L_20_h_2_ta_0_604.pickle
+INFO:__main__:Log path : log/qm9/lg_True_up_2_bs_10_ep_5_st_10_op_adamax_lr_0.0004_da_0.9_L_20_h_2_ta_0_053.pickle
+INFO:root:New directory created
+INFO:root:New directory created
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:__main__:Number of training instances : 107108
+INFO:__main__:Number of validation instances : 13388
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Number of training instances : 107108
+INFO:__main__:Number of validation instances : 13388
+INFO:__main__:Number of training instances : 107108
+INFO:__main__:Number of validation instances : 13388
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+/var/lib/slurm/slurmd/job68777/slurm_script: line 21: 31636 Killed                  python3 scripts/main_gnn_qm9.py --lg True --update $u --lr $lr --lrdamping $lrd --step $step --epochs $epochs --bs $bs --data_path $data_path
+/var/lib/slurm/slurmd/job68779/slurm_script: line 21: 31650 Killed                  python3 scripts/main_gnn_qm9.py --lg True --update $u --lr $lr --lrdamping $lrd --step $step --epochs $epochs --bs $bs --data_path $data_path
+/var/lib/slurm/slurmd/job68780/slurm_script: line 21: 20770 Killed                  python3 scripts/main_gnn_qm9.py --lg True --update $u --lr $lr --lrdamping $lrd --step $step --epochs $epochs --bs $bs --data_path $data_path
+INFO:__main__:Epoch 1 : Avg Error 0.218; Average Loss 0.069 Time : 4779
+/var/lib/slurm/slurmd/job68778/slurm_script: line 21: 31644 Killed                  python3 scripts/main_gnn_qm9.py --lg True --update $u --lr $lr --lrdamping $lrd --step $step --epochs $epochs --bs $bs --data_path $data_path
+/var/lib/slurm/slurmd/job68776/slurm_script: line 21: 20769 Killed                  python3 scripts/main_gnn_qm9.py --lg True --update $u --lr $lr --lrdamping $lrd --step $step --epochs $epochs --bs $bs --data_path $data_path

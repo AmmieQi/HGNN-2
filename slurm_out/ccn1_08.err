@@ -1,0 +1,665 @@
+INFO:__main__:Log path : log/qm9/ccn_k_1_ep_40_st_10_op_adamax_lr_0.0004_da_0.9_L_7_h_2_ta_0_812.pickle
+INFO:__main__:Log path : log/qm9/ccn_k_1_ep_40_st_10_op_adamax_lr_0.0004_da_0.9_L_7_h_2_ta_0_055.pickle
+INFO:__main__:Log path : log/qm9/ccn_k_1_ep_40_st_10_op_adamax_lr_0.0004_da_0.9_L_7_h_2_ta_0_916.pickle
+INFO:__main__:Log path : log/qm9/ccn_k_1_ep_40_st_10_op_adamax_lr_0.0004_da_0.9_L_7_h_2_ta_0_711.pickle
+INFO:__main__:Log path : log/qm9/ccn_k_1_ep_40_st_10_op_adamax_lr_0.0004_da_0.9_L_7_h_2_ta_0_855.pickle
+INFO:root:New directory created
+INFO:root:New directory created
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Number of test instances : 1340
+INFO:__main__:First-order CCN created
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Number of test instances : 1340
+INFO:__main__:First-order CCN created
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Number of test instances : 1340
+INFO:__main__:First-order CCN created
+INFO:__main__:Training the CCN...
+INFO:__main__:Training the CCN...
+INFO:__main__:Training the CCN...
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Number of test instances : 1340
+INFO:__main__:First-order CCN created
+INFO:__main__:Training the CCN...
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Number of test instances : 1340
+INFO:__main__:First-order CCN created
+INFO:__main__:Training the CCN...
+INFO:__main__:Epoch 1 : Train loss 0.188 error 0.040 Time : 858
+INFO:__main__:Validation loss 0.518 error 0.514
+INFO:__main__:Test loss 0.563 error 0.519
+INFO:__main__:Epoch 1 : Train loss 0.127 error 0.030 Time : 861
+INFO:__main__:Validation loss 0.428 error 0.447
+INFO:__main__:Test loss 0.464 error 0.448
+INFO:__main__:Epoch 1 : Train loss 0.603 error 0.396 Time : 870
+INFO:__main__:Validation loss 0.563 error 0.522
+INFO:__main__:Test loss 0.606 error 0.531
+INFO:__main__:Epoch 1 : Train loss 0.106 error 0.025 Time : 879
+INFO:__main__:Validation loss 0.429 error 0.471
+INFO:__main__:Test loss 0.461 error 0.469
+INFO:__main__:Epoch 1 : Train loss 0.461 error 0.216 Time : 897
+INFO:__main__:Validation loss 0.524 error 0.538
+INFO:__main__:Test loss 0.576 error 0.552
+INFO:__main__:Epoch 2 : Train loss 0.134 error 0.034 Time : 868
+INFO:__main__:Validation loss 0.449 error 0.452
+INFO:__main__:Test loss 0.502 error 0.460
+INFO:__main__:Epoch 2 : Train loss 0.074 error 0.022 Time : 866
+INFO:__main__:Validation loss 0.415 error 0.434
+INFO:__main__:Test loss 0.450 error 0.434
+INFO:__main__:Epoch 2 : Train loss 0.308 error 0.108 Time : 879
+INFO:__main__:Validation loss 0.445 error 0.431
+INFO:__main__:Test loss 0.491 error 0.439
+INFO:__main__:Epoch 2 : Train loss 0.171 error 0.042 Time : 882
+INFO:__main__:Validation loss 0.405 error 0.446
+INFO:__main__:Test loss 0.442 error 0.449
+INFO:__main__:Epoch 2 : Train loss 0.162 error 0.052 Time : 907
+INFO:__main__:Validation loss 0.426 error 0.453
+INFO:__main__:Test loss 0.476 error 0.459
+INFO:__main__:Epoch 3 : Train loss 0.059 error 0.021 Time : 851
+INFO:__main__:Validation loss 0.408 error 0.430
+INFO:__main__:Test loss 0.442 error 0.431
+INFO:__main__:Epoch 3 : Train loss 0.103 error 0.029 Time : 874
+INFO:__main__:Validation loss 0.431 error 0.438
+INFO:__main__:Test loss 0.483 error 0.447
+INFO:__main__:Epoch 3 : Train loss 0.167 error 0.036 Time : 878
+INFO:__main__:Validation loss 0.425 error 0.423
+INFO:__main__:Test loss 0.470 error 0.429
+INFO:__main__:Epoch 3 : Train loss 0.174 error 0.042 Time : 868
+INFO:__main__:Validation loss 0.395 error 0.436
+INFO:__main__:Test loss 0.432 error 0.441
+INFO:__main__:Epoch 3 : Train loss 0.073 error 0.025 Time : 906
+INFO:__main__:Validation loss 0.411 error 0.436
+INFO:__main__:Test loss 0.458 error 0.442
+INFO:__main__:Epoch 4 : Train loss 0.059 error 0.020 Time : 849
+INFO:__main__:Validation loss 0.402 error 0.427
+INFO:__main__:Test loss 0.436 error 0.428
+INFO:__main__:Epoch 4 : Train loss 0.087 error 0.027 Time : 873
+INFO:__main__:Validation loss 0.420 error 0.430
+INFO:__main__:Test loss 0.470 error 0.439
+INFO:__main__:Epoch 4 : Train loss 0.175 error 0.042 Time : 867
+INFO:__main__:Validation loss 0.387 error 0.428
+INFO:__main__:Test loss 0.425 error 0.435
+INFO:__main__:Epoch 4 : Train loss 0.103 error 0.021 Time : 875
+INFO:__main__:Validation loss 0.419 error 0.424
+INFO:__main__:Test loss 0.463 error 0.429
+INFO:__main__:Epoch 4 : Train loss 0.081 error 0.022 Time : 904
+INFO:__main__:Validation loss 0.404 error 0.431
+INFO:__main__:Test loss 0.448 error 0.436
+INFO:__main__:Epoch 5 : Train loss 0.060 error 0.020 Time : 850
+INFO:__main__:Validation loss 0.397 error 0.424
+INFO:__main__:Test loss 0.431 error 0.426
+INFO:__main__:Epoch 5 : Train loss 0.083 error 0.026 Time : 874
+INFO:__main__:Validation loss 0.411 error 0.425
+INFO:__main__:Test loss 0.459 error 0.433
+INFO:__main__:Epoch 5 : Train loss 0.176 error 0.042 Time : 867
+INFO:__main__:Validation loss 0.381 error 0.422
+INFO:__main__:Test loss 0.419 error 0.431
+INFO:__main__:Epoch 5 : Train loss 0.075 error 0.019 Time : 877
+INFO:__main__:Validation loss 0.415 error 0.425
+INFO:__main__:Test loss 0.458 error 0.429
+INFO:__main__:Epoch 5 : Train loss 0.085 error 0.021 Time : 906
+INFO:__main__:Validation loss 0.399 error 0.428
+INFO:__main__:Test loss 0.440 error 0.432
+INFO:__main__:Epoch 6 : Train loss 0.064 error 0.020 Time : 850
+INFO:__main__:Validation loss 0.392 error 0.421
+INFO:__main__:Test loss 0.426 error 0.423
+INFO:__main__:Epoch 6 : Train loss 0.082 error 0.025 Time : 874
+INFO:__main__:Validation loss 0.403 error 0.420
+INFO:__main__:Test loss 0.450 error 0.429
+INFO:__main__:Epoch 6 : Train loss 0.175 error 0.041 Time : 868
+INFO:__main__:Validation loss 0.376 error 0.418
+INFO:__main__:Test loss 0.414 error 0.428
+INFO:__main__:Epoch 6 : Train loss 0.062 error 0.018 Time : 877
+INFO:__main__:Validation loss 0.412 error 0.424
+INFO:__main__:Test loss 0.453 error 0.428
+INFO:__main__:Epoch 6 : Train loss 0.086 error 0.021 Time : 906
+INFO:__main__:Validation loss 0.394 error 0.425
+INFO:__main__:Test loss 0.433 error 0.429
+INFO:__main__:Epoch 7 : Train loss 0.061 error 0.020 Time : 850
+INFO:__main__:Validation loss 0.387 error 0.418
+INFO:__main__:Test loss 0.421 error 0.421
+INFO:__main__:Epoch 7 : Train loss 0.087 error 0.026 Time : 873
+INFO:__main__:Validation loss 0.397 error 0.418
+INFO:__main__:Test loss 0.442 error 0.426
+INFO:__main__:Epoch 7 : Train loss 0.174 error 0.041 Time : 867
+INFO:__main__:Validation loss 0.372 error 0.414
+INFO:__main__:Test loss 0.410 error 0.425
+INFO:__main__:Epoch 7 : Train loss 0.055 error 0.018 Time : 875
+INFO:__main__:Validation loss 0.409 error 0.424
+INFO:__main__:Test loss 0.449 error 0.427
+INFO:__main__:Epoch 7 : Train loss 0.088 error 0.021 Time : 904
+INFO:__main__:Validation loss 0.389 error 0.422
+INFO:__main__:Test loss 0.426 error 0.426
+INFO:__main__:Epoch 8 : Train loss 0.056 error 0.019 Time : 849
+INFO:__main__:Validation loss 0.382 error 0.416
+INFO:__main__:Test loss 0.416 error 0.419
+INFO:__main__:Epoch 8 : Train loss 0.171 error 0.040 Time : 867
+INFO:__main__:Validation loss 0.368 error 0.412
+INFO:__main__:Test loss 0.406 error 0.423
+INFO:__main__:Epoch 8 : Train loss 0.085 error 0.025 Time : 874
+INFO:__main__:Validation loss 0.390 error 0.416
+INFO:__main__:Test loss 0.434 error 0.424
+INFO:__main__:Epoch 8 : Train loss 0.050 error 0.018 Time : 877
+INFO:__main__:Validation loss 0.407 error 0.423
+INFO:__main__:Test loss 0.445 error 0.426
+INFO:__main__:Epoch 8 : Train loss 0.091 error 0.021 Time : 905
+INFO:__main__:Validation loss 0.385 error 0.419
+INFO:__main__:Test loss 0.420 error 0.423
+INFO:__main__:Epoch 9 : Train loss 0.051 error 0.019 Time : 853
+INFO:__main__:Validation loss 0.378 error 0.413
+INFO:__main__:Test loss 0.411 error 0.417
+INFO:__main__:Epoch 9 : Train loss 0.078 error 0.025 Time : 871
+INFO:__main__:Validation loss 0.385 error 0.414
+INFO:__main__:Test loss 0.428 error 0.423
+INFO:__main__:Epoch 9 : Train loss 0.166 error 0.038 Time : 873
+INFO:__main__:Validation loss 0.365 error 0.409
+INFO:__main__:Test loss 0.403 error 0.420
+INFO:__main__:Epoch 9 : Train loss 0.047 error 0.017 Time : 885
+INFO:__main__:Validation loss 0.404 error 0.422
+INFO:__main__:Test loss 0.441 error 0.425
+INFO:__main__:Epoch 9 : Train loss 0.095 error 0.022 Time : 930
+INFO:__main__:Validation loss 0.380 error 0.416
+INFO:__main__:Test loss 0.415 error 0.420
+INFO:__main__:Epoch 10 : Train loss 0.047 error 0.019 Time : 862
+INFO:__main__:Validation loss 0.373 error 0.410
+INFO:__main__:Test loss 0.406 error 0.415
+INFO:__main__:Epoch 10 : Train loss 0.069 error 0.024 Time : 861
+INFO:__main__:Validation loss 0.380 error 0.412
+INFO:__main__:Test loss 0.421 error 0.420
+INFO:__main__:Epoch 10 : Train loss 0.160 error 0.036 Time : 879
+INFO:__main__:Validation loss 0.362 error 0.408
+INFO:__main__:Test loss 0.399 error 0.418
+INFO:__main__:Epoch 10 : Train loss 0.044 error 0.017 Time : 908
+INFO:__main__:Validation loss 0.402 error 0.421
+INFO:__main__:Test loss 0.437 error 0.423
+INFO:__main__:Epoch 10 : Train loss 0.100 error 0.023 Time : 930
+INFO:__main__:Validation loss 0.376 error 0.414
+INFO:__main__:Test loss 0.409 error 0.418
+INFO:__main__:Epoch 11 : Train loss 0.048 error 0.019 Time : 863
+INFO:__main__:Validation loss 0.369 error 0.408
+INFO:__main__:Test loss 0.402 error 0.412
+INFO:__main__:Epoch 11 : Train loss 0.062 error 0.024 Time : 858
+INFO:__main__:Validation loss 0.375 error 0.410
+INFO:__main__:Test loss 0.415 error 0.417
+INFO:__main__:Epoch 11 : Train loss 0.155 error 0.034 Time : 879
+INFO:__main__:Validation loss 0.359 error 0.406
+INFO:__main__:Test loss 0.396 error 0.417
+INFO:__main__:Epoch 11 : Train loss 0.042 error 0.017 Time : 902
+INFO:__main__:Validation loss 0.400 error 0.420
+INFO:__main__:Test loss 0.434 error 0.422
+INFO:__main__:Epoch 11 : Train loss 0.107 error 0.024 Time : 933
+INFO:__main__:Validation loss 0.372 error 0.411
+INFO:__main__:Test loss 0.404 error 0.415
+INFO:__main__:Epoch 12 : Train loss 0.044 error 0.019 Time : 861
+INFO:__main__:Validation loss 0.365 error 0.405
+INFO:__main__:Test loss 0.398 error 0.409
+INFO:__main__:Epoch 12 : Train loss 0.063 error 0.023 Time : 860
+INFO:__main__:Validation loss 0.370 error 0.407
+INFO:__main__:Test loss 0.409 error 0.414
+INFO:__main__:Epoch 12 : Train loss 0.143 error 0.031 Time : 879
+INFO:__main__:Validation loss 0.357 error 0.403
+INFO:__main__:Test loss 0.394 error 0.413
+INFO:__main__:Epoch 12 : Train loss 0.041 error 0.017 Time : 901
+INFO:__main__:Validation loss 0.398 error 0.419
+INFO:__main__:Test loss 0.431 error 0.421
+INFO:__main__:Epoch 12 : Train loss 0.109 error 0.024 Time : 932
+INFO:__main__:Validation loss 0.368 error 0.409
+INFO:__main__:Test loss 0.400 error 0.412
+INFO:__main__:Epoch 13 : Train loss 0.054 error 0.019 Time : 861
+INFO:__main__:Validation loss 0.361 error 0.403
+INFO:__main__:Test loss 0.393 error 0.406
+INFO:__main__:Epoch 13 : Train loss 0.059 error 0.023 Time : 861
+INFO:__main__:Validation loss 0.365 error 0.405
+INFO:__main__:Test loss 0.404 error 0.411
+INFO:__main__:Epoch 13 : Train loss 0.139 error 0.030 Time : 879
+INFO:__main__:Validation loss 0.355 error 0.402
+INFO:__main__:Test loss 0.391 error 0.412
+INFO:__main__:Epoch 13 : Train loss 0.042 error 0.017 Time : 902
+INFO:__main__:Validation loss 0.396 error 0.419
+INFO:__main__:Test loss 0.429 error 0.420
+INFO:__main__:Epoch 13 : Train loss 0.115 error 0.025 Time : 932
+INFO:__main__:Validation loss 0.364 error 0.407
+INFO:__main__:Test loss 0.395 error 0.410
+INFO:__main__:Epoch 14 : Train loss 0.066 error 0.020 Time : 861
+INFO:__main__:Validation loss 0.356 error 0.400
+INFO:__main__:Test loss 0.389 error 0.404
+INFO:__main__:Epoch 14 : Train loss 0.053 error 0.022 Time : 861
+INFO:__main__:Validation loss 0.361 error 0.403
+INFO:__main__:Test loss 0.398 error 0.409
+INFO:__main__:Epoch 14 : Train loss 0.136 error 0.029 Time : 879
+INFO:__main__:Validation loss 0.353 error 0.401
+INFO:__main__:Test loss 0.389 error 0.411
+INFO:__main__:Epoch 14 : Train loss 0.042 error 0.017 Time : 903
+INFO:__main__:Validation loss 0.395 error 0.418
+INFO:__main__:Test loss 0.426 error 0.419
+INFO:__main__:Epoch 14 : Train loss 0.120 error 0.027 Time : 933
+INFO:__main__:Validation loss 0.360 error 0.404
+INFO:__main__:Test loss 0.391 error 0.408
+INFO:__main__:Epoch 15 : Train loss 0.067 error 0.019 Time : 861
+INFO:__main__:Validation loss 0.352 error 0.397
+INFO:__main__:Test loss 0.384 error 0.401
+INFO:__main__:Epoch 15 : Train loss 0.048 error 0.022 Time : 860
+INFO:__main__:Validation loss 0.356 error 0.401
+INFO:__main__:Test loss 0.393 error 0.407
+INFO:__main__:Epoch 15 : Train loss 0.133 error 0.028 Time : 879
+INFO:__main__:Validation loss 0.350 error 0.400
+INFO:__main__:Test loss 0.386 error 0.410
+INFO:__main__:Epoch 15 : Train loss 0.043 error 0.016 Time : 900
+INFO:__main__:Validation loss 0.393 error 0.418
+INFO:__main__:Test loss 0.424 error 0.419
+INFO:__main__:Epoch 16 : Train loss 0.066 error 0.019 Time : 862
+INFO:__main__:Validation loss 0.347 error 0.395
+INFO:__main__:Test loss 0.380 error 0.398
+INFO:__main__:Epoch 15 : Train loss 0.126 error 0.029 Time : 938
+INFO:__main__:Validation loss 0.356 error 0.402
+INFO:__main__:Test loss 0.386 error 0.406
+INFO:__main__:Epoch 16 : Train loss 0.051 error 0.022 Time : 861
+INFO:__main__:Validation loss 0.352 error 0.399
+INFO:__main__:Test loss 0.387 error 0.404
+INFO:__main__:Epoch 16 : Train loss 0.130 error 0.027 Time : 880
+INFO:__main__:Validation loss 0.348 error 0.399
+INFO:__main__:Test loss 0.384 error 0.409
+INFO:__main__:Epoch 16 : Train loss 0.043 error 0.016 Time : 922
+INFO:__main__:Validation loss 0.392 error 0.417
+INFO:__main__:Test loss 0.422 error 0.418
+INFO:__main__:Epoch 17 : Train loss 0.068 error 0.019 Time : 864
+INFO:__main__:Validation loss 0.343 error 0.392
+INFO:__main__:Test loss 0.376 error 0.396
+INFO:__main__:Epoch 16 : Train loss 0.139 error 0.033 Time : 952
+INFO:__main__:Validation loss 0.351 error 0.400
+INFO:__main__:Test loss 0.381 error 0.404
+INFO:__main__:Epoch 17 : Train loss 0.061 error 0.022 Time : 857
+INFO:__main__:Validation loss 0.347 error 0.396
+INFO:__main__:Test loss 0.382 error 0.401
+INFO:__main__:Epoch 17 : Train loss 0.128 error 0.027 Time : 879
+INFO:__main__:Validation loss 0.346 error 0.398
+INFO:__main__:Test loss 0.382 error 0.408
+INFO:__main__:Epoch 17 : Train loss 0.043 error 0.016 Time : 910
+INFO:__main__:Validation loss 0.390 error 0.417
+INFO:__main__:Test loss 0.420 error 0.417
+INFO:__main__:Epoch 18 : Train loss 0.067 error 0.019 Time : 865
+INFO:__main__:Validation loss 0.339 error 0.390
+INFO:__main__:Test loss 0.372 error 0.394
+INFO:__main__:Epoch 18 : Train loss 0.071 error 0.023 Time : 857
+INFO:__main__:Validation loss 0.343 error 0.395
+INFO:__main__:Test loss 0.377 error 0.399
+INFO:__main__:Epoch 17 : Train loss 0.149 error 0.037 Time : 928
+INFO:__main__:Validation loss 0.346 error 0.398
+INFO:__main__:Test loss 0.376 error 0.403
+INFO:__main__:Epoch 18 : Train loss 0.125 error 0.026 Time : 880
+INFO:__main__:Validation loss 0.345 error 0.397
+INFO:__main__:Test loss 0.379 error 0.407
+INFO:__main__:Epoch 18 : Train loss 0.043 error 0.016 Time : 894
+INFO:__main__:Validation loss 0.389 error 0.416
+INFO:__main__:Test loss 0.418 error 0.417
+INFO:__main__:Epoch 19 : Train loss 0.064 error 0.019 Time : 864
+INFO:__main__:Validation loss 0.335 error 0.388
+INFO:__main__:Test loss 0.368 error 0.393
+INFO:__main__:Epoch 19 : Train loss 0.081 error 0.024 Time : 858
+INFO:__main__:Validation loss 0.339 error 0.393
+INFO:__main__:Test loss 0.372 error 0.397
+INFO:__main__:Epoch 18 : Train loss 0.158 error 0.040 Time : 917
+INFO:__main__:Validation loss 0.342 error 0.396
+INFO:__main__:Test loss 0.372 error 0.402
+INFO:__main__:Epoch 19 : Train loss 0.123 error 0.025 Time : 881
+INFO:__main__:Validation loss 0.343 error 0.397
+INFO:__main__:Test loss 0.377 error 0.406
+INFO:__main__:Epoch 19 : Train loss 0.043 error 0.016 Time : 889
+INFO:__main__:Validation loss 0.387 error 0.416
+INFO:__main__:Test loss 0.416 error 0.416
+INFO:__main__:Epoch 20 : Train loss 0.061 error 0.018 Time : 862
+INFO:__main__:Validation loss 0.332 error 0.387
+INFO:__main__:Test loss 0.364 error 0.391
+INFO:__main__:Epoch 20 : Train loss 0.090 error 0.024 Time : 871
+INFO:__main__:Validation loss 0.335 error 0.391
+INFO:__main__:Test loss 0.368 error 0.396
+INFO:__main__:Epoch 19 : Train loss 0.164 error 0.042 Time : 917
+INFO:__main__:Validation loss 0.338 error 0.394
+INFO:__main__:Test loss 0.368 error 0.401
+INFO:__main__:Epoch 20 : Train loss 0.122 error 0.025 Time : 871
+INFO:__main__:Validation loss 0.341 error 0.396
+INFO:__main__:Test loss 0.375 error 0.405
+INFO:__main__:Epoch 20 : Train loss 0.043 error 0.016 Time : 888
+INFO:__main__:Validation loss 0.386 error 0.415
+INFO:__main__:Test loss 0.415 error 0.416
+INFO:__main__:Epoch 21 : Train loss 0.057 error 0.018 Time : 852
+INFO:__main__:Validation loss 0.328 error 0.385
+INFO:__main__:Test loss 0.361 error 0.389
+INFO:__main__:Epoch 21 : Train loss 0.097 error 0.025 Time : 865
+INFO:__main__:Validation loss 0.331 error 0.390
+INFO:__main__:Test loss 0.364 error 0.395
+INFO:__main__:Epoch 21 : Train loss 0.121 error 0.025 Time : 869
+INFO:__main__:Validation loss 0.339 error 0.395
+INFO:__main__:Test loss 0.373 error 0.404
+INFO:__main__:Epoch 20 : Train loss 0.170 error 0.044 Time : 917
+INFO:__main__:Validation loss 0.334 error 0.393
+INFO:__main__:Test loss 0.364 error 0.400
+INFO:__main__:Epoch 21 : Train loss 0.043 error 0.016 Time : 886
+INFO:__main__:Validation loss 0.384 error 0.415
+INFO:__main__:Test loss 0.413 error 0.415
+INFO:__main__:Epoch 22 : Train loss 0.059 error 0.017 Time : 852
+INFO:__main__:Validation loss 0.326 error 0.382
+INFO:__main__:Test loss 0.358 error 0.386
+INFO:__main__:Epoch 22 : Train loss 0.095 error 0.024 Time : 869
+INFO:__main__:Validation loss 0.329 error 0.388
+INFO:__main__:Test loss 0.361 error 0.391
+INFO:__main__:Epoch 22 : Train loss 0.114 error 0.023 Time : 869
+INFO:__main__:Validation loss 0.338 error 0.394
+INFO:__main__:Test loss 0.371 error 0.402
+INFO:__main__:Epoch 21 : Train loss 0.171 error 0.044 Time : 916
+INFO:__main__:Validation loss 0.330 error 0.391
+INFO:__main__:Test loss 0.360 error 0.398
+INFO:__main__:Epoch 22 : Train loss 0.041 error 0.016 Time : 887
+INFO:__main__:Validation loss 0.383 error 0.415
+INFO:__main__:Test loss 0.411 error 0.415
+INFO:__main__:Epoch 23 : Train loss 0.054 error 0.017 Time : 852
+INFO:__main__:Validation loss 0.323 error 0.380
+INFO:__main__:Test loss 0.355 error 0.385
+INFO:__main__:Epoch 23 : Train loss 0.100 error 0.025 Time : 870
+INFO:__main__:Validation loss 0.326 error 0.387
+INFO:__main__:Test loss 0.358 error 0.391
+INFO:__main__:Epoch 23 : Train loss 0.113 error 0.023 Time : 868
+INFO:__main__:Validation loss 0.336 error 0.393
+INFO:__main__:Test loss 0.369 error 0.401
+INFO:__main__:Epoch 22 : Train loss 0.163 error 0.042 Time : 917
+INFO:__main__:Validation loss 0.327 error 0.388
+INFO:__main__:Test loss 0.357 error 0.395
+INFO:__main__:Epoch 23 : Train loss 0.041 error 0.016 Time : 887
+INFO:__main__:Validation loss 0.382 error 0.414
+INFO:__main__:Test loss 0.410 error 0.414
+INFO:__main__:Epoch 24 : Train loss 0.048 error 0.017 Time : 852
+INFO:__main__:Validation loss 0.320 error 0.378
+INFO:__main__:Test loss 0.352 error 0.383
+INFO:__main__:Epoch 24 : Train loss 0.105 error 0.025 Time : 868
+INFO:__main__:Validation loss 0.323 error 0.386
+INFO:__main__:Test loss 0.355 error 0.390
+INFO:__main__:Epoch 24 : Train loss 0.112 error 0.023 Time : 869
+INFO:__main__:Validation loss 0.334 error 0.392
+INFO:__main__:Test loss 0.367 error 0.400
+INFO:__main__:Epoch 23 : Train loss 0.161 error 0.041 Time : 917
+INFO:__main__:Validation loss 0.324 error 0.387
+INFO:__main__:Test loss 0.354 error 0.393
+INFO:__main__:Epoch 24 : Train loss 0.040 error 0.016 Time : 887
+INFO:__main__:Validation loss 0.381 error 0.414
+INFO:__main__:Test loss 0.408 error 0.414
+INFO:__main__:Epoch 25 : Train loss 0.043 error 0.016 Time : 852
+INFO:__main__:Validation loss 0.316 error 0.376
+INFO:__main__:Test loss 0.349 error 0.381
+INFO:__main__:Epoch 25 : Train loss 0.108 error 0.025 Time : 868
+INFO:__main__:Validation loss 0.321 error 0.385
+INFO:__main__:Test loss 0.352 error 0.389
+INFO:__main__:Epoch 25 : Train loss 0.112 error 0.023 Time : 869
+INFO:__main__:Validation loss 0.333 error 0.392
+INFO:__main__:Test loss 0.365 error 0.400
+INFO:__main__:Epoch 24 : Train loss 0.158 error 0.040 Time : 917
+INFO:__main__:Validation loss 0.321 error 0.385
+INFO:__main__:Test loss 0.350 error 0.391
+INFO:__main__:Epoch 25 : Train loss 0.040 error 0.015 Time : 888
+INFO:__main__:Validation loss 0.379 error 0.413
+INFO:__main__:Test loss 0.406 error 0.413
+INFO:__main__:Epoch 26 : Train loss 0.045 error 0.016 Time : 852
+INFO:__main__:Validation loss 0.313 error 0.374
+INFO:__main__:Test loss 0.345 error 0.378
+INFO:__main__:Epoch 26 : Train loss 0.112 error 0.026 Time : 869
+INFO:__main__:Validation loss 0.318 error 0.384
+INFO:__main__:Test loss 0.349 error 0.388
+INFO:__main__:Epoch 26 : Train loss 0.111 error 0.022 Time : 872
+INFO:__main__:Validation loss 0.331 error 0.391
+INFO:__main__:Test loss 0.363 error 0.399
+INFO:__main__:Epoch 25 : Train loss 0.155 error 0.039 Time : 929
+INFO:__main__:Validation loss 0.318 error 0.384
+INFO:__main__:Test loss 0.347 error 0.390
+INFO:__main__:Epoch 26 : Train loss 0.040 error 0.015 Time : 901
+INFO:__main__:Validation loss 0.378 error 0.413
+INFO:__main__:Test loss 0.405 error 0.413
+INFO:__main__:Epoch 27 : Train loss 0.052 error 0.016 Time : 876
+INFO:__main__:Validation loss 0.310 error 0.372
+INFO:__main__:Test loss 0.342 error 0.377
+INFO:__main__:Epoch 27 : Train loss 0.116 error 0.026 Time : 866
+INFO:__main__:Validation loss 0.316 error 0.383
+INFO:__main__:Test loss 0.347 error 0.387
+INFO:__main__:Epoch 27 : Train loss 0.111 error 0.022 Time : 878
+INFO:__main__:Validation loss 0.330 error 0.391
+INFO:__main__:Test loss 0.361 error 0.398
+INFO:__main__:Epoch 26 : Train loss 0.154 error 0.038 Time : 936
+INFO:__main__:Validation loss 0.315 error 0.382
+INFO:__main__:Test loss 0.345 error 0.389
+INFO:__main__:Epoch 27 : Train loss 0.040 error 0.015 Time : 980
+INFO:__main__:Validation loss 0.377 error 0.413
+INFO:__main__:Test loss 0.403 error 0.412
+INFO:__main__:Epoch 28 : Train loss 0.061 error 0.017 Time : 1042
+INFO:__main__:Validation loss 0.307 error 0.370
+INFO:__main__:Test loss 0.339 error 0.375
+INFO:__main__:Epoch 28 : Train loss 0.119 error 0.026 Time : 997
+INFO:__main__:Validation loss 0.314 error 0.382
+INFO:__main__:Test loss 0.344 error 0.386
+INFO:__main__:Epoch 28 : Train loss 0.110 error 0.022 Time : 877
+INFO:__main__:Validation loss 0.328 error 0.390
+INFO:__main__:Test loss 0.360 error 0.397
+INFO:__main__:Epoch 27 : Train loss 0.150 error 0.037 Time : 1218
+INFO:__main__:Validation loss 0.312 error 0.380
+INFO:__main__:Test loss 0.342 error 0.387
+INFO:__main__:Epoch 28 : Train loss 0.040 error 0.015 Time : 1065
+INFO:__main__:Validation loss 0.376 error 0.412
+INFO:__main__:Test loss 0.402 error 0.412
+INFO:__main__:Epoch 29 : Train loss 0.071 error 0.017 Time : 1084
+INFO:__main__:Validation loss 0.304 error 0.368
+INFO:__main__:Test loss 0.336 error 0.373
+INFO:__main__:Epoch 29 : Train loss 0.123 error 0.027 Time : 1018
+INFO:__main__:Validation loss 0.312 error 0.381
+INFO:__main__:Test loss 0.342 error 0.385
+INFO:__main__:Epoch 29 : Train loss 0.109 error 0.022 Time : 933
+INFO:__main__:Validation loss 0.327 error 0.389
+INFO:__main__:Test loss 0.358 error 0.397
+INFO:__main__:Epoch 28 : Train loss 0.147 error 0.035 Time : 909
+INFO:__main__:Validation loss 0.309 error 0.378
+INFO:__main__:Test loss 0.339 error 0.386
+INFO:__main__:Epoch 29 : Train loss 0.039 error 0.015 Time : 874
+INFO:__main__:Validation loss 0.375 error 0.412
+INFO:__main__:Test loss 0.400 error 0.411
+INFO:__main__:Epoch 30 : Train loss 0.080 error 0.018 Time : 858
+INFO:__main__:Validation loss 0.301 error 0.366
+INFO:__main__:Test loss 0.333 error 0.371
+INFO:__main__:Epoch 30 : Train loss 0.126 error 0.027 Time : 851
+INFO:__main__:Validation loss 0.310 error 0.380
+INFO:__main__:Test loss 0.340 error 0.384
+INFO:__main__:Epoch 30 : Train loss 0.110 error 0.022 Time : 872
+INFO:__main__:Validation loss 0.325 error 0.389
+INFO:__main__:Test loss 0.356 error 0.396
+INFO:__main__:Epoch 30 : Train loss 0.039 error 0.015 Time : 870
+INFO:__main__:Validation loss 0.373 error 0.412
+INFO:__main__:Test loss 0.399 error 0.411
+INFO:__main__:Epoch 29 : Train loss 0.144 error 0.034 Time : 902
+INFO:__main__:Validation loss 0.306 error 0.376
+INFO:__main__:Test loss 0.336 error 0.384
+INFO:__main__:Epoch 31 : Train loss 0.088 error 0.018 Time : 858
+INFO:__main__:Validation loss 0.298 error 0.364
+INFO:__main__:Test loss 0.330 error 0.369
+INFO:__main__:Epoch 31 : Train loss 0.129 error 0.028 Time : 882
+INFO:__main__:Validation loss 0.308 error 0.379
+INFO:__main__:Test loss 0.338 error 0.383
+INFO:__main__:Epoch 31 : Train loss 0.110 error 0.022 Time : 874
+INFO:__main__:Validation loss 0.324 error 0.388
+INFO:__main__:Test loss 0.354 error 0.395
+INFO:__main__:Epoch 31 : Train loss 0.039 error 0.015 Time : 891
+INFO:__main__:Validation loss 0.372 error 0.411
+INFO:__main__:Test loss 0.398 error 0.410
+INFO:__main__:Epoch 32 : Train loss 0.084 error 0.018 Time : 860
+INFO:__main__:Validation loss 0.296 error 0.361
+INFO:__main__:Test loss 0.328 error 0.366
+INFO:__main__:Epoch 30 : Train loss 0.142 error 0.033 Time : 921
+INFO:__main__:Validation loss 0.303 error 0.375
+INFO:__main__:Test loss 0.333 error 0.383
+INFO:__main__:Epoch 32 : Train loss 0.125 error 0.026 Time : 854
+INFO:__main__:Validation loss 0.306 error 0.376
+INFO:__main__:Test loss 0.336 error 0.380
+INFO:__main__:Epoch 32 : Train loss 0.105 error 0.021 Time : 870
+INFO:__main__:Validation loss 0.323 error 0.387
+INFO:__main__:Test loss 0.353 error 0.394
+INFO:__main__:Epoch 32 : Train loss 0.041 error 0.015 Time : 883
+INFO:__main__:Validation loss 0.371 error 0.411
+INFO:__main__:Test loss 0.396 error 0.410
+INFO:__main__:Epoch 33 : Train loss 0.095 error 0.019 Time : 859
+INFO:__main__:Validation loss 0.293 error 0.359
+INFO:__main__:Test loss 0.325 error 0.364
+INFO:__main__:Epoch 31 : Train loss 0.140 error 0.032 Time : 914
+INFO:__main__:Validation loss 0.301 error 0.373
+INFO:__main__:Test loss 0.331 error 0.381
+INFO:__main__:Epoch 33 : Train loss 0.125 error 0.026 Time : 854
+INFO:__main__:Validation loss 0.304 error 0.376
+INFO:__main__:Test loss 0.334 error 0.379
+INFO:__main__:Epoch 33 : Train loss 0.104 error 0.021 Time : 869
+INFO:__main__:Validation loss 0.322 error 0.387
+INFO:__main__:Test loss 0.352 error 0.393
+INFO:__main__:Epoch 34 : Train loss 0.099 error 0.019 Time : 859
+INFO:__main__:Validation loss 0.291 error 0.357
+INFO:__main__:Test loss 0.323 error 0.362
+INFO:__main__:Epoch 33 : Train loss 0.041 error 0.015 Time : 883
+INFO:__main__:Validation loss 0.370 error 0.411
+INFO:__main__:Test loss 0.395 error 0.410
+INFO:__main__:Epoch 34 : Train loss 0.125 error 0.026 Time : 855
+INFO:__main__:Validation loss 0.303 error 0.375
+INFO:__main__:Test loss 0.332 error 0.379
+INFO:__main__:Epoch 32 : Train loss 0.134 error 0.030 Time : 915
+INFO:__main__:Validation loss 0.299 error 0.371
+INFO:__main__:Test loss 0.328 error 0.378
+INFO:__main__:Epoch 34 : Train loss 0.105 error 0.021 Time : 870
+INFO:__main__:Validation loss 0.320 error 0.386
+INFO:__main__:Test loss 0.350 error 0.393
+INFO:__main__:Epoch 35 : Train loss 0.109 error 0.020 Time : 859
+INFO:__main__:Validation loss 0.288 error 0.354
+INFO:__main__:Test loss 0.321 error 0.360
+INFO:__main__:Epoch 34 : Train loss 0.041 error 0.015 Time : 884
+INFO:__main__:Validation loss 0.369 error 0.411
+INFO:__main__:Test loss 0.394 error 0.409
+INFO:__main__:Epoch 35 : Train loss 0.124 error 0.026 Time : 855
+INFO:__main__:Validation loss 0.301 error 0.374
+INFO:__main__:Test loss 0.331 error 0.378
+INFO:__main__:Epoch 33 : Train loss 0.136 error 0.030 Time : 915
+INFO:__main__:Validation loss 0.296 error 0.369
+INFO:__main__:Test loss 0.326 error 0.376
+INFO:__main__:Epoch 35 : Train loss 0.105 error 0.021 Time : 870
+INFO:__main__:Validation loss 0.319 error 0.386
+INFO:__main__:Test loss 0.348 error 0.392
+INFO:__main__:Epoch 36 : Train loss 0.118 error 0.022 Time : 859
+INFO:__main__:Validation loss 0.285 error 0.352
+INFO:__main__:Test loss 0.318 error 0.359
+INFO:__main__:Epoch 35 : Train loss 0.041 error 0.015 Time : 883
+INFO:__main__:Validation loss 0.368 error 0.410
+INFO:__main__:Test loss 0.392 error 0.409
+INFO:__main__:Epoch 36 : Train loss 0.125 error 0.026 Time : 855
+INFO:__main__:Validation loss 0.300 error 0.373
+INFO:__main__:Test loss 0.329 error 0.377
+INFO:__main__:Epoch 36 : Train loss 0.106 error 0.021 Time : 870
+INFO:__main__:Validation loss 0.318 error 0.386
+INFO:__main__:Test loss 0.347 error 0.392
+INFO:__main__:Epoch 34 : Train loss 0.140 error 0.030 Time : 915
+INFO:__main__:Validation loss 0.294 error 0.367
+INFO:__main__:Test loss 0.323 error 0.375
+INFO:__main__:Epoch 37 : Train loss 0.126 error 0.024 Time : 859
+INFO:__main__:Validation loss 0.283 error 0.350
+INFO:__main__:Test loss 0.316 error 0.357
+INFO:__main__:Epoch 36 : Train loss 0.041 error 0.015 Time : 883
+INFO:__main__:Validation loss 0.367 error 0.410
+INFO:__main__:Test loss 0.391 error 0.409
+INFO:__main__:Epoch 37 : Train loss 0.124 error 0.025 Time : 855
+INFO:__main__:Validation loss 0.298 error 0.372
+INFO:__main__:Test loss 0.327 error 0.376
+INFO:__main__:Epoch 37 : Train loss 0.106 error 0.021 Time : 870
+INFO:__main__:Validation loss 0.317 error 0.385
+INFO:__main__:Test loss 0.345 error 0.391
+INFO:__main__:Epoch 35 : Train loss 0.142 error 0.031 Time : 916
+INFO:__main__:Validation loss 0.292 error 0.366
+INFO:__main__:Test loss 0.321 error 0.374
+INFO:__main__:Epoch 38 : Train loss 0.134 error 0.025 Time : 859
+INFO:__main__:Validation loss 0.280 error 0.349
+INFO:__main__:Test loss 0.313 error 0.356
+INFO:__main__:Epoch 38 : Train loss 0.125 error 0.025 Time : 855
+INFO:__main__:Validation loss 0.297 error 0.371
+INFO:__main__:Test loss 0.325 error 0.375
+INFO:__main__:Epoch 37 : Train loss 0.041 error 0.014 Time : 883
+INFO:__main__:Validation loss 0.366 error 0.410
+INFO:__main__:Test loss 0.390 error 0.408
+INFO:__main__:Epoch 38 : Train loss 0.107 error 0.021 Time : 870
+INFO:__main__:Validation loss 0.315 error 0.385
+INFO:__main__:Test loss 0.344 error 0.391
+INFO:__main__:Epoch 36 : Train loss 0.144 error 0.031 Time : 919
+INFO:__main__:Validation loss 0.290 error 0.365
+INFO:__main__:Test loss 0.319 error 0.373
+INFO:__main__:Epoch 39 : Train loss 0.143 error 0.027 Time : 859
+INFO:__main__:Validation loss 0.278 error 0.347
+INFO:__main__:Test loss 0.311 error 0.354
+INFO:__main__:Epoch 39 : Train loss 0.126 error 0.025 Time : 854
+INFO:__main__:Validation loss 0.295 error 0.371
+INFO:__main__:Test loss 0.324 error 0.374
+INFO:__main__:Epoch 38 : Train loss 0.041 error 0.014 Time : 886
+INFO:__main__:Validation loss 0.365 error 0.409
+INFO:__main__:Test loss 0.389 error 0.408
+INFO:__main__:Epoch 39 : Train loss 0.107 error 0.021 Time : 871
+INFO:__main__:Validation loss 0.314 error 0.384
+INFO:__main__:Test loss 0.342 error 0.390
+INFO:__main__:Epoch 37 : Train loss 0.145 error 0.032 Time : 917
+INFO:__main__:Validation loss 0.288 error 0.364
+INFO:__main__:Test loss 0.317 error 0.372
+INFO:__main__:Epoch 40 : Train loss 0.151 error 0.029 Time : 860
+INFO:__main__:Validation loss 0.275 error 0.345
+INFO:__main__:Test loss 0.309 error 0.353
+INFO:__main__:Training finished : Duration 0 minutes, Loss 0.029, MAE 0.151, Error ratio 1.509
+INFO:__main__:Validation loss 0.275 error 0.345
+INFO:__main__:Test loss 0.309 error 0.353
+ERROR:root:Issue saving model or model parameters
+INFO:__main__:Epoch 40 : Train loss 0.126 error 0.025 Time : 854
+INFO:__main__:Validation loss 0.293 error 0.370
+INFO:__main__:Test loss 0.322 error 0.374
+INFO:__main__:Training finished : Duration 0 minutes, Loss 0.025, MAE 0.126, Error ratio 1.259
+INFO:__main__:Validation loss 0.293 error 0.370
+INFO:__main__:Test loss 0.322 error 0.374
+ERROR:root:Issue saving model or model parameters
+INFO:__main__:Epoch 39 : Train loss 0.041 error 0.014 Time : 888
+INFO:__main__:Validation loss 0.364 error 0.409
+INFO:__main__:Test loss 0.387 error 0.408
+INFO:__main__:Epoch 40 : Train loss 0.108 error 0.021 Time : 867
+INFO:__main__:Validation loss 0.313 error 0.384
+INFO:__main__:Test loss 0.341 error 0.390
+INFO:__main__:Training finished : Duration 0 minutes, Loss 0.021, MAE 0.108, Error ratio 1.075
+INFO:__main__:Validation loss 0.313 error 0.384
+INFO:__main__:Test loss 0.341 error 0.390
+ERROR:root:Issue saving model or model parameters
+INFO:__main__:Epoch 38 : Train loss 0.150 error 0.033 Time : 917
+INFO:__main__:Validation loss 0.286 error 0.362
+INFO:__main__:Test loss 0.315 error 0.370
+INFO:__main__:Epoch 40 : Train loss 0.041 error 0.014 Time : 887
+INFO:__main__:Validation loss 0.363 error 0.409
+INFO:__main__:Test loss 0.386 error 0.407
+INFO:__main__:Training finished : Duration 0 minutes, Loss 0.014, MAE 0.041, Error ratio 0.412
+INFO:__main__:Validation loss 0.363 error 0.409
+INFO:__main__:Test loss 0.386 error 0.407
+ERROR:root:Issue saving model or model parameters
+INFO:__main__:Epoch 39 : Train loss 0.154 error 0.034 Time : 914
+INFO:__main__:Validation loss 0.284 error 0.361
+INFO:__main__:Test loss 0.313 error 0.369
+INFO:__main__:Epoch 40 : Train loss 0.159 error 0.035 Time : 909
+INFO:__main__:Validation loss 0.282 error 0.360
+INFO:__main__:Test loss 0.311 error 0.368
+INFO:__main__:Training finished : Duration 0 minutes, Loss 0.035, MAE 0.159, Error ratio 1.590
+INFO:__main__:Validation loss 0.282 error 0.360
+INFO:__main__:Test loss 0.311 error 0.368
+ERROR:root:Issue saving model or model parameters

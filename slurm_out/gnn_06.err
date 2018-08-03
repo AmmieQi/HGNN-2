@@ -1,0 +1,213 @@
+INFO:__main__:Log path : log/qm9/lg_False_up_1_bs_20_ep_40_st_10_op_adamax_lr_0.0004_da_0.9_L_8_h_2_ta_0_387.pickle
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Number of test instances : 1340
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 1 : Train loss 0.654 error 0.683 Time : 63
+INFO:__main__:Validation loss 192509.873 error 104.321
+INFO:__main__:Test loss 117789.657 error 82.442
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 2 : Train loss 0.556 error 0.479 Time : 62
+INFO:__main__:Validation loss 323568.477 error 112.677
+INFO:__main__:Test loss 201405.005 error 87.268
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 3 : Train loss 0.550 error 0.468 Time : 62
+INFO:__main__:Validation loss 145863.645 error 66.902
+INFO:__main__:Test loss 86088.761 error 48.754
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 4 : Train loss 0.568 error 0.508 Time : 62
+INFO:__main__:Validation loss 21404.617 error 18.769
+INFO:__main__:Test loss 12391.297 error 11.749
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 5 : Train loss 0.582 error 0.525 Time : 62
+INFO:__main__:Validation loss 6892.404 error 8.587
+INFO:__main__:Test loss 4594.313 error 5.362
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 6 : Train loss 0.590 error 0.532 Time : 62
+INFO:__main__:Validation loss 4327.537 error 6.055
+INFO:__main__:Test loss 3385.556 error 3.934
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 7 : Train loss 0.596 error 0.537 Time : 63
+INFO:__main__:Validation loss 4570.362 error 6.009
+INFO:__main__:Test loss 3694.859 error 3.947
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 8 : Train loss 0.602 error 0.541 Time : 63
+INFO:__main__:Validation loss 4868.373 error 6.131
+INFO:__main__:Test loss 3938.949 error 4.026
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 9 : Train loss 0.604 error 0.544 Time : 63
+INFO:__main__:Validation loss 3582.253 error 5.143
+INFO:__main__:Test loss 3144.500 error 3.497
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 10 : Train loss 0.610 error 0.550 Time : 63
+INFO:__main__:Validation loss 3657.857 error 5.079
+INFO:__main__:Test loss 3304.244 error 3.518
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 11 : Train loss 0.613 error 0.553 Time : 63
+INFO:__main__:Validation loss 4006.891 error 5.193
+INFO:__main__:Test loss 3751.743 error 3.663
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 12 : Train loss 0.615 error 0.559 Time : 63
+INFO:__main__:Validation loss 1552.837 error 2.812
+INFO:__main__:Test loss 1940.059 error 2.432
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 13 : Train loss 0.612 error 0.554 Time : 63
+INFO:__main__:Validation loss 1346.776 error 2.289
+INFO:__main__:Test loss 1676.612 error 2.141
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 14 : Train loss 0.612 error 0.556 Time : 63
+INFO:__main__:Validation loss 1190.922 error 1.791
+INFO:__main__:Test loss 1352.049 error 1.825
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 15 : Train loss 0.611 error 0.562 Time : 63
+INFO:__main__:Validation loss 1223.489 error 1.593
+INFO:__main__:Test loss 1313.774 error 1.684
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 16 : Train loss 0.608 error 0.568 Time : 63
+INFO:__main__:Validation loss 1457.686 error 1.661
+INFO:__main__:Test loss 1571.529 error 1.761
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 17 : Train loss 0.603 error 0.566 Time : 63
+INFO:__main__:Validation loss 1590.354 error 1.623
+INFO:__main__:Test loss 1719.796 error 1.733
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 18 : Train loss 0.605 error 0.571 Time : 63
+INFO:__main__:Validation loss 1775.609 error 1.671
+INFO:__main__:Test loss 1926.701 error 1.787
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 19 : Train loss 0.609 error 0.573 Time : 63
+INFO:__main__:Validation loss 2220.311 error 1.799
+INFO:__main__:Test loss 2421.568 error 1.938
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 20 : Train loss 0.611 error 0.574 Time : 63
+INFO:__main__:Validation loss 2382.982 error 1.830
+INFO:__main__:Test loss 2606.577 error 1.978
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 21 : Train loss 0.615 error 0.579 Time : 63
+INFO:__main__:Validation loss 2850.917 error 1.946
+INFO:__main__:Test loss 3118.264 error 2.111
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 22 : Train loss 0.619 error 0.579 Time : 63
+INFO:__main__:Validation loss 3027.647 error 1.989
+INFO:__main__:Test loss 3297.550 error 2.154
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 23 : Train loss 0.620 error 0.575 Time : 63
+INFO:__main__:Validation loss 3372.981 error 2.060
+INFO:__main__:Test loss 3671.642 error 2.240
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 24 : Train loss 0.621 error 0.567 Time : 63
+INFO:__main__:Validation loss 3935.339 error 2.184
+INFO:__main__:Test loss 4280.564 error 2.378
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 25 : Train loss 0.625 error 0.569 Time : 63
+INFO:__main__:Validation loss 4752.625 error 2.388
+INFO:__main__:Test loss 5155.019 error 2.619
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 26 : Train loss 0.623 error 0.561 Time : 63
+INFO:__main__:Validation loss 4192.999 error 2.216
+INFO:__main__:Test loss 4561.730 error 2.400
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 27 : Train loss 0.637 error 0.581 Time : 63
+INFO:__main__:Validation loss 5348.894 error 2.451
+INFO:__main__:Test loss 5807.371 error 2.674
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 28 : Train loss 0.645 error 0.592 Time : 64
+INFO:__main__:Validation loss 2287.147 error 1.750
+INFO:__main__:Test loss 2568.339 error 1.824
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 29 : Train loss 0.635 error 0.574 Time : 63
+INFO:__main__:Validation loss 1117.332 error 1.334
+INFO:__main__:Test loss 1274.333 error 1.394
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 30 : Train loss 0.636 error 0.575 Time : 63
+INFO:__main__:Validation loss 1631.136 error 1.523
+INFO:__main__:Test loss 1855.912 error 1.594
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 31 : Train loss 0.637 error 0.571 Time : 64
+INFO:__main__:Validation loss 1258.879 error 1.383
+INFO:__main__:Test loss 1452.893 error 1.452
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 32 : Train loss 0.644 error 0.581 Time : 64
+INFO:__main__:Validation loss 1070.303 error 1.311
+INFO:__main__:Test loss 1242.511 error 1.376
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 33 : Train loss 0.646 error 0.579 Time : 64
+INFO:__main__:Validation loss 970.587 error 1.266
+INFO:__main__:Test loss 1122.824 error 1.326
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 34 : Train loss 0.647 error 0.578 Time : 64
+INFO:__main__:Validation loss 604.766 error 1.086
+INFO:__main__:Test loss 669.911 error 1.117
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 35 : Train loss 0.653 error 0.587 Time : 64
+INFO:__main__:Validation loss 404.632 error 0.963
+INFO:__main__:Test loss 452.029 error 0.990
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 36 : Train loss 0.654 error 0.586 Time : 64
+INFO:__main__:Validation loss 332.448 error 0.910
+INFO:__main__:Test loss 374.004 error 0.937
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 37 : Train loss 0.651 error 0.579 Time : 64
+INFO:__main__:Validation loss 297.547 error 0.877
+INFO:__main__:Test loss 337.121 error 0.904
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 38 : Train loss 0.654 error 0.578 Time : 64
+INFO:__main__:Validation loss 275.492 error 0.860
+INFO:__main__:Test loss 313.119 error 0.886
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 39 : Train loss 0.645 error 0.557 Time : 64
+INFO:__main__:Validation loss 392.594 error 0.943
+INFO:__main__:Test loss 445.267 error 0.975
+WARNING:root:Testing on 1338 molecules
+WARNING:root:Testing on 1340 molecules
+INFO:__main__:Epoch 40 : Train loss 0.672 error 0.605 Time : 64
+INFO:__main__:Validation loss 324.791 error 0.900
+INFO:__main__:Test loss 368.265 error 0.928
+INFO:__main__:Training finished : Duration 0 minutes, Loss 0.605, MAE 0.672, Error ratio 6.719
+INFO:__main__:Validation loss 324.791 error 0.900
+INFO:__main__:Test loss 368.265 error 0.928
+INFO:root:Model saved

@@ -1,0 +1,36 @@
+INFO:__main__:Log path : log/qm9/lg_True_up_2_bs_10_ep_5_st_10_op_adamax_lr_0.0004_da_0.9_L_20_h_2_ta_0_479.pickle
+INFO:__main__:Log path : log/qm9/lg_True_up_2_bs_10_ep_5_st_10_op_adamax_lr_0.0004_da_0.9_L_20_h_2_ta_0_655.pickle
+INFO:__main__:Log path : log/qm9/lg_True_up_2_bs_10_ep_5_st_10_op_adamax_lr_0.0004_da_0.9_L_20_h_2_ta_0_318.pickle
+INFO:root:New directory created
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:root:Loading data...
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:__main__:Number of training instances : 107108
+INFO:__main__:Number of validation instances : 13388
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Number of training instances : 107108
+INFO:__main__:Number of validation instances : 13388
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Number of training instances : 107108
+INFO:__main__:Number of validation instances : 13388
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Epoch 1 : Avg Error 0.133; Average Loss 0.023 Time : 5668
+INFO:__main__:Epoch 1 : Avg Error 0.173; Average Loss 0.044 Time : 5670
+INFO:__main__:Epoch 1 : Avg Error 0.115; Average Loss 0.019 Time : 5707
+/var/lib/slurm/slurmd/job68786/slurm_script: line 21:  3526 Killed                  python3 scripts/main_gnn_qm9.py --lg True --update $u --lr $lr --lrdamping $lrd --step $step --epochs $epochs --bs $bs --data_path $data_path
+INFO:__main__:Epoch 1 : Avg Error 0.164; Average Loss 0.043 Time : 6778
+/var/lib/slurm/slurmd/job68784/slurm_script: line 21: 21340 Killed                  python3 scripts/main_gnn_qm9.py --lg True --update $u --lr $lr --lrdamping $lrd --step $step --epochs $epochs --bs $bs --data_path $data_path
+/var/lib/slurm/slurmd/job68782/slurm_script: line 21:  3525 Killed                  python3 scripts/main_gnn_qm9.py --lg True --update $u --lr $lr --lrdamping $lrd --step $step --epochs $epochs --bs $bs --data_path $data_path
+/var/lib/slurm/slurmd/job68785/slurm_script: line 21: 21336 Killed                  python3 scripts/main_gnn_qm9.py --lg True --update $u --lr $lr --lrdamping $lrd --step $step --epochs $epochs --bs $bs --data_path $data_path
+INFO:__main__:Epoch 2 : Avg Error 0.131; Average Loss 0.023 Time : 5307
+INFO:__main__:Epoch 3 : Avg Error 0.121; Average Loss 0.021 Time : 3343
+INFO:__main__:Epoch 4 : Avg Error 0.103; Average Loss 0.014 Time : 3416
+/var/lib/slurm/slurmd/job68783/slurm_script: line 21: 21339 Killed                  python3 scripts/main_gnn_qm9.py --lg True --update $u --lr $lr --lrdamping $lrd --step $step --epochs $epochs --bs $bs --data_path $data_path

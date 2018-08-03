@@ -1,0 +1,85 @@
+INFO:__main__:Log path : log/qm9/lg_False_up_1_bs_30_ep_40_st_5_op_adamax_lr_0.0003_da_0.9_L_15_h_1_ta_0_134.pickle
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:__main__:Number of training instances : 107108
+INFO:__main__:Number of validation instances : 13388
+INFO:__main__:Number of test instances : 13389
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+WARNING:root:Testing on 13388 molecules
+WARNING:root:Testing on 13389 molecules
+INFO:__main__:Epoch 1 : Train loss 0.527 error 0.415 Time : 1091
+INFO:__main__:Validation loss 0.766 error 0.696
+INFO:__main__:Test loss 1.069 error 0.781
+WARNING:root:Testing on 13388 molecules
+WARNING:root:Testing on 13389 molecules
+INFO:__main__:Epoch 2 : Train loss 0.543 error 0.418 Time : 1090
+INFO:__main__:Validation loss 0.799 error 0.710
+INFO:__main__:Test loss 1.274 error 0.807
+WARNING:root:Testing on 13388 molecules
+WARNING:root:Testing on 13389 molecules
+INFO:__main__:Epoch 3 : Train loss 0.524 error 0.400 Time : 1095
+INFO:__main__:Validation loss 0.745 error 0.685
+INFO:__main__:Test loss 1.180 error 0.807
+WARNING:root:Testing on 13388 molecules
+WARNING:root:Testing on 13389 molecules
+INFO:__main__:Epoch 4 : Train loss 0.505 error 0.386 Time : 1095
+INFO:__main__:Validation loss 0.700 error 0.663
+INFO:__main__:Test loss 1.120 error 0.809
+WARNING:root:Testing on 13388 molecules
+WARNING:root:Testing on 13389 molecules
+INFO:__main__:Epoch 5 : Train loss 0.493 error 0.378 Time : 1126
+INFO:__main__:Validation loss 0.662 error 0.644
+INFO:__main__:Test loss 1.092 error 0.812
+WARNING:root:Testing on 13388 molecules
+WARNING:root:Testing on 13389 molecules
+INFO:__main__:Epoch 6 : Train loss 0.487 error 0.372 Time : 1112
+INFO:__main__:Validation loss 0.630 error 0.628
+INFO:__main__:Test loss 1.088 error 0.815
+WARNING:root:Testing on 13388 molecules
+WARNING:root:Testing on 13389 molecules
+INFO:__main__:Epoch 7 : Train loss 0.489 error 0.372 Time : 1142
+INFO:__main__:Validation loss 0.603 error 0.614
+INFO:__main__:Test loss 1.103 error 0.821
+WARNING:root:Testing on 13388 molecules
+WARNING:root:Testing on 13389 molecules
+INFO:__main__:Epoch 8 : Train loss 0.489 error 0.370 Time : 1137
+INFO:__main__:Validation loss 0.581 error 0.602
+INFO:__main__:Test loss 1.120 error 0.825
+WARNING:root:Testing on 13388 molecules
+WARNING:root:Testing on 13389 molecules
+INFO:__main__:Epoch 9 : Train loss 0.488 error 0.367 Time : 1147
+INFO:__main__:Validation loss 0.559 error 0.590
+INFO:__main__:Test loss 1.139 error 0.827
+WARNING:root:Testing on 13388 molecules
+WARNING:root:Testing on 13389 molecules
+INFO:__main__:Epoch 10 : Train loss 0.488 error 0.365 Time : 1143
+INFO:__main__:Validation loss 0.537 error 0.578
+INFO:__main__:Test loss 1.163 error 0.830
+WARNING:root:Testing on 13388 molecules
+WARNING:root:Testing on 13389 molecules
+INFO:__main__:Epoch 11 : Train loss 0.487 error 0.365 Time : 1135
+INFO:__main__:Validation loss 0.516 error 0.566
+INFO:__main__:Test loss 1.192 error 0.833
+WARNING:root:Testing on 13388 molecules
+WARNING:root:Testing on 13389 molecules
+INFO:__main__:Epoch 12 : Train loss 0.489 error 0.370 Time : 1130
+INFO:__main__:Validation loss 0.496 error 0.554
+INFO:__main__:Test loss 1.219 error 0.838
+WARNING:root:Testing on 13388 molecules
+WARNING:root:Testing on 13389 molecules
+INFO:__main__:Epoch 13 : Train loss 0.489 error 0.372 Time : 1139
+INFO:__main__:Validation loss 0.479 error 0.544
+INFO:__main__:Test loss 1.238 error 0.839
+WARNING:root:Testing on 13388 molecules
+WARNING:root:Testing on 13389 molecules
+INFO:__main__:Epoch 14 : Train loss 0.492 error 0.374 Time : 1596
+INFO:__main__:Validation loss 0.464 error 0.535
+INFO:__main__:Test loss 1.255 error 0.840
+WARNING:root:Testing on 13388 molecules
+WARNING:root:Testing on 13389 molecules
+INFO:__main__:Epoch 15 : Train loss 0.498 error 0.376 Time : 1251
+INFO:__main__:Validation loss 0.449 error 0.526
+INFO:__main__:Test loss 1.270 error 0.841
+/var/lib/slurm/slurmd/job69692/slurm_script: line 21: 20752 Killed                  python3 scripts/main_gnn_qm9.py --lr $lr --lrdamping $lrdamp --step $step --data_path $data_path --epochs $epochs --bs $bs --L $L

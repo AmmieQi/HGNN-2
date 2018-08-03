@@ -1,0 +1,124 @@
+INFO:__main__:Log path : log/qm9/lg_False_up_1_bs_30_ep_25_st_10_op_adamax_lr_0.0004_da_0.9_L_30_h_2_ta_0_192.pickle
+INFO:__main__:Log path : log/qm9/lg_False_up_1_bs_30_ep_25_st_10_op_adamax_lr_0.0004_da_0.9_L_30_h_2_ta_0_826.pickle
+INFO:__main__:Log path : log/qm9/lg_False_up_1_bs_30_ep_25_st_10_op_adamax_lr_0.0004_da_0.9_L_30_h_2_ta_0_222.pickle
+INFO:__main__:Log path : log/qm9/lg_False_up_1_bs_30_ep_25_st_10_op_adamax_lr_0.0004_da_0.9_L_30_h_2_ta_0_313.pickle
+INFO:__main__:Log path : log/qm9/lg_False_up_1_bs_30_ep_25_st_10_op_adamax_lr_0.0004_da_0.9_L_30_h_2_ta_0_716.pickle
+INFO:root:New directory created
+INFO:root:New directory created
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:root:New directory created
+INFO:root:New directory created
+INFO:root:Loading data...
+INFO:__main__:Working on CPU
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:root:Loading data...
+INFO:__main__:Working on CPU
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:root:Loading data...
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Epoch 1 : Avg Error 2.161; Average Loss 6.461 Time : 229
+INFO:__main__:Epoch 1 : Avg Error 1.122; Average Loss 2.370 Time : 234
+INFO:__main__:Epoch 1 : Avg Error 0.712; Average Loss 0.731 Time : 235
+INFO:__main__:Epoch 1 : Avg Error 2.005; Average Loss 5.230 Time : 238
+INFO:__main__:Epoch 1 : Avg Error 1.784; Average Loss 5.226 Time : 266
+INFO:__main__:Epoch 2 : Avg Error 1.321; Average Loss 2.801 Time : 230
+INFO:__main__:Epoch 2 : Avg Error 1.031; Average Loss 1.989 Time : 234
+INFO:__main__:Epoch 2 : Avg Error 0.701; Average Loss 0.681 Time : 235
+INFO:__main__:Epoch 2 : Avg Error 0.941; Average Loss 1.547 Time : 239
+INFO:__main__:Epoch 2 : Avg Error 1.570; Average Loss 4.214 Time : 267
+INFO:__main__:Epoch 3 : Avg Error 1.103; Average Loss 2.028 Time : 231
+INFO:__main__:Epoch 3 : Avg Error 1.033; Average Loss 1.923 Time : 236
+INFO:__main__:Epoch 3 : Avg Error 0.686; Average Loss 0.641 Time : 236
+INFO:__main__:Epoch 3 : Avg Error 0.731; Average Loss 0.927 Time : 240
+INFO:__main__:Epoch 3 : Avg Error 1.248; Average Loss 3.077 Time : 270
+INFO:__main__:Epoch 4 : Avg Error 1.008; Average Loss 1.732 Time : 232
+INFO:__main__:Epoch 4 : Avg Error 0.977; Average Loss 1.713 Time : 236
+INFO:__main__:Epoch 4 : Avg Error 0.670; Average Loss 0.594 Time : 237
+INFO:__main__:Epoch 4 : Avg Error 0.664; Average Loss 0.773 Time : 241
+INFO:__main__:Epoch 4 : Avg Error 1.077; Average Loss 2.610 Time : 268
+INFO:__main__:Epoch 5 : Avg Error 0.956; Average Loss 1.556 Time : 233
+INFO:__main__:Epoch 5 : Avg Error 0.884; Average Loss 1.481 Time : 238
+INFO:__main__:Epoch 5 : Avg Error 0.667; Average Loss 0.582 Time : 239
+INFO:__main__:Epoch 5 : Avg Error 0.641; Average Loss 0.716 Time : 242
+INFO:__main__:Epoch 5 : Avg Error 1.026; Average Loss 2.458 Time : 270
+INFO:__main__:Epoch 6 : Avg Error 0.886; Average Loss 1.348 Time : 233
+INFO:__main__:Epoch 6 : Avg Error 0.850; Average Loss 1.435 Time : 238
+INFO:__main__:Epoch 6 : Avg Error 0.678; Average Loss 0.597 Time : 239
+INFO:__main__:Epoch 6 : Avg Error 0.642; Average Loss 0.688 Time : 243
+INFO:__main__:Epoch 6 : Avg Error 0.976; Average Loss 2.304 Time : 272
+INFO:__main__:Epoch 7 : Avg Error 0.801; Average Loss 1.110 Time : 241
+INFO:__main__:Epoch 7 : Avg Error 0.790; Average Loss 1.309 Time : 249
+INFO:__main__:Epoch 7 : Avg Error 0.692; Average Loss 0.643 Time : 247
+INFO:__main__:Epoch 7 : Avg Error 0.636; Average Loss 0.660 Time : 250
+INFO:__main__:Epoch 8 : Avg Error 0.672; Average Loss 0.606 Time : 327
+INFO:__main__:Epoch 8 : Avg Error 0.621; Average Loss 0.620 Time : 316
+INFO:__main__:Epoch 7 : Avg Error 0.956; Average Loss 2.200 Time : 401
+INFO:__main__:Epoch 8 : Avg Error 0.745; Average Loss 0.968 Time : 554
+INFO:__main__:Epoch 8 : Avg Error 0.767; Average Loss 1.185 Time : 548
+INFO:__main__:Epoch 9 : Avg Error 0.655; Average Loss 0.588 Time : 248
+INFO:__main__:Epoch 9 : Avg Error 0.609; Average Loss 0.593 Time : 296
+/var/lib/slurm/slurmd/job68610/slurm_script: line 20: 17810 Killed                  python3 scripts/main_gnn_qm9.py --lr $lr --lrdamping $lrdamp --step $step --data_path $data_path --epochs $epochs --L $L
+INFO:__main__:Epoch 8 : Avg Error 0.896; Average Loss 1.985 Time : 1543
+INFO:__main__:Epoch 9 : Avg Error 0.699; Average Loss 0.835 Time : 2372
+INFO:__main__:Epoch 9 : Avg Error 0.691; Average Loss 0.982 Time : 2373
+INFO:__main__:Epoch 10 : Avg Error 0.607; Average Loss 0.596 Time : 2354
+INFO:__main__:Epoch 9 : Avg Error 0.893; Average Loss 1.908 Time : 1115
+INFO:__main__:Epoch 10 : Avg Error 0.673; Average Loss 0.748 Time : 232
+INFO:__main__:Epoch 10 : Avg Error 0.713; Average Loss 0.944 Time : 238
+INFO:__main__:Epoch 11 : Avg Error 0.598; Average Loss 0.560 Time : 259
+INFO:__main__:Epoch 10 : Avg Error 0.867; Average Loss 1.812 Time : 260
+INFO:__main__:Epoch 11 : Avg Error 0.648; Average Loss 0.697 Time : 235
+INFO:__main__:Epoch 11 : Avg Error 0.677; Average Loss 0.856 Time : 243
+INFO:__main__:Epoch 12 : Avg Error 0.600; Average Loss 0.554 Time : 260
+INFO:__main__:Epoch 11 : Avg Error 0.866; Average Loss 1.804 Time : 294
+/var/lib/slurm/slurmd/job68605/slurm_script: line 20: 17806 Killed                  python3 scripts/main_gnn_qm9.py --lr $lr --lrdamping $lrdamp --step $step --data_path $data_path --epochs $epochs --L $L
+INFO:__main__:Epoch 12 : Avg Error 0.611; Average Loss 0.591 Time : 319
+INFO:__main__:Epoch 12 : Avg Error 0.658; Average Loss 0.796 Time : 325
+INFO:__main__:Epoch 12 : Avg Error 0.858; Average Loss 1.724 Time : 318
+Traceback (most recent call last):
+  File "scripts/main_gnn_qm9.py", line 245, in <module>
+    main()
+  File "scripts/main_gnn_qm9.py", line 195, in main
+    logger.add_epoch_info(epoch+1,run_loss.val, run_error.val, dur)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/chem/HGNN/functions/logs.py", line 130, in add_epoch_info
+    with open(self.res_file, 'a') as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'log/qm9/lg_False_up_1_bs_30_ep_25_st_10_op_adamax_lr_0.0004_da_0.9_L_30_h_2_ta_0_222.pickle/results.txt'
+Traceback (most recent call last):
+  File "scripts/main_gnn_qm9.py", line 245, in <module>
+    main()
+  File "scripts/main_gnn_qm9.py", line 195, in main
+    logger.add_epoch_info(epoch+1,run_loss.val, run_error.val, dur)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/chem/HGNN/functions/logs.py", line 130, in add_epoch_info
+    with open(self.res_file, 'a') as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'log/qm9/lg_False_up_1_bs_30_ep_25_st_10_op_adamax_lr_0.0004_da_0.9_L_30_h_2_ta_0_826.pickle/results.txt'
+Traceback (most recent call last):
+  File "scripts/main_gnn_qm9.py", line 245, in <module>
+    main()
+  File "scripts/main_gnn_qm9.py", line 195, in main
+    logger.add_epoch_info(epoch+1,run_loss.val, run_error.val, dur)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/chem/HGNN/functions/logs.py", line 130, in add_epoch_info
+    with open(self.res_file, 'a') as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'log/qm9/lg_False_up_1_bs_30_ep_25_st_10_op_adamax_lr_0.0004_da_0.9_L_30_h_2_ta_0_716.pickle/results.txt'
+/var/lib/slurm/slurmd/job68609/slurm_script: line 20: 17809 Killed                  python3 scripts/main_gnn_qm9.py --lr $lr --lrdamping $lrdamp --step $step --data_path $data_path --epochs $epochs --L $L

@@ -1,0 +1,37 @@
+INFO:__main__:Log path : log/qm9/lg_True_up_2_bs_30_ep_20_st_10_op_adamax_lr_0.0004_da_0.9_L_5_h_1_ta_0_653.pickle
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:__main__:Number of training instances : 107108
+INFO:__main__:Number of validation instances : 13388
+INFO:__main__:Number of test instances : 13389
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Epoch 1 : Train loss 0.348 error 0.152 Time : 717
+INFO:__main__:Epoch 2 : Train loss 0.254 error 0.086 Time : 707
+INFO:__main__:Epoch 3 : Train loss 0.220 error 0.059 Time : 709
+INFO:__main__:Epoch 4 : Train loss 0.204 error 0.050 Time : 711
+INFO:__main__:Epoch 5 : Train loss 0.199 error 0.051 Time : 727
+INFO:__main__:Epoch 6 : Train loss 0.195 error 0.051 Time : 745
+INFO:__main__:Epoch 7 : Train loss 0.195 error 0.050 Time : 747
+INFO:__main__:Epoch 8 : Train loss 0.186 error 0.045 Time : 747
+INFO:__main__:Epoch 9 : Train loss 0.177 error 0.041 Time : 748
+INFO:__main__:Epoch 10 : Train loss 0.169 error 0.037 Time : 735
+INFO:__main__:Epoch 11 : Train loss 0.163 error 0.034 Time : 65399
+INFO:__main__:Epoch 12 : Train loss 0.162 error 0.033 Time : 705
+INFO:__main__:Epoch 13 : Train loss 0.161 error 0.032 Time : 704
+INFO:__main__:Epoch 14 : Train loss 0.164 error 0.032 Time : 704
+INFO:__main__:Epoch 15 : Train loss 0.162 error 0.031 Time : 704
+INFO:__main__:Epoch 16 : Train loss 0.157 error 0.030 Time : 705
+INFO:__main__:Epoch 17 : Train loss 0.153 error 0.029 Time : 709
+INFO:__main__:Epoch 18 : Train loss 0.148 error 0.028 Time : 722
+INFO:__main__:Epoch 19 : Train loss 0.143 error 0.026 Time : 720
+INFO:__main__:Epoch 20 : Train loss 0.139 error 0.025 Time : 720
+Traceback (most recent call last):
+  File "scripts/main_gnn_qm9.py", line 282, in <module>
+    if __name__ == '__main__':
+  File "scripts/main_gnn_qm9.py", line 229, in main
+    
+  File "/misc/vlgscratch4/BrunaGroup/sulem/chem/HGNN/functions/logs.py", line 150, in add_train_info
+    with open(self.res_file, 'a') as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'log/qm9/lg_True_up_2_bs_30_ep_20_st_10_op_adamax_lr_0.0004_da_0.9_L_5_h_1_ta_0_653.pickle/results.txt'

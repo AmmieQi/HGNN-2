@@ -1,0 +1,690 @@
+INFO:__main__:Log path : log/simul_data/ccn_1_ep_20_st_4_op_adamax_lr_4e-05_da_0.9_L_8_h_2_ta_0_206.pickle
+INFO:__main__:Log path : log/simul_data/ccn_1_ep_20_st_4_op_adamax_lr_4e-05_da_0.9_L_8_h_2_ta_0_826.pickle
+INFO:__main__:Log path : log/simul_data/ccn_1_ep_20_st_4_op_adamax_lr_4e-05_da_0.9_L_8_h_2_ta_0_881.pickle
+INFO:__main__:Log path : log/simul_data/ccn_1_ep_20_st_4_op_adamax_lr_4e-05_da_0.9_L_8_h_2_ta_0_893.pickle
+INFO:__main__:Log path : log/simul_data/ccn_1_ep_20_st_4_op_adamax_lr_4e-05_da_0.9_L_8_h_2_ta_0_921.pickle
+INFO:root:New directory created
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:root:New directory created
+INFO:root:New directory created
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:__main__:Working on CPU
+INFO:__main__:Working on CPU
+INFO:__main__:Working on CPU
+INFO:__main__:Number of training instances : 4000
+INFO:__main__:Number of training instances : 4000
+INFO:__main__:Number of validation instances : 200
+INFO:__main__:Number of validation instances : 200
+INFO:__main__:First-order CCN created
+INFO:__main__:First-order CCN created
+INFO:__main__:Training the CCN
+INFO:__main__:Training the CCN
+INFO:__main__:Number of training instances : 4000
+INFO:__main__:Number of training instances : 4000
+INFO:__main__:Number of training instances : 4000
+INFO:__main__:Number of validation instances : 200
+INFO:__main__:First-order CCN created
+INFO:__main__:Training the CCN
+INFO:__main__:Number of validation instances : 200
+INFO:__main__:First-order CCN created
+INFO:__main__:Number of validation instances : 200
+INFO:__main__:Training the CCN
+INFO:__main__:First-order CCN created
+INFO:__main__:Training the CCN
+INFO:__main__:Epoch 1 : Average Loss 40.673 Time : 288
+INFO:__main__:Epoch 1 : Average Loss 1.190 Time : 291
+INFO:__main__:Epoch 1 : Average Loss 0.056 Time : 291
+INFO:__main__:Epoch 1 : Average Loss 0.006 Time : 292
+INFO:__main__:Epoch 1 : Average Loss 7.711 Time : 292
+INFO:__main__:Epoch 2 : Average Loss 35.695 Time : 289
+INFO:__main__:Epoch 2 : Average Loss 0.917 Time : 291
+INFO:__main__:Epoch 2 : Average Loss 0.033 Time : 292
+INFO:__main__:Epoch 2 : Average Loss 5.506 Time : 292
+INFO:__main__:Epoch 2 : Average Loss 0.006 Time : 293
+INFO:__main__:Epoch 3 : Average Loss 31.357 Time : 289
+INFO:__main__:Epoch 3 : Average Loss 0.709 Time : 291
+INFO:__main__:Epoch 3 : Average Loss 0.022 Time : 292
+INFO:__main__:Epoch 3 : Average Loss 3.693 Time : 292
+INFO:__main__:Epoch 3 : Average Loss 0.006 Time : 293
+INFO:__main__:Epoch 4 : Average Loss 27.689 Time : 283
+INFO:__main__:Epoch 4 : Average Loss 0.006 Time : 281
+INFO:__main__:Epoch 4 : Average Loss 0.537 Time : 291
+INFO:__main__:Epoch 4 : Average Loss 0.016 Time : 292
+INFO:__main__:Epoch 4 : Average Loss 2.320 Time : 292
+INFO:__main__:Epoch 5 : Average Loss 24.757 Time : 275
+INFO:__main__:Epoch 5 : Average Loss 0.006 Time : 279
+INFO:__main__:Epoch 5 : Average Loss 0.402 Time : 278
+INFO:__main__:Epoch 5 : Average Loss 0.013 Time : 291
+INFO:__main__:Epoch 5 : Average Loss 1.406 Time : 292
+INFO:__main__:Epoch 6 : Average Loss 22.101 Time : 275
+INFO:__main__:Epoch 6 : Average Loss 0.006 Time : 279
+INFO:__main__:Epoch 6 : Average Loss 0.291 Time : 278
+INFO:__main__:Epoch 6 : Average Loss 0.012 Time : 279
+INFO:__main__:Epoch 6 : Average Loss 0.820 Time : 283
+INFO:__main__:Epoch 7 : Average Loss 19.622 Time : 275
+INFO:__main__:Epoch 7 : Average Loss 0.006 Time : 279
+INFO:__main__:Epoch 7 : Average Loss 0.204 Time : 278
+INFO:__main__:Epoch 7 : Average Loss 0.011 Time : 279
+INFO:__main__:Epoch 7 : Average Loss 0.517 Time : 279
+INFO:__main__:Epoch 8 : Average Loss 17.252 Time : 275
+INFO:__main__:Epoch 8 : Average Loss 0.006 Time : 279
+INFO:__main__:Epoch 8 : Average Loss 0.140 Time : 278
+INFO:__main__:Epoch 8 : Average Loss 0.010 Time : 279
+INFO:__main__:Epoch 8 : Average Loss 0.370 Time : 279
+INFO:__main__:Epoch 9 : Average Loss 15.117 Time : 275
+INFO:__main__:Epoch 9 : Average Loss 0.006 Time : 279
+INFO:__main__:Epoch 9 : Average Loss 0.097 Time : 278
+INFO:__main__:Epoch 9 : Average Loss 0.009 Time : 279
+INFO:__main__:Epoch 9 : Average Loss 0.300 Time : 279
+INFO:__main__:Epoch 10 : Average Loss 13.012 Time : 275
+INFO:__main__:Epoch 10 : Average Loss 0.007 Time : 279
+INFO:__main__:Epoch 10 : Average Loss 0.067 Time : 278
+INFO:__main__:Epoch 10 : Average Loss 0.008 Time : 279
+INFO:__main__:Epoch 10 : Average Loss 0.254 Time : 279
+INFO:__main__:Epoch 11 : Average Loss 10.908 Time : 275
+INFO:__main__:Epoch 11 : Average Loss 0.046 Time : 278
+INFO:__main__:Epoch 11 : Average Loss 0.007 Time : 279
+INFO:__main__:Epoch 11 : Average Loss 0.007 Time : 279
+INFO:__main__:Epoch 11 : Average Loss 0.221 Time : 280
+INFO:__main__:Epoch 12 : Average Loss 8.828 Time : 275
+INFO:__main__:Epoch 12 : Average Loss 0.032 Time : 279
+INFO:__main__:Epoch 12 : Average Loss 0.007 Time : 279
+INFO:__main__:Epoch 12 : Average Loss 0.006 Time : 279
+INFO:__main__:Epoch 12 : Average Loss 0.195 Time : 280
+INFO:__main__:Epoch 13 : Average Loss 6.931 Time : 275
+INFO:__main__:Epoch 13 : Average Loss 0.023 Time : 279
+INFO:__main__:Epoch 13 : Average Loss 0.008 Time : 279
+INFO:__main__:Epoch 13 : Average Loss 0.006 Time : 279
+INFO:__main__:Epoch 13 : Average Loss 0.175 Time : 280
+INFO:__main__:Epoch 14 : Average Loss 5.106 Time : 276
+INFO:__main__:Epoch 14 : Average Loss 0.016 Time : 279
+INFO:__main__:Epoch 14 : Average Loss 0.008 Time : 279
+INFO:__main__:Epoch 14 : Average Loss 0.005 Time : 279
+INFO:__main__:Epoch 14 : Average Loss 0.157 Time : 280
+INFO:__main__:Epoch 15 : Average Loss 3.320 Time : 276
+INFO:__main__:Epoch 15 : Average Loss 0.012 Time : 279
+INFO:__main__:Epoch 15 : Average Loss 0.009 Time : 280
+INFO:__main__:Epoch 15 : Average Loss 0.005 Time : 279
+INFO:__main__:Epoch 15 : Average Loss 0.142 Time : 280
+INFO:__main__:Epoch 16 : Average Loss 1.726 Time : 275
+INFO:__main__:Epoch 16 : Average Loss 0.009 Time : 279
+INFO:__main__:Epoch 16 : Average Loss 0.009 Time : 279
+INFO:__main__:Epoch 16 : Average Loss 0.004 Time : 279
+INFO:__main__:Epoch 16 : Average Loss 0.129 Time : 280
+INFO:__main__:Epoch 17 : Average Loss 0.723 Time : 275
+INFO:__main__:Epoch 17 : Average Loss 0.007 Time : 279
+INFO:__main__:Epoch 17 : Average Loss 0.010 Time : 279
+INFO:__main__:Epoch 17 : Average Loss 0.004 Time : 279
+INFO:__main__:Epoch 17 : Average Loss 0.117 Time : 280
+INFO:__main__:Epoch 18 : Average Loss 0.244 Time : 276
+INFO:__main__:Epoch 18 : Average Loss 0.005 Time : 279
+INFO:__main__:Epoch 18 : Average Loss 0.011 Time : 279
+INFO:__main__:Epoch 18 : Average Loss 0.004 Time : 279
+INFO:__main__:Epoch 18 : Average Loss 0.106 Time : 280
+INFO:__main__:Epoch 19 : Average Loss 0.079 Time : 275
+INFO:__main__:Epoch 19 : Average Loss 0.004 Time : 279
+INFO:__main__:Epoch 19 : Average Loss 0.011 Time : 279
+INFO:__main__:Epoch 19 : Average Loss 0.004 Time : 279
+INFO:__main__:Epoch 19 : Average Loss 0.096 Time : 280
+INFO:__main__:Epoch 20 : Average Loss 0.032 Time : 276
+INFO:__main__:Training finished : Duration 5553 secs, Avg Loss 0.032
+ERROR:root:Issue saving model or model parameters
+INFO:__main__:Evaluating on the validation set...
+Traceback (most recent call last):
+  File "scripts/main_generate_ccn.py", line 233, in <module>
+    main()
+  File "scripts/main_generate_ccn.py", line 207, in main
+    args.cuda, 0, 1, logger)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/chem/HGNN/scripts/test_ccn.py", line 49, in test_ccn
+    loss = criterion(output, y)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/module.py", line 491, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/loss.py", line 759, in forward
+    self.ignore_index, self.reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 1442, in cross_entropy
+    return nll_loss(log_softmax(input, 1), target, weight, size_average, ignore_index, reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 944, in log_softmax
+    return torch._C._nn.log_softmax(input, dim)
+RuntimeError: dimension out of range (expected to be in range of [-1, 0], but got 1)
+INFO:__main__:Log path : log/simul_data/ccn_1_ep_20_st_4_op_adamax_lr_0.0001_da_0.9_L_8_h_2_ta_0_554.pickle
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:__main__:Number of training instances : 4000
+INFO:__main__:Number of validation instances : 200
+INFO:__main__:First-order CCN created
+INFO:__main__:Training the CCN
+INFO:__main__:Epoch 20 : Average Loss 0.004 Time : 279
+INFO:__main__:Training finished : Duration 5621 secs, Avg Loss 0.004
+ERROR:root:Issue saving model or model parameters
+INFO:__main__:Evaluating on the validation set...
+Traceback (most recent call last):
+  File "scripts/main_generate_ccn.py", line 233, in <module>
+    main()
+  File "scripts/main_generate_ccn.py", line 207, in main
+    args.cuda, 0, 1, logger)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/chem/HGNN/scripts/test_ccn.py", line 49, in test_ccn
+    loss = criterion(output, y)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/module.py", line 491, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/loss.py", line 759, in forward
+    self.ignore_index, self.reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 1442, in cross_entropy
+    return nll_loss(log_softmax(input, 1), target, weight, size_average, ignore_index, reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 944, in log_softmax
+    return torch._C._nn.log_softmax(input, dim)
+RuntimeError: dimension out of range (expected to be in range of [-1, 0], but got 1)
+INFO:__main__:Log path : log/simul_data/ccn_1_ep_20_st_4_op_adamax_lr_0.0001_da_0.9_L_8_h_2_ta_0_087.pickle
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:__main__:Number of training instances : 4000
+INFO:__main__:Number of validation instances : 200
+INFO:__main__:First-order CCN created
+INFO:__main__:Training the CCN
+INFO:__main__:Epoch 20 : Average Loss 0.012 Time : 280
+INFO:__main__:Training finished : Duration 5625 secs, Avg Loss 0.012
+ERROR:root:Issue saving model or model parameters
+INFO:__main__:Evaluating on the validation set...
+Traceback (most recent call last):
+  File "scripts/main_generate_ccn.py", line 233, in <module>
+    main()
+  File "scripts/main_generate_ccn.py", line 207, in main
+    args.cuda, 0, 1, logger)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/chem/HGNN/scripts/test_ccn.py", line 49, in test_ccn
+    loss = criterion(output, y)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/module.py", line 491, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/loss.py", line 759, in forward
+    self.ignore_index, self.reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 1442, in cross_entropy
+    return nll_loss(log_softmax(input, 1), target, weight, size_average, ignore_index, reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 944, in log_softmax
+    return torch._C._nn.log_softmax(input, dim)
+RuntimeError: dimension out of range (expected to be in range of [-1, 0], but got 1)
+INFO:__main__:Log path : log/simul_data/ccn_1_ep_20_st_4_op_adamax_lr_0.0001_da_0.9_L_8_h_2_ta_0_082.pickle
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:__main__:Number of training instances : 4000
+INFO:__main__:Number of validation instances : 200
+INFO:__main__:First-order CCN created
+INFO:__main__:Training the CCN
+INFO:__main__:Epoch 20 : Average Loss 0.004 Time : 279
+INFO:__main__:Training finished : Duration 5643 secs, Avg Loss 0.004
+ERROR:root:Issue saving model or model parameters
+INFO:__main__:Evaluating on the validation set...
+Traceback (most recent call last):
+  File "scripts/main_generate_ccn.py", line 233, in <module>
+    main()
+  File "scripts/main_generate_ccn.py", line 207, in main
+    args.cuda, 0, 1, logger)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/chem/HGNN/scripts/test_ccn.py", line 49, in test_ccn
+    loss = criterion(output, y)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/module.py", line 491, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/loss.py", line 759, in forward
+    self.ignore_index, self.reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 1442, in cross_entropy
+    return nll_loss(log_softmax(input, 1), target, weight, size_average, ignore_index, reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 944, in log_softmax
+    return torch._C._nn.log_softmax(input, dim)
+RuntimeError: dimension out of range (expected to be in range of [-1, 0], but got 1)
+INFO:__main__:Log path : log/simul_data/ccn_1_ep_20_st_4_op_adamax_lr_0.0001_da_0.9_L_8_h_2_ta_0_312.pickle
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:__main__:Number of training instances : 4000
+INFO:__main__:Number of validation instances : 200
+INFO:__main__:First-order CCN created
+INFO:__main__:Training the CCN
+INFO:__main__:Epoch 20 : Average Loss 0.087 Time : 280
+INFO:__main__:Training finished : Duration 5659 secs, Avg Loss 0.087
+ERROR:root:Issue saving model or model parameters
+INFO:__main__:Evaluating on the validation set...
+Traceback (most recent call last):
+  File "scripts/main_generate_ccn.py", line 233, in <module>
+    main()
+  File "scripts/main_generate_ccn.py", line 207, in main
+    args.cuda, 0, 1, logger)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/chem/HGNN/scripts/test_ccn.py", line 49, in test_ccn
+    loss = criterion(output, y)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/module.py", line 491, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/loss.py", line 759, in forward
+    self.ignore_index, self.reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 1442, in cross_entropy
+    return nll_loss(log_softmax(input, 1), target, weight, size_average, ignore_index, reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 944, in log_softmax
+    return torch._C._nn.log_softmax(input, dim)
+RuntimeError: dimension out of range (expected to be in range of [-1, 0], but got 1)
+INFO:__main__:Log path : log/simul_data/ccn_1_ep_20_st_4_op_adamax_lr_0.0001_da_0.9_L_8_h_2_ta_0_788.pickle
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:__main__:Number of training instances : 4000
+INFO:__main__:Number of validation instances : 200
+INFO:__main__:First-order CCN created
+INFO:__main__:Training the CCN
+INFO:__main__:Epoch 1 : Average Loss 6.240 Time : 292
+INFO:__main__:Epoch 1 : Average Loss 3.268 Time : 284
+INFO:__main__:Epoch 1 : Average Loss 6.610 Time : 293
+INFO:__main__:Epoch 1 : Average Loss 0.042 Time : 291
+INFO:__main__:Epoch 1 : Average Loss 0.087 Time : 286
+INFO:__main__:Epoch 2 : Average Loss 5.160 Time : 281
+INFO:__main__:Epoch 2 : Average Loss 0.469 Time : 273
+INFO:__main__:Epoch 2 : Average Loss 3.753 Time : 284
+INFO:__main__:Epoch 2 : Average Loss 0.033 Time : 287
+INFO:__main__:Epoch 2 : Average Loss 0.068 Time : 287
+INFO:__main__:Epoch 3 : Average Loss 3.853 Time : 281
+INFO:__main__:Epoch 3 : Average Loss 0.123 Time : 273
+INFO:__main__:Epoch 3 : Average Loss 0.447 Time : 280
+INFO:__main__:Epoch 3 : Average Loss 0.024 Time : 278
+INFO:__main__:Epoch 3 : Average Loss 0.039 Time : 275
+INFO:__main__:Epoch 4 : Average Loss 2.578 Time : 281
+INFO:__main__:Epoch 4 : Average Loss 0.064 Time : 273
+INFO:__main__:Epoch 4 : Average Loss 0.052 Time : 280
+INFO:__main__:Epoch 4 : Average Loss 0.019 Time : 278
+INFO:__main__:Epoch 4 : Average Loss 0.024 Time : 274
+INFO:__main__:Epoch 5 : Average Loss 1.598 Time : 281
+INFO:__main__:Epoch 5 : Average Loss 0.045 Time : 273
+INFO:__main__:Epoch 5 : Average Loss 0.011 Time : 280
+INFO:__main__:Epoch 5 : Average Loss 0.015 Time : 278
+INFO:__main__:Epoch 5 : Average Loss 0.016 Time : 274
+INFO:__main__:Epoch 6 : Average Loss 0.903 Time : 281
+INFO:__main__:Epoch 6 : Average Loss 0.036 Time : 273
+INFO:__main__:Epoch 6 : Average Loss 0.006 Time : 280
+INFO:__main__:Epoch 6 : Average Loss 0.012 Time : 274
+INFO:__main__:Epoch 6 : Average Loss 0.013 Time : 278
+INFO:__main__:Epoch 7 : Average Loss 0.435 Time : 281
+INFO:__main__:Epoch 7 : Average Loss 0.030 Time : 273
+INFO:__main__:Epoch 7 : Average Loss 0.010 Time : 274
+INFO:__main__:Epoch 7 : Average Loss 0.005 Time : 280
+INFO:__main__:Epoch 7 : Average Loss 0.012 Time : 278
+INFO:__main__:Epoch 8 : Average Loss 0.168 Time : 281
+INFO:__main__:Epoch 8 : Average Loss 0.026 Time : 273
+INFO:__main__:Epoch 8 : Average Loss 0.009 Time : 274
+INFO:__main__:Epoch 8 : Average Loss 0.005 Time : 280
+INFO:__main__:Epoch 8 : Average Loss 0.011 Time : 278
+INFO:__main__:Epoch 9 : Average Loss 0.023 Time : 273
+INFO:__main__:Epoch 9 : Average Loss 0.080 Time : 281
+INFO:__main__:Epoch 9 : Average Loss 0.008 Time : 274
+INFO:__main__:Epoch 9 : Average Loss 0.010 Time : 278
+INFO:__main__:Epoch 9 : Average Loss 0.004 Time : 280
+INFO:__main__:Epoch 10 : Average Loss 0.021 Time : 273
+INFO:__main__:Epoch 10 : Average Loss 0.047 Time : 281
+INFO:__main__:Epoch 10 : Average Loss 0.007 Time : 274
+INFO:__main__:Epoch 10 : Average Loss 0.010 Time : 278
+INFO:__main__:Epoch 10 : Average Loss 0.004 Time : 280
+INFO:__main__:Epoch 11 : Average Loss 0.019 Time : 273
+INFO:__main__:Epoch 11 : Average Loss 0.032 Time : 281
+INFO:__main__:Epoch 11 : Average Loss 0.007 Time : 274
+INFO:__main__:Epoch 11 : Average Loss 0.009 Time : 278
+INFO:__main__:Epoch 11 : Average Loss 0.004 Time : 280
+INFO:__main__:Epoch 12 : Average Loss 0.018 Time : 273
+INFO:__main__:Epoch 12 : Average Loss 0.021 Time : 281
+INFO:__main__:Epoch 12 : Average Loss 0.006 Time : 274
+INFO:__main__:Epoch 12 : Average Loss 0.009 Time : 278
+INFO:__main__:Epoch 12 : Average Loss 0.004 Time : 280
+INFO:__main__:Epoch 13 : Average Loss 0.016 Time : 273
+INFO:__main__:Epoch 13 : Average Loss 0.014 Time : 281
+INFO:__main__:Epoch 13 : Average Loss 0.006 Time : 274
+INFO:__main__:Epoch 13 : Average Loss 0.009 Time : 278
+INFO:__main__:Epoch 13 : Average Loss 0.004 Time : 280
+INFO:__main__:Epoch 14 : Average Loss 0.015 Time : 273
+INFO:__main__:Epoch 14 : Average Loss 0.010 Time : 281
+INFO:__main__:Epoch 14 : Average Loss 0.006 Time : 274
+INFO:__main__:Epoch 14 : Average Loss 0.008 Time : 278
+INFO:__main__:Epoch 14 : Average Loss 0.004 Time : 280
+INFO:__main__:Epoch 15 : Average Loss 0.015 Time : 273
+INFO:__main__:Epoch 15 : Average Loss 0.007 Time : 281
+INFO:__main__:Epoch 15 : Average Loss 0.005 Time : 274
+INFO:__main__:Epoch 15 : Average Loss 0.008 Time : 278
+INFO:__main__:Epoch 15 : Average Loss 0.004 Time : 281
+INFO:__main__:Epoch 16 : Average Loss 0.014 Time : 273
+INFO:__main__:Epoch 16 : Average Loss 0.006 Time : 281
+INFO:__main__:Epoch 16 : Average Loss 0.005 Time : 274
+INFO:__main__:Epoch 16 : Average Loss 0.008 Time : 278
+INFO:__main__:Epoch 16 : Average Loss 0.003 Time : 281
+INFO:__main__:Epoch 17 : Average Loss 0.013 Time : 273
+INFO:__main__:Epoch 17 : Average Loss 0.005 Time : 274
+INFO:__main__:Epoch 17 : Average Loss 0.005 Time : 281
+INFO:__main__:Epoch 17 : Average Loss 0.008 Time : 278
+INFO:__main__:Epoch 17 : Average Loss 0.003 Time : 280
+INFO:__main__:Epoch 18 : Average Loss 0.013 Time : 273
+INFO:__main__:Epoch 18 : Average Loss 0.005 Time : 274
+INFO:__main__:Epoch 18 : Average Loss 0.004 Time : 281
+INFO:__main__:Epoch 18 : Average Loss 0.007 Time : 278
+INFO:__main__:Epoch 18 : Average Loss 0.003 Time : 281
+INFO:__main__:Epoch 19 : Average Loss 0.012 Time : 273
+INFO:__main__:Epoch 19 : Average Loss 0.005 Time : 274
+INFO:__main__:Epoch 19 : Average Loss 0.004 Time : 281
+INFO:__main__:Epoch 19 : Average Loss 0.007 Time : 278
+INFO:__main__:Epoch 19 : Average Loss 0.003 Time : 281
+INFO:__main__:Epoch 20 : Average Loss 0.012 Time : 273
+INFO:__main__:Training finished : Duration 5471 secs, Avg Loss 0.012
+ERROR:root:Issue saving model or model parameters
+INFO:__main__:Evaluating on the validation set...
+Traceback (most recent call last):
+  File "scripts/main_generate_ccn.py", line 233, in <module>
+    main()
+  File "scripts/main_generate_ccn.py", line 207, in main
+    args.cuda, 0, 1, logger)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/chem/HGNN/scripts/test_ccn.py", line 49, in test_ccn
+    loss = criterion(output, y)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/module.py", line 491, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/loss.py", line 759, in forward
+    self.ignore_index, self.reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 1442, in cross_entropy
+    return nll_loss(log_softmax(input, 1), target, weight, size_average, ignore_index, reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 944, in log_softmax
+    return torch._C._nn.log_softmax(input, dim)
+RuntimeError: dimension out of range (expected to be in range of [-1, 0], but got 1)
+INFO:__main__:Log path : log/simul_data/ccn_1_ep_20_st_4_op_adamax_lr_0.0004_da_0.9_L_8_h_2_ta_0_866.pickle
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:__main__:Number of training instances : 4000
+INFO:__main__:Number of validation instances : 200
+INFO:__main__:First-order CCN created
+INFO:__main__:Training the CCN
+INFO:__main__:Epoch 20 : Average Loss 0.004 Time : 274
+INFO:__main__:Training finished : Duration 5506 secs, Avg Loss 0.004
+ERROR:root:Issue saving model or model parameters
+INFO:__main__:Evaluating on the validation set...
+Traceback (most recent call last):
+  File "scripts/main_generate_ccn.py", line 233, in <module>
+    main()
+  File "scripts/main_generate_ccn.py", line 207, in main
+    args.cuda, 0, 1, logger)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/chem/HGNN/scripts/test_ccn.py", line 49, in test_ccn
+    loss = criterion(output, y)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/module.py", line 491, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/loss.py", line 759, in forward
+    self.ignore_index, self.reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 1442, in cross_entropy
+    return nll_loss(log_softmax(input, 1), target, weight, size_average, ignore_index, reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 944, in log_softmax
+    return torch._C._nn.log_softmax(input, dim)
+RuntimeError: dimension out of range (expected to be in range of [-1, 0], but got 1)
+INFO:__main__:Log path : log/simul_data/ccn_1_ep_20_st_4_op_adamax_lr_0.0004_da_0.9_L_8_h_2_ta_0_117.pickle
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:__main__:Number of training instances : 4000
+INFO:__main__:Number of validation instances : 200
+INFO:__main__:First-order CCN created
+INFO:__main__:Training the CCN
+INFO:__main__:Epoch 20 : Average Loss 0.004 Time : 281
+INFO:__main__:Training finished : Duration 5631 secs, Avg Loss 0.004
+ERROR:root:Issue saving model or model parameters
+INFO:__main__:Evaluating on the validation set...
+Traceback (most recent call last):
+  File "scripts/main_generate_ccn.py", line 233, in <module>
+    main()
+  File "scripts/main_generate_ccn.py", line 207, in main
+    args.cuda, 0, 1, logger)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/chem/HGNN/scripts/test_ccn.py", line 49, in test_ccn
+    loss = criterion(output, y)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/module.py", line 491, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/loss.py", line 759, in forward
+    self.ignore_index, self.reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 1442, in cross_entropy
+    return nll_loss(log_softmax(input, 1), target, weight, size_average, ignore_index, reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 944, in log_softmax
+    return torch._C._nn.log_softmax(input, dim)
+RuntimeError: dimension out of range (expected to be in range of [-1, 0], but got 1)
+INFO:__main__:Log path : log/simul_data/ccn_1_ep_20_st_4_op_adamax_lr_0.0004_da_0.9_L_8_h_2_ta_0_911.pickle
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:__main__:Number of training instances : 4000
+INFO:__main__:Number of validation instances : 200
+INFO:__main__:First-order CCN created
+INFO:__main__:Training the CCN
+INFO:__main__:Epoch 20 : Average Loss 0.007 Time : 278
+INFO:__main__:Training finished : Duration 5582 secs, Avg Loss 0.007
+ERROR:root:Issue saving model or model parameters
+INFO:__main__:Evaluating on the validation set...
+Traceback (most recent call last):
+  File "scripts/main_generate_ccn.py", line 233, in <module>
+    main()
+  File "scripts/main_generate_ccn.py", line 207, in main
+    args.cuda, 0, 1, logger)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/chem/HGNN/scripts/test_ccn.py", line 49, in test_ccn
+    loss = criterion(output, y)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/module.py", line 491, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/loss.py", line 759, in forward
+    self.ignore_index, self.reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 1442, in cross_entropy
+    return nll_loss(log_softmax(input, 1), target, weight, size_average, ignore_index, reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 944, in log_softmax
+    return torch._C._nn.log_softmax(input, dim)
+RuntimeError: dimension out of range (expected to be in range of [-1, 0], but got 1)
+INFO:__main__:Log path : log/simul_data/ccn_1_ep_20_st_4_op_adamax_lr_0.0004_da_0.9_L_8_h_2_ta_0_042.pickle
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:__main__:Number of training instances : 4000
+INFO:__main__:Number of validation instances : 200
+INFO:__main__:First-order CCN created
+INFO:__main__:Training the CCN
+INFO:__main__:Epoch 20 : Average Loss 0.003 Time : 281
+INFO:__main__:Training finished : Duration 5622 secs, Avg Loss 0.003
+ERROR:root:Issue saving model or model parameters
+INFO:__main__:Evaluating on the validation set...
+Traceback (most recent call last):
+  File "scripts/main_generate_ccn.py", line 233, in <module>
+    main()
+  File "scripts/main_generate_ccn.py", line 207, in main
+    args.cuda, 0, 1, logger)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/chem/HGNN/scripts/test_ccn.py", line 49, in test_ccn
+    loss = criterion(output, y)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/module.py", line 491, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/loss.py", line 759, in forward
+    self.ignore_index, self.reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 1442, in cross_entropy
+    return nll_loss(log_softmax(input, 1), target, weight, size_average, ignore_index, reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 944, in log_softmax
+    return torch._C._nn.log_softmax(input, dim)
+RuntimeError: dimension out of range (expected to be in range of [-1, 0], but got 1)
+INFO:__main__:Log path : log/simul_data/ccn_1_ep_20_st_4_op_adamax_lr_0.0004_da_0.9_L_8_h_2_ta_0_468.pickle
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:__main__:Number of training instances : 4000
+INFO:__main__:Number of validation instances : 200
+INFO:__main__:First-order CCN created
+INFO:__main__:Training the CCN
+INFO:__main__:Epoch 1 : Average Loss 0.158 Time : 286
+INFO:__main__:Epoch 1 : Average Loss 0.216 Time : 284
+INFO:__main__:Epoch 1 : Average Loss 0.060 Time : 291
+INFO:__main__:Epoch 1 : Average Loss 0.287 Time : 291
+INFO:__main__:Epoch 1 : Average Loss 21.650 Time : 289
+INFO:__main__:Epoch 2 : Average Loss 0.032 Time : 281
+INFO:__main__:Epoch 2 : Average Loss 0.039 Time : 277
+INFO:__main__:Epoch 2 : Average Loss 0.044 Time : 280
+INFO:__main__:Epoch 2 : Average Loss 0.058 Time : 282
+INFO:__main__:Epoch 2 : Average Loss 2.183 Time : 285
+INFO:__main__:Epoch 3 : Average Loss 0.011 Time : 280
+INFO:__main__:Epoch 3 : Average Loss 0.016 Time : 276
+INFO:__main__:Epoch 3 : Average Loss 0.052 Time : 280
+INFO:__main__:Epoch 3 : Average Loss 0.016 Time : 278
+INFO:__main__:Epoch 3 : Average Loss 0.230 Time : 278
+INFO:__main__:Epoch 4 : Average Loss 0.007 Time : 280
+INFO:__main__:Epoch 4 : Average Loss 0.012 Time : 276
+INFO:__main__:Epoch 4 : Average Loss 0.016 Time : 280
+INFO:__main__:Epoch 4 : Average Loss 0.009 Time : 278
+INFO:__main__:Epoch 4 : Average Loss 0.033 Time : 278
+INFO:__main__:Epoch 5 : Average Loss 0.006 Time : 280
+INFO:__main__:Epoch 5 : Average Loss 0.012 Time : 277
+INFO:__main__:Epoch 5 : Average Loss 0.008 Time : 280
+INFO:__main__:Epoch 5 : Average Loss 0.007 Time : 278
+INFO:__main__:Epoch 5 : Average Loss 0.012 Time : 278
+INFO:__main__:Epoch 6 : Average Loss 0.006 Time : 280
+INFO:__main__:Epoch 6 : Average Loss 0.011 Time : 276
+INFO:__main__:Epoch 6 : Average Loss 0.005 Time : 280
+INFO:__main__:Epoch 6 : Average Loss 0.006 Time : 278
+INFO:__main__:Epoch 6 : Average Loss 0.010 Time : 278
+INFO:__main__:Epoch 7 : Average Loss 0.005 Time : 280
+INFO:__main__:Epoch 7 : Average Loss 0.011 Time : 276
+INFO:__main__:Epoch 7 : Average Loss 0.004 Time : 280
+INFO:__main__:Epoch 7 : Average Loss 0.005 Time : 278
+INFO:__main__:Epoch 7 : Average Loss 0.009 Time : 278
+INFO:__main__:Epoch 8 : Average Loss 0.005 Time : 280
+INFO:__main__:Epoch 8 : Average Loss 0.011 Time : 276
+INFO:__main__:Epoch 8 : Average Loss 0.004 Time : 280
+INFO:__main__:Epoch 8 : Average Loss 0.005 Time : 278
+INFO:__main__:Epoch 8 : Average Loss 0.008 Time : 278
+INFO:__main__:Epoch 9 : Average Loss 0.004 Time : 280
+INFO:__main__:Epoch 9 : Average Loss 0.011 Time : 276
+INFO:__main__:Epoch 9 : Average Loss 0.003 Time : 280
+INFO:__main__:Epoch 9 : Average Loss 0.005 Time : 278
+INFO:__main__:Epoch 9 : Average Loss 0.008 Time : 278
+INFO:__main__:Epoch 10 : Average Loss 0.004 Time : 280
+INFO:__main__:Epoch 10 : Average Loss 0.010 Time : 276
+INFO:__main__:Epoch 10 : Average Loss 0.003 Time : 280
+INFO:__main__:Epoch 10 : Average Loss 0.004 Time : 278
+INFO:__main__:Epoch 10 : Average Loss 0.008 Time : 278
+INFO:__main__:Epoch 11 : Average Loss 0.004 Time : 280
+INFO:__main__:Epoch 11 : Average Loss 0.010 Time : 277
+INFO:__main__:Epoch 11 : Average Loss 0.003 Time : 281
+INFO:__main__:Epoch 11 : Average Loss 0.004 Time : 278
+INFO:__main__:Epoch 11 : Average Loss 0.008 Time : 278
+INFO:__main__:Epoch 12 : Average Loss 0.004 Time : 280
+INFO:__main__:Epoch 12 : Average Loss 0.010 Time : 277
+INFO:__main__:Epoch 12 : Average Loss 0.003 Time : 280
+INFO:__main__:Epoch 12 : Average Loss 0.004 Time : 278
+INFO:__main__:Epoch 12 : Average Loss 0.008 Time : 278
+INFO:__main__:Epoch 13 : Average Loss 0.004 Time : 280
+INFO:__main__:Epoch 13 : Average Loss 0.009 Time : 277
+INFO:__main__:Epoch 13 : Average Loss 0.003 Time : 280
+INFO:__main__:Epoch 13 : Average Loss 0.003 Time : 278
+INFO:__main__:Epoch 13 : Average Loss 0.008 Time : 278
+INFO:__main__:Epoch 14 : Average Loss 0.003 Time : 280
+INFO:__main__:Epoch 14 : Average Loss 0.009 Time : 277
+INFO:__main__:Epoch 14 : Average Loss 0.003 Time : 280
+INFO:__main__:Epoch 14 : Average Loss 0.003 Time : 278
+INFO:__main__:Epoch 14 : Average Loss 0.008 Time : 278
+INFO:__main__:Epoch 15 : Average Loss 0.003 Time : 280
+INFO:__main__:Epoch 15 : Average Loss 0.009 Time : 277
+INFO:__main__:Epoch 15 : Average Loss 0.003 Time : 280
+INFO:__main__:Epoch 15 : Average Loss 0.003 Time : 278
+INFO:__main__:Epoch 15 : Average Loss 0.007 Time : 278
+INFO:__main__:Epoch 16 : Average Loss 0.003 Time : 280
+INFO:__main__:Epoch 16 : Average Loss 0.009 Time : 277
+INFO:__main__:Epoch 16 : Average Loss 0.003 Time : 280
+INFO:__main__:Epoch 16 : Average Loss 0.003 Time : 278
+INFO:__main__:Epoch 16 : Average Loss 0.007 Time : 278
+INFO:__main__:Epoch 17 : Average Loss 0.003 Time : 280
+INFO:__main__:Epoch 17 : Average Loss 0.008 Time : 277
+INFO:__main__:Epoch 17 : Average Loss 0.003 Time : 280
+INFO:__main__:Epoch 17 : Average Loss 0.003 Time : 278
+INFO:__main__:Epoch 17 : Average Loss 0.007 Time : 278
+INFO:__main__:Epoch 18 : Average Loss 0.003 Time : 280
+INFO:__main__:Epoch 18 : Average Loss 0.008 Time : 277
+INFO:__main__:Epoch 18 : Average Loss 0.003 Time : 280
+INFO:__main__:Epoch 18 : Average Loss 0.003 Time : 278
+INFO:__main__:Epoch 18 : Average Loss 0.007 Time : 278
+INFO:__main__:Epoch 19 : Average Loss 0.003 Time : 280
+INFO:__main__:Epoch 19 : Average Loss 0.008 Time : 277
+INFO:__main__:Epoch 19 : Average Loss 0.002 Time : 280
+INFO:__main__:Epoch 19 : Average Loss 0.003 Time : 278
+INFO:__main__:Epoch 19 : Average Loss 0.007 Time : 278
+INFO:__main__:Epoch 20 : Average Loss 0.003 Time : 280
+INFO:__main__:Training finished : Duration 5607 secs, Avg Loss 0.003
+ERROR:root:Issue saving model or model parameters
+INFO:__main__:Evaluating on the validation set...
+Traceback (most recent call last):
+  File "scripts/main_generate_ccn.py", line 233, in <module>
+    main()
+  File "scripts/main_generate_ccn.py", line 207, in main
+    args.cuda, 0, 1, logger)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/chem/HGNN/scripts/test_ccn.py", line 49, in test_ccn
+    loss = criterion(output, y)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/module.py", line 491, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/loss.py", line 759, in forward
+    self.ignore_index, self.reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 1442, in cross_entropy
+    return nll_loss(log_softmax(input, 1), target, weight, size_average, ignore_index, reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 944, in log_softmax
+    return torch._C._nn.log_softmax(input, dim)
+RuntimeError: dimension out of range (expected to be in range of [-1, 0], but got 1)
+INFO:__main__:Epoch 20 : Average Loss 0.008 Time : 277
+INFO:__main__:Training finished : Duration 5540 secs, Avg Loss 0.008
+ERROR:root:Issue saving model or model parameters
+INFO:__main__:Evaluating on the validation set...
+Traceback (most recent call last):
+  File "scripts/main_generate_ccn.py", line 233, in <module>
+    main()
+  File "scripts/main_generate_ccn.py", line 207, in main
+    args.cuda, 0, 1, logger)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/chem/HGNN/scripts/test_ccn.py", line 49, in test_ccn
+    loss = criterion(output, y)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/module.py", line 491, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/loss.py", line 759, in forward
+    self.ignore_index, self.reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 1442, in cross_entropy
+    return nll_loss(log_softmax(input, 1), target, weight, size_average, ignore_index, reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 944, in log_softmax
+    return torch._C._nn.log_softmax(input, dim)
+RuntimeError: dimension out of range (expected to be in range of [-1, 0], but got 1)
+INFO:__main__:Epoch 20 : Average Loss 0.002 Time : 279
+INFO:__main__:Training finished : Duration 5611 secs, Avg Loss 0.002
+ERROR:root:Issue saving model or model parameters
+INFO:__main__:Evaluating on the validation set...
+Traceback (most recent call last):
+  File "scripts/main_generate_ccn.py", line 233, in <module>
+    main()
+  File "scripts/main_generate_ccn.py", line 207, in main
+    args.cuda, 0, 1, logger)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/chem/HGNN/scripts/test_ccn.py", line 49, in test_ccn
+    loss = criterion(output, y)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/module.py", line 491, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/loss.py", line 759, in forward
+    self.ignore_index, self.reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 1442, in cross_entropy
+    return nll_loss(log_softmax(input, 1), target, weight, size_average, ignore_index, reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 944, in log_softmax
+    return torch._C._nn.log_softmax(input, dim)
+RuntimeError: dimension out of range (expected to be in range of [-1, 0], but got 1)
+INFO:__main__:Epoch 20 : Average Loss 0.003 Time : 278
+INFO:__main__:Training finished : Duration 5577 secs, Avg Loss 0.003
+ERROR:root:Issue saving model or model parameters
+INFO:__main__:Evaluating on the validation set...
+Traceback (most recent call last):
+  File "scripts/main_generate_ccn.py", line 233, in <module>
+    main()
+  File "scripts/main_generate_ccn.py", line 207, in main
+    args.cuda, 0, 1, logger)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/chem/HGNN/scripts/test_ccn.py", line 49, in test_ccn
+    loss = criterion(output, y)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/module.py", line 491, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/loss.py", line 759, in forward
+    self.ignore_index, self.reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 1442, in cross_entropy
+    return nll_loss(log_softmax(input, 1), target, weight, size_average, ignore_index, reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 944, in log_softmax
+    return torch._C._nn.log_softmax(input, dim)
+RuntimeError: dimension out of range (expected to be in range of [-1, 0], but got 1)
+INFO:__main__:Epoch 20 : Average Loss 0.007 Time : 276
+INFO:__main__:Training finished : Duration 5576 secs, Avg Loss 0.007
+ERROR:root:Issue saving model or model parameters
+INFO:__main__:Evaluating on the validation set...
+Traceback (most recent call last):
+  File "scripts/main_generate_ccn.py", line 233, in <module>
+    main()
+  File "scripts/main_generate_ccn.py", line 207, in main
+    args.cuda, 0, 1, logger)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/chem/HGNN/scripts/test_ccn.py", line 49, in test_ccn
+    loss = criterion(output, y)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/module.py", line 491, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/modules/loss.py", line 759, in forward
+    self.ignore_index, self.reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 1442, in cross_entropy
+    return nll_loss(log_softmax(input, 1), target, weight, size_average, ignore_index, reduce)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py", line 944, in log_softmax
+    return torch._C._nn.log_softmax(input, dim)
+RuntimeError: dimension out of range (expected to be in range of [-1, 0], but got 1)

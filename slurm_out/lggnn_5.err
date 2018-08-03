@@ -1,0 +1,17 @@
+INFO:__main__:Log path : log/qm9/lg_True_up_2_bs_30_ep_70_st_10_op_adamax_lr_0.0004_da_0.9_L_20_h_2_ta_0_692.pickle
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Epoch 1 : Avg Error 0.557; Average Loss 0.601 Time : 361
+INFO:__main__:Epoch 2 : Avg Error 0.480; Average Loss 0.438 Time : 362
+INFO:__main__:Epoch 3 : Avg Error 0.457; Average Loss 0.376 Time : 364
+INFO:__main__:Epoch 4 : Avg Error 0.446; Average Loss 0.343 Time : 366
+INFO:__main__:Epoch 5 : Avg Error 0.429; Average Loss 0.301 Time : 377
+INFO:__main__:Epoch 6 : Avg Error 0.429; Average Loss 0.285 Time : 536
+INFO:__main__:Epoch 7 : Avg Error 0.420; Average Loss 0.256 Time : 1082
+INFO:__main__:Epoch 8 : Avg Error 0.411; Average Loss 0.239 Time : 412
+/var/lib/slurm/slurmd/job67819/slurm_script: line 20: 23831 Killed                  python3 scripts/main_gnn_qm9.py --lg True --update $u --lr $lr --lrdamping $lrdamp --step $step --data_path $data_path --epochs $epochs

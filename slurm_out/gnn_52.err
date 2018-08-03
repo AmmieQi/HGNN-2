@@ -1,0 +1,28 @@
+INFO:__main__:Log path : log/qm9/lg_False_up_1_bs_30_ep_50_st_20_op_adamax_lr_0.0004_da_0.9_L_20_h_2_ta_0_233.pickle
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Epoch 1 : Avg Error 0.703; Average Loss 0.921 Time : 153
+INFO:__main__:Epoch 2 : Avg Error 0.675; Average Loss 0.866 Time : 153
+INFO:__main__:Epoch 3 : Avg Error 0.601; Average Loss 0.721 Time : 155
+INFO:__main__:Epoch 4 : Avg Error 0.559; Average Loss 0.628 Time : 154
+INFO:__main__:Epoch 5 : Avg Error 0.547; Average Loss 0.590 Time : 185
+INFO:__main__:Epoch 6 : Avg Error 0.550; Average Loss 0.586 Time : 289
+INFO:__main__:Epoch 7 : Avg Error 0.545; Average Loss 0.579 Time : 160
+INFO:__main__:Epoch 8 : Avg Error 0.537; Average Loss 0.560 Time : 222
+INFO:__main__:Epoch 9 : Avg Error 0.533; Average Loss 0.551 Time : 158
+INFO:__main__:Epoch 10 : Avg Error 0.532; Average Loss 0.551 Time : 164
+INFO:__main__:Epoch 11 : Avg Error 0.528; Average Loss 0.540 Time : 267
+INFO:__main__:Epoch 12 : Avg Error 0.530; Average Loss 0.533 Time : 158
+Traceback (most recent call last):
+  File "scripts/main_gnn_qm9.py", line 245, in <module>
+    main()
+  File "scripts/main_gnn_qm9.py", line 195, in main
+    logger.add_epoch_info(epoch+1,run_loss.val, run_error.val, dur)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/chem/HGNN/functions/logs.py", line 130, in add_epoch_info
+    with open(self.res_file, 'a') as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'log/qm9/lg_False_up_1_bs_30_ep_50_st_20_op_adamax_lr_0.0004_da_0.9_L_20_h_2_ta_0_233.pickle/results.txt'

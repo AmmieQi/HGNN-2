@@ -1,0 +1,266 @@
+INFO:__main__:Log path : log/simul_data/lg_False_up_2_bs_30_ep_80_st_20_op_adamax_lr_0.0004_da_0.9_L_20_h_2_ta_0_726.pickle
+INFO:__main__:Log path : log/simul_data/lg_False_up_2_bs_30_ep_80_st_20_op_adamax_lr_0.0004_da_0.9_L_20_h_2_ta_0_536.pickle
+INFO:__main__:Log path : log/simul_data/lg_False_up_2_bs_30_ep_80_st_20_op_adamax_lr_0.0004_da_0.9_L_20_h_2_ta_0_115.pickle
+INFO:__main__:Log path : log/simul_data/lg_False_up_2_bs_30_ep_80_st_20_op_adamax_lr_0.0004_da_0.9_L_20_h_2_ta_0_168.pickle
+INFO:__main__:Log path : log/simul_data/lg_False_up_2_bs_30_ep_80_st_20_op_adamax_lr_0.0004_da_0.9_L_20_h_2_ta_0_108.pickle
+INFO:root:New directory created
+INFO:root:New directory created
+INFO:root:New directory created
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:__main__:Working on CPU
+INFO:__main__:Working on CPU
+INFO:__main__:Working on CPU
+INFO:__main__:Number of training instances : 4800
+INFO:__main__:Number of training instances : 4800
+INFO:__main__:Number of training instances : 4800
+INFO:__main__:Number of training instances : 4800
+INFO:__main__:Number of training instances : 4800
+INFO:__main__:Number of validation instances : 600
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Number of validation instances : 600
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Number of validation instances : 600
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Number of validation instances : 600
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Number of validation instances : 600
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Epoch 1 : Average Loss 0.670 Time : 76
+INFO:__main__:Epoch 1 : Average Loss 0.717 Time : 77
+INFO:__main__:Epoch 1 : Average Loss 0.846 Time : 78
+INFO:__main__:Epoch 1 : Average Loss 1.002 Time : 78
+INFO:__main__:Epoch 1 : Average Loss 1.504 Time : 79
+INFO:__main__:Epoch 2 : Average Loss 0.676 Time : 76
+INFO:__main__:Epoch 2 : Average Loss 0.712 Time : 76
+INFO:__main__:Epoch 2 : Average Loss 0.692 Time : 77
+INFO:__main__:Epoch 2 : Average Loss 0.848 Time : 78
+INFO:__main__:Epoch 2 : Average Loss 0.888 Time : 79
+INFO:__main__:Epoch 3 : Average Loss 0.681 Time : 76
+INFO:__main__:Epoch 3 : Average Loss 0.702 Time : 76
+INFO:__main__:Epoch 3 : Average Loss 0.667 Time : 77
+INFO:__main__:Epoch 3 : Average Loss 0.765 Time : 78
+INFO:__main__:Epoch 3 : Average Loss 0.712 Time : 79
+INFO:__main__:Epoch 4 : Average Loss 0.683 Time : 76
+INFO:__main__:Epoch 4 : Average Loss 0.702 Time : 77
+INFO:__main__:Epoch 4 : Average Loss 0.662 Time : 78
+INFO:__main__:Epoch 4 : Average Loss 0.728 Time : 78
+INFO:__main__:Epoch 4 : Average Loss 0.665 Time : 79
+INFO:__main__:Epoch 5 : Average Loss 0.684 Time : 76
+INFO:__main__:Epoch 5 : Average Loss 0.701 Time : 77
+INFO:__main__:Epoch 5 : Average Loss 0.673 Time : 78
+INFO:__main__:Epoch 5 : Average Loss 0.712 Time : 78
+INFO:__main__:Epoch 5 : Average Loss 0.666 Time : 80
+INFO:__main__:Epoch 6 : Average Loss 0.686 Time : 77
+INFO:__main__:Epoch 6 : Average Loss 0.706 Time : 77
+INFO:__main__:Epoch 6 : Average Loss 0.673 Time : 78
+INFO:__main__:Epoch 6 : Average Loss 0.707 Time : 79
+INFO:__main__:Epoch 6 : Average Loss 0.672 Time : 80
+INFO:__main__:Epoch 7 : Average Loss 0.683 Time : 77
+INFO:__main__:Epoch 7 : Average Loss 0.706 Time : 77
+INFO:__main__:Epoch 7 : Average Loss 0.672 Time : 78
+INFO:__main__:Epoch 7 : Average Loss 0.701 Time : 79
+INFO:__main__:Epoch 7 : Average Loss 0.680 Time : 80
+INFO:__main__:Epoch 8 : Average Loss 0.681 Time : 77
+INFO:__main__:Epoch 8 : Average Loss 0.705 Time : 78
+INFO:__main__:Epoch 8 : Average Loss 0.679 Time : 79
+INFO:__main__:Epoch 8 : Average Loss 0.703 Time : 79
+INFO:__main__:Epoch 8 : Average Loss 0.684 Time : 80
+INFO:__main__:Epoch 9 : Average Loss 0.677 Time : 77
+INFO:__main__:Epoch 9 : Average Loss 0.703 Time : 77
+INFO:__main__:Epoch 9 : Average Loss 0.673 Time : 78
+INFO:__main__:Epoch 9 : Average Loss 0.694 Time : 79
+INFO:__main__:Epoch 9 : Average Loss 0.686 Time : 80
+INFO:__main__:Epoch 10 : Average Loss 0.679 Time : 77
+INFO:__main__:Epoch 10 : Average Loss 0.704 Time : 78
+INFO:__main__:Epoch 10 : Average Loss 0.668 Time : 79
+INFO:__main__:Epoch 10 : Average Loss 0.693 Time : 79
+INFO:__main__:Epoch 10 : Average Loss 0.685 Time : 80
+INFO:__main__:Epoch 11 : Average Loss 0.680 Time : 77
+INFO:__main__:Epoch 11 : Average Loss 0.704 Time : 78
+INFO:__main__:Epoch 11 : Average Loss 0.669 Time : 79
+INFO:__main__:Epoch 11 : Average Loss 0.691 Time : 79
+INFO:__main__:Epoch 11 : Average Loss 0.681 Time : 81
+INFO:__main__:Epoch 12 : Average Loss 0.675 Time : 77
+INFO:__main__:Epoch 12 : Average Loss 0.703 Time : 77
+INFO:__main__:Epoch 12 : Average Loss 0.671 Time : 78
+INFO:__main__:Epoch 12 : Average Loss 0.690 Time : 79
+INFO:__main__:Epoch 12 : Average Loss 0.677 Time : 80
+INFO:__main__:Epoch 13 : Average Loss 0.675 Time : 77
+INFO:__main__:Epoch 13 : Average Loss 0.705 Time : 78
+INFO:__main__:Epoch 13 : Average Loss 0.672 Time : 79
+INFO:__main__:Epoch 13 : Average Loss 0.689 Time : 79
+INFO:__main__:Epoch 13 : Average Loss 0.673 Time : 81
+INFO:__main__:Epoch 14 : Average Loss 0.674 Time : 77
+INFO:__main__:Epoch 14 : Average Loss 0.704 Time : 78
+INFO:__main__:Epoch 14 : Average Loss 0.669 Time : 79
+INFO:__main__:Epoch 14 : Average Loss 0.689 Time : 79
+INFO:__main__:Epoch 14 : Average Loss 0.673 Time : 80
+INFO:__main__:Epoch 15 : Average Loss 0.674 Time : 77
+INFO:__main__:Epoch 15 : Average Loss 0.703 Time : 78
+INFO:__main__:Epoch 15 : Average Loss 0.672 Time : 79
+INFO:__main__:Epoch 15 : Average Loss 0.688 Time : 79
+INFO:__main__:Epoch 15 : Average Loss 0.673 Time : 80
+INFO:__main__:Epoch 16 : Average Loss 0.673 Time : 77
+INFO:__main__:Epoch 16 : Average Loss 0.704 Time : 78
+INFO:__main__:Epoch 16 : Average Loss 0.668 Time : 79
+INFO:__main__:Epoch 16 : Average Loss 0.688 Time : 79
+INFO:__main__:Epoch 16 : Average Loss 0.670 Time : 81
+INFO:__main__:Epoch 17 : Average Loss 0.672 Time : 77
+INFO:__main__:Epoch 17 : Average Loss 0.704 Time : 78
+INFO:__main__:Epoch 17 : Average Loss 0.669 Time : 79
+INFO:__main__:Epoch 17 : Average Loss 0.688 Time : 80
+INFO:__main__:Epoch 17 : Average Loss 0.668 Time : 81
+INFO:__main__:Epoch 18 : Average Loss 0.672 Time : 78
+INFO:__main__:Epoch 18 : Average Loss 0.703 Time : 78
+INFO:__main__:Epoch 18 : Average Loss 0.663 Time : 79
+INFO:__main__:Epoch 18 : Average Loss 0.689 Time : 80
+INFO:__main__:Epoch 18 : Average Loss 0.666 Time : 81
+INFO:__main__:Epoch 19 : Average Loss 0.673 Time : 77
+INFO:__main__:Epoch 19 : Average Loss 0.691 Time : 78
+INFO:__main__:Epoch 19 : Average Loss 0.662 Time : 79
+INFO:__main__:Epoch 19 : Average Loss 0.689 Time : 79
+INFO:__main__:Epoch 19 : Average Loss 0.669 Time : 81
+INFO:__main__:Epoch 20 : Average Loss 0.673 Time : 77
+INFO:__main__:Epoch 20 : Average Loss 0.701 Time : 78
+INFO:__main__:Epoch 20 : Average Loss 0.664 Time : 79
+INFO:__main__:Epoch 20 : Average Loss 0.687 Time : 79
+INFO:__main__:Epoch 20 : Average Loss 0.665 Time : 80
+INFO:__main__:Epoch 21 : Average Loss 0.673 Time : 78
+INFO:__main__:Epoch 21 : Average Loss 0.701 Time : 78
+INFO:__main__:Epoch 21 : Average Loss 0.665 Time : 79
+INFO:__main__:Epoch 21 : Average Loss 0.690 Time : 80
+INFO:__main__:Epoch 21 : Average Loss 0.664 Time : 81
+INFO:__main__:Epoch 22 : Average Loss 0.673 Time : 77
+INFO:__main__:Epoch 22 : Average Loss 0.704 Time : 78
+INFO:__main__:Epoch 22 : Average Loss 0.664 Time : 79
+INFO:__main__:Epoch 22 : Average Loss 0.688 Time : 79
+INFO:__main__:Epoch 22 : Average Loss 0.669 Time : 81
+INFO:__main__:Epoch 23 : Average Loss 0.671 Time : 78
+INFO:__main__:Epoch 23 : Average Loss 0.693 Time : 78
+INFO:__main__:Epoch 23 : Average Loss 0.672 Time : 79
+INFO:__main__:Epoch 23 : Average Loss 0.689 Time : 80
+INFO:__main__:Epoch 24 : Average Loss 0.672 Time : 77
+INFO:__main__:Epoch 23 : Average Loss 0.670 Time : 83
+INFO:__main__:Epoch 24 : Average Loss 0.687 Time : 78
+INFO:__main__:Epoch 24 : Average Loss 0.672 Time : 79
+INFO:__main__:Epoch 24 : Average Loss 0.685 Time : 84
+INFO:__main__:Epoch 25 : Average Loss 0.672 Time : 78
+INFO:__main__:Epoch 24 : Average Loss 0.665 Time : 86
+INFO:__main__:Epoch 25 : Average Loss 0.694 Time : 78
+INFO:__main__:Epoch 25 : Average Loss 0.674 Time : 79
+INFO:__main__:Epoch 25 : Average Loss 0.687 Time : 86
+INFO:__main__:Epoch 26 : Average Loss 0.674 Time : 78
+INFO:__main__:Epoch 26 : Average Loss 0.689 Time : 79
+INFO:__main__:Epoch 25 : Average Loss 0.669 Time : 87
+INFO:__main__:Epoch 26 : Average Loss 0.658 Time : 80
+INFO:__main__:Epoch 26 : Average Loss 0.681 Time : 84
+INFO:__main__:Epoch 27 : Average Loss 0.674 Time : 79
+INFO:__main__:Epoch 27 : Average Loss 0.690 Time : 79
+INFO:__main__:Epoch 27 : Average Loss 0.668 Time : 80
+INFO:__main__:Epoch 28 : Average Loss 0.676 Time : 78
+INFO:__main__:Epoch 28 : Average Loss 0.695 Time : 79
+INFO:__main__:Epoch 28 : Average Loss 0.681 Time : 80
+INFO:__main__:Epoch 29 : Average Loss 0.673 Time : 79
+INFO:__main__:Epoch 29 : Average Loss 0.701 Time : 79
+INFO:__main__:Epoch 27 : Average Loss 0.689 Time : 185
+INFO:__main__:Epoch 29 : Average Loss 0.689 Time : 80
+INFO:__main__:Epoch 30 : Average Loss 0.673 Time : 79
+INFO:__main__:Epoch 30 : Average Loss 0.700 Time : 79
+INFO:__main__:Epoch 26 : Average Loss 0.669 Time : 315
+INFO:__main__:Epoch 28 : Average Loss 0.690 Time : 79
+INFO:__main__:Epoch 30 : Average Loss 0.694 Time : 81
+INFO:__main__:Epoch 31 : Average Loss 0.673 Time : 79
+INFO:__main__:Epoch 31 : Average Loss 0.700 Time : 80
+INFO:__main__:Epoch 29 : Average Loss 0.690 Time : 80
+INFO:__main__:Epoch 27 : Average Loss 0.669 Time : 82
+INFO:__main__:Epoch 31 : Average Loss 0.675 Time : 82
+INFO:__main__:Epoch 32 : Average Loss 0.671 Time : 80
+INFO:__main__:Epoch 32 : Average Loss 0.698 Time : 81
+INFO:__main__:Epoch 30 : Average Loss 0.690 Time : 86
+INFO:__main__:Epoch 28 : Average Loss 0.662 Time : 85
+INFO:__main__:Epoch 32 : Average Loss 0.675 Time : 140
+/var/lib/slurm/slurmd/job67664/slurm_script: line 20: 24502 Killed                  python3 scripts/main_generate.py --bs $bs --lr $lr --lrdamping $lrdamp --step $step --train_path $tr_path --valid_path $te_path
+INFO:__main__:Epoch 31 : Average Loss 0.693 Time : 365
+INFO:__main__:Epoch 29 : Average Loss 0.662 Time : 366
+INFO:__main__:Epoch 33 : Average Loss 0.693 Time : 374
+INFO:__main__:Epoch 33 : Average Loss 0.665 Time : 305
+INFO:__main__:Epoch 34 : Average Loss 0.689 Time : 78
+INFO:__main__:Epoch 32 : Average Loss 0.692 Time : 85
+INFO:__main__:Epoch 30 : Average Loss 0.667 Time : 86
+INFO:__main__:Epoch 34 : Average Loss 0.662 Time : 80
+INFO:__main__:Epoch 35 : Average Loss 0.694 Time : 79
+INFO:__main__:Epoch 33 : Average Loss 0.692 Time : 86
+INFO:__main__:Epoch 31 : Average Loss 0.665 Time : 87
+INFO:__main__:Epoch 35 : Average Loss 0.658 Time : 79
+INFO:__main__:Epoch 36 : Average Loss 0.698 Time : 78
+INFO:__main__:Epoch 34 : Average Loss 0.693 Time : 86
+INFO:__main__:Epoch 32 : Average Loss 0.666 Time : 87
+INFO:__main__:Epoch 36 : Average Loss 0.668 Time : 79
+INFO:__main__:Epoch 37 : Average Loss 0.698 Time : 78
+INFO:__main__:Epoch 35 : Average Loss 0.691 Time : 86
+INFO:__main__:Epoch 37 : Average Loss 0.669 Time : 79
+INFO:__main__:Epoch 33 : Average Loss 0.663 Time : 88
+INFO:__main__:Epoch 38 : Average Loss 0.699 Time : 78
+INFO:__main__:Epoch 38 : Average Loss 0.661 Time : 79
+INFO:__main__:Epoch 36 : Average Loss 0.695 Time : 86
+INFO:__main__:Epoch 34 : Average Loss 0.662 Time : 88
+INFO:__main__:Epoch 39 : Average Loss 0.697 Time : 78
+INFO:__main__:Epoch 39 : Average Loss 0.660 Time : 80
+INFO:__main__:Epoch 37 : Average Loss 0.696 Time : 89
+INFO:__main__:Epoch 35 : Average Loss 0.668 Time : 91
+INFO:__main__:Epoch 40 : Average Loss 0.699 Time : 118
+/var/lib/slurm/slurmd/job67665/slurm_script: line 20: 24505 Killed                  python3 scripts/main_generate.py --bs $bs --lr $lr --lrdamping $lrdamp --step $step --train_path $tr_path --valid_path $te_path
+INFO:__main__:Epoch 40 : Average Loss 0.657 Time : 193
+INFO:__main__:Epoch 38 : Average Loss 0.699 Time : 187
+INFO:__main__:Epoch 36 : Average Loss 0.663 Time : 189
+INFO:__main__:Epoch 41 : Average Loss 0.661 Time : 79
+INFO:__main__:Epoch 39 : Average Loss 0.698 Time : 85
+INFO:__main__:Epoch 37 : Average Loss 0.669 Time : 87
+INFO:__main__:Epoch 42 : Average Loss 0.655 Time : 78
+INFO:__main__:Epoch 40 : Average Loss 0.698 Time : 86
+INFO:__main__:Epoch 38 : Average Loss 0.663 Time : 88
+INFO:__main__:Epoch 43 : Average Loss 0.661 Time : 78
+INFO:__main__:Epoch 41 : Average Loss 0.697 Time : 86
+INFO:__main__:Epoch 39 : Average Loss 0.663 Time : 88
+INFO:__main__:Epoch 44 : Average Loss 0.658 Time : 78
+INFO:__main__:Epoch 42 : Average Loss 0.701 Time : 86
+INFO:__main__:Epoch 40 : Average Loss 0.661 Time : 87
+INFO:__main__:Epoch 45 : Average Loss 0.661 Time : 79
+INFO:__main__:Epoch 43 : Average Loss 0.696 Time : 86
+INFO:__main__:Epoch 41 : Average Loss 0.665 Time : 88
+INFO:__main__:Epoch 46 : Average Loss 0.659 Time : 81
+/var/lib/slurm/slurmd/job67663/slurm_script: line 20: 24501 Killed                  python3 scripts/main_generate.py --bs $bs --lr $lr --lrdamping $lrdamp --step $step --train_path $tr_path --valid_path $te_path
+INFO:__main__:Epoch 44 : Average Loss 0.699 Time : 108
+INFO:__main__:Epoch 42 : Average Loss 0.660 Time : 112
+INFO:__main__:Epoch 45 : Average Loss 0.700 Time : 86
+INFO:__main__:Epoch 43 : Average Loss 0.657 Time : 88
+INFO:__main__:Epoch 46 : Average Loss 0.700 Time : 86
+INFO:__main__:Epoch 44 : Average Loss 0.658 Time : 88
+INFO:__main__:Epoch 47 : Average Loss 0.700 Time : 86
+INFO:__main__:Epoch 45 : Average Loss 0.670 Time : 88
+INFO:__main__:Epoch 48 : Average Loss 0.697 Time : 86
+INFO:__main__:Epoch 46 : Average Loss 0.671 Time : 88
+INFO:__main__:Epoch 49 : Average Loss 0.700 Time : 87
+INFO:__main__:Epoch 47 : Average Loss 0.658 Time : 88
+INFO:__main__:Epoch 50 : Average Loss 0.701 Time : 86
+INFO:__main__:Epoch 48 : Average Loss 0.660 Time : 88
+INFO:__main__:Epoch 51 : Average Loss 0.695 Time : 87
+INFO:__main__:Epoch 49 : Average Loss 0.649 Time : 88
+/var/lib/slurm/slurmd/job67662/slurm_script: line 20: 24522 Killed                  python3 scripts/main_generate.py --bs $bs --lr $lr --lrdamping $lrdamp --step $step --train_path $tr_path --valid_path $te_path
+INFO:__main__:Epoch 50 : Average Loss 0.654 Time : 1058
+INFO:__main__:Epoch 51 : Average Loss 0.659 Time : 82
+INFO:__main__:Epoch 52 : Average Loss 0.649 Time : 81
+INFO:__main__:Epoch 53 : Average Loss 0.652 Time : 81
+INFO:__main__:Epoch 54 : Average Loss 0.647 Time : 81
+INFO:__main__:Epoch 55 : Average Loss 0.647 Time : 84
+INFO:__main__:Epoch 56 : Average Loss 0.639 Time : 86
+INFO:__main__:Epoch 57 : Average Loss 0.656 Time : 86
+/var/lib/slurm/slurmd/job67666/slurm_script: line 20: 24514 Killed                  python3 scripts/main_generate.py --bs $bs --lr $lr --lrdamping $lrdamp --step $step --train_path $tr_path --valid_path $te_path

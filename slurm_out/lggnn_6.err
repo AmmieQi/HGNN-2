@@ -1,0 +1,34 @@
+INFO:__main__:Log path : log/qm9/lg_True_up_2_bs_30_ep_80_st_10_op_adamax_lr_0.0004_da_0.9_L_20_h_2_ta_0_773.pickle
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Epoch 1 : Avg Error 0.856; Average Loss 1.340 Time : 362
+INFO:__main__:Epoch 2 : Avg Error 0.778; Average Loss 1.114 Time : 362
+INFO:__main__:Epoch 3 : Avg Error 0.698; Average Loss 0.903 Time : 364
+INFO:__main__:Epoch 4 : Avg Error 0.651; Average Loss 0.757 Time : 373
+INFO:__main__:Epoch 5 : Avg Error 0.629; Average Loss 0.684 Time : 383
+INFO:__main__:Epoch 6 : Avg Error 0.601; Average Loss 0.611 Time : 1370
+INFO:__main__:Epoch 7 : Avg Error 0.576; Average Loss 0.558 Time : 391
+INFO:__main__:Epoch 8 : Avg Error 0.559; Average Loss 0.523 Time : 443
+INFO:__main__:Epoch 9 : Avg Error 0.540; Average Loss 0.489 Time : 427
+INFO:__main__:Epoch 10 : Avg Error 0.530; Average Loss 0.465 Time : 400
+INFO:__main__:Epoch 11 : Avg Error 0.530; Average Loss 0.445 Time : 442
+INFO:__main__:Epoch 12 : Avg Error 0.524; Average Loss 0.434 Time : 374
+INFO:__main__:Epoch 13 : Avg Error 0.527; Average Loss 0.425 Time : 468
+INFO:__main__:Epoch 14 : Avg Error 0.518; Average Loss 0.415 Time : 394
+INFO:__main__:Epoch 15 : Avg Error 0.504; Average Loss 0.392 Time : 395
+INFO:__main__:Epoch 16 : Avg Error 0.492; Average Loss 0.364 Time : 396
+INFO:__main__:Epoch 17 : Avg Error 0.489; Average Loss 0.367 Time : 393
+INFO:__main__:Epoch 18 : Avg Error 0.491; Average Loss 0.360 Time : 518
+INFO:__main__:Epoch 19 : Avg Error 0.492; Average Loss 0.351 Time : 373
+INFO:__main__:Epoch 20 : Avg Error 0.499; Average Loss 0.357 Time : 373
+INFO:__main__:Epoch 21 : Avg Error 0.485; Average Loss 0.347 Time : 374
+INFO:__main__:Epoch 22 : Avg Error 0.494; Average Loss 0.358 Time : 393
+INFO:__main__:Epoch 23 : Avg Error 0.507; Average Loss 0.354 Time : 394
+INFO:__main__:Epoch 24 : Avg Error 0.510; Average Loss 0.361 Time : 395
+INFO:__main__:Epoch 25 : Avg Error 0.511; Average Loss 0.369 Time : 393
+/var/lib/slurm/slurmd/job67820/slurm_script: line 20: 23864 Killed                  python3 scripts/main_gnn_qm9.py --lg True --update $u --lr $lr --lrdamping $lrdamp --step $step --data_path $data_path --epochs $epochs

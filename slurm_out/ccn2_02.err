@@ -1,0 +1,2556 @@
+INFO:__main__:Log path : log/qm9/ccn_k_2_ep_20_st_10_op_adamax_lr_0.0004_da_0.9_L_3_h_2_ta_0_313.pickle
+INFO:__main__:Log path : log/qm9/ccn_k_2_ep_20_st_10_op_adamax_lr_0.0004_da_0.9_L_3_h_2_ta_0_269.pickle
+INFO:__main__:Log path : log/qm9/ccn_k_2_ep_20_st_10_op_adamax_lr_0.0004_da_0.9_L_3_h_2_ta_0_443.pickle
+INFO:__main__:Log path : log/qm9/ccn_k_2_ep_20_st_10_op_adamax_lr_0.0004_da_0.9_L_3_h_2_ta_0_302.pickle
+INFO:root:New directory created
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:root:New directory created
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Second-order CCN created
+INFO:__main__:Training the CCN...
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Second-order CCN created
+INFO:__main__:Training the CCN...
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Second-order CCN created
+INFO:__main__:Training the CCN...
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Second-order CCN created
+INFO:__main__:Training the CCN...
+INFO:root:After 0 instances : Loss 4315173.500 MAE 2077.300
+INFO:root:After 0 instances : Loss 11278.446 MAE 106.200
+INFO:root:After 0 instances : Loss 1708170.125 MAE 1306.970
+INFO:root:After 0 instances : Loss 1464969.500 MAE 1210.359
+INFO:root:After 400 instances : Loss 1076.950 MAE 32.707
+INFO:root:After 400 instances : Loss 24460.623 MAE 150.889
+INFO:root:After 400 instances : Loss 3397.932 MAE 19.498
+INFO:root:After 400 instances : Loss 9391.090 MAE 94.743
+INFO:root:After 800 instances : Loss 440.226 MAE 20.234
+INFO:root:After 800 instances : Loss 2426.945 MAE 48.971
+INFO:root:After 800 instances : Loss 6615.652 MAE 80.859
+INFO:root:After 800 instances : Loss 7260.076 MAE 83.411
+INFO:root:After 1200 instances : Loss 376.591 MAE 19.041
+INFO:root:After 1200 instances : Loss 2091.002 MAE 43.688
+INFO:root:After 1200 instances : Loss 1607.662 MAE 39.038
+INFO:root:After 1200 instances : Loss 1054.447 MAE 30.786
+INFO:root:After 1600 instances : Loss 221.548 MAE 10.734
+INFO:root:After 1600 instances : Loss 545.277 MAE 23.308
+INFO:root:After 1600 instances : Loss 1741.437 MAE 41.419
+INFO:root:After 1600 instances : Loss 389.776 MAE 9.156
+INFO:root:After 2000 instances : Loss 105.175 MAE 10.203
+INFO:root:After 2000 instances : Loss 864.868 MAE 29.290
+INFO:root:After 2000 instances : Loss 126.913 MAE 11.080
+INFO:root:After 2000 instances : Loss 82.838 MAE 6.801
+INFO:root:After 2400 instances : Loss 162.562 MAE 12.541
+INFO:root:After 2400 instances : Loss 430.713 MAE 20.383
+INFO:root:After 2400 instances : Loss 757.997 MAE 26.292
+INFO:root:After 2400 instances : Loss 111.433 MAE 10.292
+INFO:root:After 2800 instances : Loss 4.427 MAE 1.934
+INFO:root:After 2800 instances : Loss 40.501 MAE 6.161
+INFO:root:After 2800 instances : Loss 62.955 MAE 6.907
+INFO:root:After 2800 instances : Loss 713.796 MAE 25.869
+INFO:root:After 3200 instances : Loss 22.150 MAE 4.565
+INFO:root:After 3200 instances : Loss 26.190 MAE 4.891
+INFO:root:After 3200 instances : Loss 198.409 MAE 13.853
+INFO:root:After 3200 instances : Loss 170.465 MAE 12.993
+INFO:root:After 3600 instances : Loss 57.465 MAE 7.399
+INFO:root:After 3600 instances : Loss 121.040 MAE 10.899
+INFO:root:After 3600 instances : Loss 214.737 MAE 14.624
+INFO:root:After 3600 instances : Loss 79.948 MAE 8.847
+INFO:root:After 4000 instances : Loss 33.045 MAE 5.260
+INFO:root:After 4000 instances : Loss 69.339 MAE 8.155
+INFO:root:After 4000 instances : Loss 188.724 MAE 13.639
+INFO:root:After 4000 instances : Loss 148.496 MAE 11.917
+INFO:root:After 4400 instances : Loss 111.911 MAE 10.062
+INFO:root:After 4400 instances : Loss 95.227 MAE 9.497
+INFO:root:After 4400 instances : Loss 166.321 MAE 12.813
+INFO:root:After 4400 instances : Loss 15.429 MAE 2.882
+INFO:root:After 4800 instances : Loss 16.830 MAE 3.720
+INFO:root:After 4800 instances : Loss 53.955 MAE 7.255
+INFO:root:After 4800 instances : Loss 3.155 MAE 1.602
+INFO:root:After 4800 instances : Loss 151.508 MAE 12.099
+INFO:root:After 5200 instances : Loss 36.564 MAE 5.939
+INFO:root:After 5200 instances : Loss 22.255 MAE 4.348
+INFO:root:After 5200 instances : Loss 22.406 MAE 3.661
+INFO:root:After 5200 instances : Loss 160.542 MAE 12.231
+INFO:root:After 5600 instances : Loss 1.328 MAE 1.042
+INFO:root:After 5600 instances : Loss 2.441 MAE 1.512
+INFO:root:After 5600 instances : Loss 10.770 MAE 3.156
+INFO:root:After 5600 instances : Loss 7.157 MAE 1.685
+INFO:root:After 6000 instances : Loss 2.579 MAE 1.431
+INFO:root:After 6000 instances : Loss 32.332 MAE 5.648
+INFO:root:After 6000 instances : Loss 3.205 MAE 1.196
+INFO:root:After 6000 instances : Loss 61.869 MAE 7.566
+INFO:root:After 6400 instances : Loss 89.899 MAE 9.355
+INFO:root:After 6400 instances : Loss 12.388 MAE 3.325
+INFO:root:After 6400 instances : Loss 8.074 MAE 2.704
+INFO:root:After 6400 instances : Loss 175.665 MAE 13.162
+INFO:root:After 6800 instances : Loss 34.731 MAE 5.682
+INFO:root:After 6800 instances : Loss 2.694 MAE 1.393
+INFO:root:After 6800 instances : Loss 122.484 MAE 10.942
+INFO:root:After 6800 instances : Loss 10.508 MAE 2.632
+INFO:root:After 7200 instances : Loss 17.012 MAE 4.080
+INFO:root:After 7200 instances : Loss 81.941 MAE 8.746
+INFO:root:After 7200 instances : Loss 31.376 MAE 5.524
+INFO:root:After 7200 instances : Loss 2.838 MAE 1.234
+INFO:root:After 7600 instances : Loss 7.271 MAE 1.008
+INFO:root:After 7600 instances : Loss 4.071 MAE 1.989
+INFO:root:After 7600 instances : Loss 1.064 MAE 0.895
+INFO:root:After 7600 instances : Loss 6.412 MAE 2.523
+INFO:root:After 8000 instances : Loss 11.741 MAE 3.399
+INFO:root:After 8000 instances : Loss 11.957 MAE 2.402
+INFO:root:After 8000 instances : Loss 18.500 MAE 4.239
+INFO:root:After 8000 instances : Loss 34.160 MAE 5.805
+INFO:root:After 8400 instances : Loss 52.739 MAE 7.079
+INFO:root:After 8400 instances : Loss 18.226 MAE 4.232
+INFO:root:After 8400 instances : Loss 32.640 MAE 5.646
+INFO:root:After 8400 instances : Loss 0.312 MAE 0.178
+INFO:root:After 8800 instances : Loss 6.966 MAE 2.345
+INFO:root:After 8800 instances : Loss 12.452 MAE 3.523
+INFO:root:After 8800 instances : Loss 1.886 MAE 1.199
+INFO:root:After 8800 instances : Loss 65.477 MAE 7.971
+INFO:root:After 9200 instances : Loss 12.572 MAE 3.357
+INFO:root:After 9200 instances : Loss 3.532 MAE 1.865
+INFO:root:After 9200 instances : Loss 1.627 MAE 0.928
+INFO:root:After 9200 instances : Loss 0.714 MAE 0.803
+INFO:root:After 9600 instances : Loss 6.894 MAE 1.501
+INFO:root:After 9600 instances : Loss 22.286 MAE 4.570
+INFO:root:After 9600 instances : Loss 7.197 MAE 2.675
+INFO:root:After 9600 instances : Loss 58.714 MAE 7.442
+INFO:root:After 10000 instances : Loss 86.933 MAE 9.233
+INFO:root:After 10000 instances : Loss 57.234 MAE 7.475
+INFO:root:After 10000 instances : Loss 48.597 MAE 6.903
+INFO:root:After 10000 instances : Loss 95.366 MAE 9.609
+INFO:root:After 10400 instances : Loss 87.593 MAE 9.071
+INFO:root:After 10400 instances : Loss 0.888 MAE 0.802
+INFO:root:After 10400 instances : Loss 6.590 MAE 2.426
+INFO:root:After 10400 instances : Loss 0.189 MAE 0.188
+INFO:__main__:Epoch 1 : Avg Error 0.722; Average Loss 0.607 Time : 3172
+INFO:root:After 0 instances : Loss 106.657 MAE 10.328
+INFO:__main__:Epoch 1 : Avg Error 1.668; Average Loss 3.764 Time : 3226
+INFO:root:After 0 instances : Loss 123.227 MAE 11.101
+INFO:__main__:Epoch 1 : Avg Error 0.567; Average Loss 0.402 Time : 3232
+INFO:root:After 0 instances : Loss 4.048 MAE 2.012
+INFO:__main__:Epoch 1 : Avg Error 3.344; Average Loss 11.441 Time : 3261
+INFO:root:After 0 instances : Loss 1.924 MAE 1.387
+INFO:root:After 400 instances : Loss 2.934 MAE 1.369
+INFO:root:After 400 instances : Loss 59.767 MAE 7.614
+INFO:root:After 400 instances : Loss 7.988 MAE 2.798
+INFO:root:After 400 instances : Loss 9.902 MAE 3.030
+INFO:root:After 800 instances : Loss 4.731 MAE 1.651
+INFO:root:After 800 instances : Loss 19.593 MAE 4.338
+INFO:root:After 800 instances : Loss 1.278 MAE 0.571
+INFO:root:After 800 instances : Loss 2.610 MAE 1.328
+INFO:root:After 1200 instances : Loss 52.995 MAE 7.181
+INFO:root:After 1200 instances : Loss 48.399 MAE 6.894
+INFO:root:After 1200 instances : Loss 20.427 MAE 4.492
+INFO:root:After 1200 instances : Loss 0.813 MAE 0.874
+INFO:root:After 1600 instances : Loss 38.011 MAE 6.112
+INFO:root:After 1600 instances : Loss 25.387 MAE 5.029
+INFO:root:After 1600 instances : Loss 37.710 MAE 5.996
+INFO:root:After 2000 instances : Loss 2.861 MAE 0.724
+INFO:root:After 1600 instances : Loss 0.790 MAE 0.852
+INFO:root:After 2000 instances : Loss 59.714 MAE 7.383
+INFO:root:After 2000 instances : Loss 1.495 MAE 0.718
+INFO:root:After 2400 instances : Loss 51.655 MAE 7.129
+INFO:root:After 2000 instances : Loss 0.629 MAE 0.223
+INFO:root:After 2400 instances : Loss 0.168 MAE 0.403
+INFO:root:After 2400 instances : Loss 18.037 MAE 4.162
+INFO:root:After 2800 instances : Loss 8.066 MAE 2.773
+INFO:root:After 2400 instances : Loss 1.150 MAE 1.069
+INFO:root:After 2800 instances : Loss 2.806 MAE 1.495
+INFO:root:After 2800 instances : Loss 29.516 MAE 5.385
+INFO:root:After 3200 instances : Loss 3.520 MAE 1.859
+INFO:root:After 2800 instances : Loss 4.063 MAE 1.949
+INFO:root:After 3200 instances : Loss 1.513 MAE 0.973
+INFO:root:After 3200 instances : Loss 2.502 MAE 0.937
+INFO:root:After 3600 instances : Loss 3.435 MAE 1.382
+INFO:root:After 3200 instances : Loss 3.539 MAE 1.866
+INFO:root:After 3600 instances : Loss 2.689 MAE 1.420
+INFO:root:After 3600 instances : Loss 17.000 MAE 4.083
+INFO:root:After 4000 instances : Loss 0.888 MAE 0.309
+INFO:root:After 3600 instances : Loss 36.474 MAE 5.781
+INFO:root:After 4000 instances : Loss 0.737 MAE 0.311
+INFO:root:After 4000 instances : Loss 0.769 MAE 0.855
+INFO:root:After 4400 instances : Loss 21.526 MAE 3.530
+INFO:root:After 4000 instances : Loss 2.125 MAE 1.354
+INFO:root:After 4400 instances : Loss 13.963 MAE 3.682
+INFO:root:After 4400 instances : Loss 8.265 MAE 2.729
+INFO:root:After 4800 instances : Loss 1.203 MAE 0.414
+INFO:root:After 4400 instances : Loss 5.314 MAE 2.291
+INFO:root:After 4800 instances : Loss 1.027 MAE 0.983
+INFO:root:After 4800 instances : Loss 12.608 MAE 3.539
+INFO:root:After 5200 instances : Loss 18.504 MAE 4.188
+INFO:root:After 4800 instances : Loss 3.012 MAE 1.698
+INFO:root:After 5200 instances : Loss 1.348 MAE 0.454
+INFO:root:After 5200 instances : Loss 14.783 MAE 3.830
+INFO:root:After 5600 instances : Loss 0.192 MAE 0.306
+INFO:root:After 5200 instances : Loss 3.803 MAE 1.870
+INFO:root:After 5600 instances : Loss 5.605 MAE 2.325
+INFO:root:After 5600 instances : Loss 0.311 MAE 0.556
+INFO:root:After 6000 instances : Loss 4.938 MAE 2.200
+INFO:root:After 5600 instances : Loss 2.814 MAE 1.651
+INFO:root:After 6000 instances : Loss 3.876 MAE 1.928
+INFO:root:After 6000 instances : Loss 3.394 MAE 1.841
+INFO:root:After 6400 instances : Loss 0.944 MAE 0.781
+INFO:root:After 6000 instances : Loss 0.197 MAE 0.429
+INFO:root:After 6400 instances : Loss 2.234 MAE 1.272
+INFO:root:After 6400 instances : Loss 18.629 MAE 4.314
+INFO:root:After 6800 instances : Loss 23.769 MAE 4.838
+INFO:root:After 6400 instances : Loss 7.076 MAE 2.634
+INFO:root:After 6800 instances : Loss 0.577 MAE 0.675
+INFO:root:After 6800 instances : Loss 3.817 MAE 1.916
+INFO:root:After 7200 instances : Loss 0.818 MAE 0.792
+INFO:root:After 6800 instances : Loss 10.761 MAE 3.223
+INFO:root:After 7200 instances : Loss 9.039 MAE 2.926
+INFO:root:After 7200 instances : Loss 9.938 MAE 3.127
+INFO:root:After 7600 instances : Loss 8.501 MAE 2.902
+INFO:root:After 7200 instances : Loss 3.635 MAE 1.885
+INFO:root:After 7600 instances : Loss 2.962 MAE 1.689
+INFO:root:After 7600 instances : Loss 0.489 MAE 0.587
+INFO:root:After 8000 instances : Loss 1.661 MAE 1.289
+INFO:root:After 8000 instances : Loss 2.557 MAE 0.859
+INFO:root:After 7600 instances : Loss 0.748 MAE 0.855
+INFO:root:After 8000 instances : Loss 4.449 MAE 2.067
+INFO:root:After 8400 instances : Loss 23.470 MAE 4.622
+INFO:root:After 8400 instances : Loss 5.278 MAE 2.293
+INFO:root:After 8000 instances : Loss 0.739 MAE 0.739
+INFO:root:After 8400 instances : Loss 4.211 MAE 1.967
+INFO:root:After 8800 instances : Loss 12.944 MAE 3.564
+INFO:root:After 8800 instances : Loss 1.566 MAE 1.244
+INFO:root:After 8800 instances : Loss 4.088 MAE 2.017
+INFO:root:After 8400 instances : Loss 0.451 MAE 0.362
+INFO:root:After 9200 instances : Loss 1.005 MAE 0.786
+INFO:root:After 9200 instances : Loss 1.867 MAE 1.361
+INFO:root:After 9200 instances : Loss 2.667 MAE 1.554
+INFO:root:After 9600 instances : Loss 3.672 MAE 1.296
+INFO:root:After 8800 instances : Loss 4.186 MAE 2.036
+INFO:root:After 9600 instances : Loss 0.935 MAE 0.699
+INFO:root:After 9600 instances : Loss 20.047 MAE 4.291
+INFO:root:After 10000 instances : Loss 23.411 MAE 4.637
+INFO:root:After 9200 instances : Loss 6.388 MAE 2.507
+INFO:root:After 10000 instances : Loss 0.154 MAE 0.184
+INFO:root:After 10000 instances : Loss 14.723 MAE 3.723
+INFO:root:After 10400 instances : Loss 39.153 MAE 6.081
+INFO:root:After 9600 instances : Loss 2.839 MAE 1.640
+INFO:__main__:Epoch 2 : Avg Error 0.487; Average Loss 0.288 Time : 3157
+INFO:root:After 0 instances : Loss 15.972 MAE 3.997
+INFO:root:After 10400 instances : Loss 2.433 MAE 1.542
+INFO:root:After 10400 instances : Loss 1.815 MAE 1.330
+INFO:root:After 10000 instances : Loss 28.526 MAE 5.294
+INFO:__main__:Epoch 2 : Avg Error 0.912; Average Loss 1.293 Time : 3210
+INFO:root:After 0 instances : Loss 1.960 MAE 1.400
+INFO:root:After 400 instances : Loss 7.025 MAE 2.619
+INFO:__main__:Epoch 2 : Avg Error 0.482; Average Loss 0.361 Time : 3219
+INFO:root:After 0 instances : Loss 7.123 MAE 2.669
+INFO:root:After 10400 instances : Loss 1.613 MAE 1.008
+INFO:root:After 400 instances : Loss 5.127 MAE 2.167
+INFO:root:After 800 instances : Loss 19.928 MAE 4.453
+INFO:root:After 400 instances : Loss 2.960 MAE 1.715
+INFO:__main__:Epoch 2 : Avg Error 1.626; Average Loss 3.101 Time : 3339
+INFO:root:After 0 instances : Loss 1.636 MAE 1.279
+INFO:root:After 800 instances : Loss 1.930 MAE 1.357
+INFO:root:After 1200 instances : Loss 20.242 MAE 4.416
+INFO:root:After 800 instances : Loss 0.547 MAE 0.509
+INFO:root:After 400 instances : Loss 10.267 MAE 3.109
+INFO:root:After 1200 instances : Loss 1.857 MAE 1.307
+INFO:root:After 1600 instances : Loss 14.865 MAE 3.785
+INFO:root:After 1200 instances : Loss 9.480 MAE 2.973
+INFO:root:After 800 instances : Loss 1.085 MAE 0.771
+INFO:root:After 1600 instances : Loss 0.070 MAE 0.164
+INFO:root:After 2000 instances : Loss 1.565 MAE 0.803
+INFO:root:After 1600 instances : Loss 26.525 MAE 5.097
+INFO:root:After 1200 instances : Loss 2.216 MAE 1.432
+INFO:root:After 2000 instances : Loss 17.193 MAE 3.957
+INFO:root:After 2400 instances : Loss 31.534 MAE 5.558
+INFO:root:After 2000 instances : Loss 3.017 MAE 1.724
+INFO:root:After 1600 instances : Loss 0.197 MAE 0.265
+INFO:root:After 2400 instances : Loss 0.302 MAE 0.500
+INFO:root:After 2800 instances : Loss 1.840 MAE 1.226
+INFO:root:After 2400 instances : Loss 9.662 MAE 3.052
+INFO:root:After 2000 instances : Loss 0.186 MAE 0.197
+INFO:root:After 2800 instances : Loss 1.308 MAE 1.136
+INFO:root:After 3200 instances : Loss 0.149 MAE 0.315
+INFO:root:After 2800 instances : Loss 13.896 MAE 3.708
+INFO:root:After 2400 instances : Loss 0.184 MAE 0.402
+INFO:root:After 3600 instances : Loss 0.859 MAE 0.774
+INFO:root:After 3200 instances : Loss 1.772 MAE 1.310
+INFO:root:After 3200 instances : Loss 0.635 MAE 0.293
+INFO:root:After 4000 instances : Loss 1.374 MAE 1.154
+INFO:root:After 3600 instances : Loss 0.204 MAE 0.448
+INFO:root:After 2800 instances : Loss 7.013 MAE 2.603
+INFO:root:After 3600 instances : Loss 6.330 MAE 2.183
+INFO:root:After 4400 instances : Loss 6.377 MAE 2.014
+INFO:root:After 4000 instances : Loss 0.315 MAE 0.542
+INFO:root:After 4000 instances : Loss 4.199 MAE 2.007
+INFO:root:After 3200 instances : Loss 1.152 MAE 1.066
+INFO:root:After 4800 instances : Loss 0.951 MAE 0.951
+INFO:root:After 4400 instances : Loss 4.415 MAE 2.097
+INFO:root:After 4400 instances : Loss 3.808 MAE 1.498
+INFO:root:After 3600 instances : Loss 16.561 MAE 3.999
+INFO:root:After 5200 instances : Loss 16.328 MAE 3.867
+INFO:root:After 4800 instances : Loss 0.075 MAE 0.232
+INFO:root:After 4800 instances : Loss 7.106 MAE 2.615
+INFO:root:After 4000 instances : Loss 1.999 MAE 1.383
+INFO:root:After 5600 instances : Loss 0.671 MAE 0.623
+INFO:root:After 5200 instances : Loss 1.756 MAE 1.151
+INFO:root:After 5200 instances : Loss 4.037 MAE 1.990
+INFO:root:After 4400 instances : Loss 2.207 MAE 1.420
+INFO:root:After 6000 instances : Loss 3.374 MAE 1.820
+INFO:root:After 5600 instances : Loss 3.197 MAE 1.780
+INFO:root:After 5600 instances : Loss 0.023 MAE 0.049
+INFO:root:After 4800 instances : Loss 1.944 MAE 1.394
+INFO:root:After 6400 instances : Loss 2.752 MAE 1.658
+INFO:root:After 6000 instances : Loss 0.299 MAE 0.220
+INFO:root:After 6000 instances : Loss 4.700 MAE 2.150
+INFO:root:After 5200 instances : Loss 1.521 MAE 1.218
+INFO:root:After 6800 instances : Loss 26.673 MAE 5.164
+INFO:root:After 6400 instances : Loss 0.482 MAE 0.552
+INFO:root:After 6400 instances : Loss 14.996 MAE 3.869
+INFO:root:After 7200 instances : Loss 0.303 MAE 0.509
+INFO:root:After 5600 instances : Loss 2.057 MAE 1.418
+INFO:root:After 6800 instances : Loss 1.071 MAE 0.866
+INFO:root:After 6800 instances : Loss 0.094 MAE 0.295
+INFO:root:After 7600 instances : Loss 11.760 MAE 3.403
+INFO:root:After 7200 instances : Loss 1.200 MAE 1.068
+INFO:root:After 6000 instances : Loss 2.042 MAE 1.369
+INFO:root:After 7200 instances : Loss 6.813 MAE 2.569
+INFO:root:After 8000 instances : Loss 0.136 MAE 0.155
+INFO:root:After 7600 instances : Loss 0.672 MAE 0.804
+INFO:root:After 6400 instances : Loss 2.855 MAE 1.667
+INFO:root:After 7600 instances : Loss 0.466 MAE 0.470
+INFO:root:After 8400 instances : Loss 4.857 MAE 2.134
+INFO:root:After 8000 instances : Loss 0.502 MAE 0.313
+INFO:root:After 8000 instances : Loss 1.607 MAE 1.158
+INFO:root:After 6800 instances : Loss 4.627 MAE 2.138
+INFO:root:After 8800 instances : Loss 14.634 MAE 3.799
+INFO:root:After 8400 instances : Loss 2.120 MAE 1.451
+INFO:root:After 8400 instances : Loss 1.106 MAE 1.049
+INFO:root:After 7200 instances : Loss 3.006 MAE 1.727
+INFO:root:After 9200 instances : Loss 0.339 MAE 0.440
+INFO:root:After 8800 instances : Loss 0.512 MAE 0.651
+INFO:root:After 8800 instances : Loss 4.229 MAE 2.043
+INFO:root:After 7600 instances : Loss 0.523 MAE 0.696
+INFO:root:After 9600 instances : Loss 3.943 MAE 1.546
+INFO:root:After 9200 instances : Loss 0.485 MAE 0.691
+INFO:root:After 9200 instances : Loss 1.263 MAE 1.045
+INFO:root:After 8000 instances : Loss 2.380 MAE 1.541
+INFO:root:After 10000 instances : Loss 5.917 MAE 2.322
+INFO:root:After 9600 instances : Loss 0.183 MAE 0.251
+INFO:root:After 9600 instances : Loss 20.473 MAE 4.341
+INFO:root:After 10400 instances : Loss 30.744 MAE 5.291
+INFO:root:After 8400 instances : Loss 0.625 MAE 0.728
+INFO:root:After 10000 instances : Loss 1.963 MAE 1.389
+INFO:root:After 10000 instances : Loss 7.395 MAE 2.586
+INFO:__main__:Epoch 3 : Avg Error 0.228; Average Loss 0.166 Time : 3191
+INFO:root:After 0 instances : Loss 8.440 MAE 2.905
+INFO:root:After 8800 instances : Loss 0.852 MAE 0.623
+INFO:root:After 10400 instances : Loss 1.296 MAE 1.096
+INFO:root:After 10400 instances : Loss 0.368 MAE 0.356
+INFO:root:After 400 instances : Loss 1.648 MAE 1.240
+INFO:__main__:Epoch 3 : Avg Error 0.391; Average Loss 0.557 Time : 3245
+INFO:root:After 0 instances : Loss 0.683 MAE 0.826
+INFO:__main__:Epoch 3 : Avg Error 0.266; Average Loss 0.133 Time : 3251
+INFO:root:After 0 instances : Loss 3.601 MAE 1.898
+INFO:root:After 9200 instances : Loss 8.784 MAE 2.952
+INFO:root:After 800 instances : Loss 11.381 MAE 3.313
+INFO:root:After 400 instances : Loss 0.577 MAE 0.721
+INFO:root:After 400 instances : Loss 1.259 MAE 1.082
+INFO:root:After 9600 instances : Loss 0.308 MAE 0.549
+INFO:root:After 1200 instances : Loss 10.640 MAE 3.147
+INFO:root:After 800 instances : Loss 0.025 MAE 0.084
+INFO:root:After 800 instances : Loss 3.067 MAE 1.731
+INFO:root:After 10000 instances : Loss 14.975 MAE 3.755
+INFO:root:After 1600 instances : Loss 3.705 MAE 1.915
+INFO:root:After 1200 instances : Loss 2.128 MAE 1.449
+INFO:root:After 1200 instances : Loss 13.570 MAE 3.532
+INFO:root:After 2000 instances : Loss 1.205 MAE 1.079
+INFO:root:After 10400 instances : Loss 0.381 MAE 0.407
+INFO:root:After 1600 instances : Loss 0.374 MAE 0.591
+INFO:root:After 1600 instances : Loss 9.691 MAE 3.037
+INFO:__main__:Epoch 3 : Avg Error 1.331; Average Loss 1.939 Time : 3617
+INFO:root:After 0 instances : Loss 0.383 MAE 0.619
+INFO:root:After 2400 instances : Loss 32.481 MAE 5.688
+INFO:root:After 2000 instances : Loss 9.124 MAE 2.897
+INFO:root:After 2000 instances : Loss 12.032 MAE 3.351
+INFO:root:After 2800 instances : Loss 0.254 MAE 0.375
+INFO:root:After 400 instances : Loss 8.781 MAE 2.887
+INFO:root:After 2400 instances : Loss 0.656 MAE 0.802
+INFO:root:After 2400 instances : Loss 0.218 MAE 0.457
+INFO:root:After 3200 instances : Loss 0.756 MAE 0.832
+INFO:root:After 800 instances : Loss 0.371 MAE 0.205
+INFO:root:After 2800 instances : Loss 1.429 MAE 1.177
+INFO:root:After 2800 instances : Loss 14.871 MAE 3.747
+INFO:root:After 3600 instances : Loss 0.179 MAE 0.286
+INFO:root:After 1200 instances : Loss 1.482 MAE 1.177
+INFO:root:After 3200 instances : Loss 0.582 MAE 0.761
+INFO:root:After 3200 instances : Loss 1.138 MAE 0.976
+INFO:root:After 4000 instances : Loss 4.547 MAE 2.112
+INFO:root:After 1600 instances : Loss 0.246 MAE 0.489
+INFO:root:After 3600 instances : Loss 0.425 MAE 0.580
+INFO:root:After 3600 instances : Loss 3.584 MAE 1.845
+INFO:root:After 4400 instances : Loss 1.986 MAE 0.803
+INFO:root:After 2000 instances : Loss 0.028 MAE 0.125
+INFO:root:After 4000 instances : Loss 0.403 MAE 0.626
+INFO:root:After 4000 instances : Loss 2.613 MAE 1.599
+INFO:root:After 4800 instances : Loss 0.192 MAE 0.361
+INFO:root:After 4400 instances : Loss 2.002 MAE 1.407
+INFO:root:After 2400 instances : Loss 0.054 MAE 0.062
+INFO:root:After 4400 instances : Loss 2.256 MAE 0.579
+INFO:root:After 5200 instances : Loss 7.087 MAE 2.601
+INFO:root:After 4800 instances : Loss 0.087 MAE 0.224
+INFO:root:After 4800 instances : Loss 5.383 MAE 2.250
+INFO:root:After 2800 instances : Loss 5.050 MAE 2.240
+INFO:root:After 5600 instances : Loss 1.252 MAE 1.004
+INFO:root:After 5200 instances : Loss 0.383 MAE 0.277
+INFO:root:After 5200 instances : Loss 0.575 MAE 0.754
+INFO:root:After 3200 instances : Loss 0.439 MAE 0.633
+INFO:root:After 6000 instances : Loss 2.067 MAE 1.431
+INFO:root:After 5600 instances : Loss 1.776 MAE 1.323
+INFO:root:After 5600 instances : Loss 0.090 MAE 0.297
+INFO:root:After 6400 instances : Loss 4.339 MAE 2.048
+INFO:root:After 3600 instances : Loss 3.113 MAE 1.744
+INFO:root:After 6000 instances : Loss 0.574 MAE 0.701
+INFO:root:After 6000 instances : Loss 0.937 MAE 0.955
+INFO:root:After 6800 instances : Loss 17.025 MAE 4.109
+INFO:root:After 4000 instances : Loss 0.091 MAE 0.216
+INFO:root:After 6400 instances : Loss 0.259 MAE 0.476
+INFO:root:After 6400 instances : Loss 7.895 MAE 2.807
+INFO:root:After 7200 instances : Loss 0.218 MAE 0.392
+INFO:root:After 4400 instances : Loss 1.024 MAE 0.974
+INFO:root:After 6800 instances : Loss 0.514 MAE 0.633
+INFO:root:After 6800 instances : Loss 0.271 MAE 0.517
+INFO:root:After 7600 instances : Loss 10.445 MAE 3.221
+INFO:root:After 4800 instances : Loss 0.388 MAE 0.213
+INFO:root:After 7200 instances : Loss 0.184 MAE 0.273
+INFO:root:After 7200 instances : Loss 2.439 MAE 1.499
+INFO:root:After 8000 instances : Loss 2.520 MAE 1.582
+INFO:root:After 5200 instances : Loss 1.651 MAE 1.254
+INFO:root:After 7600 instances : Loss 0.662 MAE 0.810
+INFO:root:After 7600 instances : Loss 1.057 MAE 1.022
+INFO:root:After 8400 instances : Loss 0.644 MAE 0.788
+INFO:root:After 8000 instances : Loss 0.395 MAE 0.256
+INFO:root:After 5600 instances : Loss 1.219 MAE 1.102
+INFO:root:After 8000 instances : Loss 1.431 MAE 1.125
+INFO:root:After 8800 instances : Loss 16.301 MAE 4.026
+INFO:root:After 8400 instances : Loss 0.791 MAE 0.882
+INFO:root:After 8400 instances : Loss 1.157 MAE 1.048
+INFO:root:After 6000 instances : Loss 1.783 MAE 1.253
+INFO:root:After 9200 instances : Loss 0.248 MAE 0.358
+INFO:root:After 8800 instances : Loss 0.447 MAE 0.555
+INFO:root:After 8800 instances : Loss 3.245 MAE 1.773
+INFO:root:After 9600 instances : Loss 3.306 MAE 1.614
+INFO:root:After 6400 instances : Loss 0.818 MAE 0.856
+INFO:root:After 9200 instances : Loss 0.256 MAE 0.499
+INFO:root:After 9200 instances : Loss 0.684 MAE 0.802
+INFO:root:After 10000 instances : Loss 1.171 MAE 1.057
+INFO:root:After 6800 instances : Loss 3.428 MAE 1.842
+INFO:root:After 9600 instances : Loss 0.299 MAE 0.452
+INFO:root:After 9600 instances : Loss 13.890 MAE 3.574
+INFO:root:After 10400 instances : Loss 27.617 MAE 5.052
+INFO:root:After 7200 instances : Loss 0.780 MAE 0.871
+INFO:__main__:Epoch 4 : Avg Error 0.564; Average Loss 0.358 Time : 3188
+INFO:root:After 0 instances : Loss 8.156 MAE 2.856
+INFO:root:After 10000 instances : Loss 1.827 MAE 1.351
+INFO:root:After 10000 instances : Loss 6.400 MAE 2.517
+INFO:root:After 7600 instances : Loss 0.022 MAE 0.050
+INFO:root:After 400 instances : Loss 0.194 MAE 0.431
+INFO:root:After 10400 instances : Loss 0.791 MAE 0.852
+INFO:root:After 10400 instances : Loss 0.990 MAE 0.915
+INFO:__main__:Epoch 4 : Avg Error 0.382; Average Loss 0.304 Time : 3245
+INFO:root:After 0 instances : Loss 1.627 MAE 1.276
+INFO:root:After 8000 instances : Loss 0.724 MAE 0.848
+INFO:root:After 800 instances : Loss 3.532 MAE 1.710
+INFO:__main__:Epoch 4 : Avg Error 0.268; Average Loss 0.088 Time : 3251
+INFO:root:After 0 instances : Loss 2.995 MAE 1.731
+INFO:root:After 400 instances : Loss 0.130 MAE 0.344
+INFO:root:After 1200 instances : Loss 6.308 MAE 2.475
+INFO:root:After 8400 instances : Loss 0.510 MAE 0.677
+INFO:root:After 400 instances : Loss 0.878 MAE 0.899
+INFO:root:After 800 instances : Loss 0.048 MAE 0.205
+INFO:root:After 1600 instances : Loss 0.783 MAE 0.884
+INFO:root:After 800 instances : Loss 1.404 MAE 1.092
+INFO:root:After 8800 instances : Loss 0.606 MAE 0.415
+INFO:root:After 1200 instances : Loss 1.798 MAE 1.335
+INFO:root:After 2000 instances : Loss 1.450 MAE 1.198
+INFO:root:After 1200 instances : Loss 13.443 MAE 3.507
+INFO:root:After 9200 instances : Loss 3.815 MAE 1.937
+INFO:root:After 1600 instances : Loss 0.297 MAE 0.541
+INFO:root:After 2400 instances : Loss 13.391 MAE 3.650
+INFO:root:After 1600 instances : Loss 5.827 MAE 2.394
+INFO:root:After 9600 instances : Loss 0.413 MAE 0.640
+INFO:root:After 2000 instances : Loss 4.902 MAE 2.117
+INFO:root:After 2800 instances : Loss 0.181 MAE 0.416
+INFO:root:After 2000 instances : Loss 14.218 MAE 3.708
+INFO:root:After 10000 instances : Loss 9.519 MAE 3.004
+INFO:root:After 2400 instances : Loss 0.130 MAE 0.118
+INFO:root:After 3200 instances : Loss 1.272 MAE 1.092
+INFO:root:After 2400 instances : Loss 0.177 MAE 0.194
+INFO:root:After 10400 instances : Loss 0.250 MAE 0.239
+INFO:root:After 2800 instances : Loss 1.119 MAE 1.033
+INFO:root:After 3600 instances : Loss 0.162 MAE 0.319
+INFO:root:After 2800 instances : Loss 13.587 MAE 3.538
+INFO:__main__:Epoch 4 : Avg Error 1.046; Average Loss 1.167 Time : 3631
+INFO:root:After 0 instances : Loss 0.055 MAE 0.236
+INFO:root:After 3200 instances : Loss 0.259 MAE 0.501
+INFO:root:After 4000 instances : Loss 3.259 MAE 1.784
+INFO:root:After 3200 instances : Loss 1.421 MAE 1.133
+INFO:root:After 400 instances : Loss 6.851 MAE 2.546
+INFO:root:After 4400 instances : Loss 0.593 MAE 0.616
+INFO:root:After 3600 instances : Loss 0.427 MAE 0.571
+INFO:root:After 3600 instances : Loss 3.935 MAE 1.931
+INFO:root:After 800 instances : Loss 0.284 MAE 0.448
+INFO:root:After 4800 instances : Loss 0.077 MAE 0.156
+INFO:root:After 4000 instances : Loss 0.413 MAE 0.636
+INFO:root:After 4000 instances : Loss 3.366 MAE 1.823
+INFO:root:After 1200 instances : Loss 0.499 MAE 0.698
+INFO:root:After 5200 instances : Loss 1.120 MAE 1.036
+INFO:root:After 4400 instances : Loss 0.995 MAE 0.989
+INFO:root:After 4400 instances : Loss 1.462 MAE 0.900
+INFO:root:After 5600 instances : Loss 3.815 MAE 1.905
+INFO:root:After 4800 instances : Loss 0.068 MAE 0.251
+INFO:root:After 1600 instances : Loss 1.013 MAE 0.395
+INFO:root:After 4800 instances : Loss 6.542 MAE 2.500
+INFO:root:After 6000 instances : Loss 1.213 MAE 1.077
+INFO:root:After 5200 instances : Loss 0.182 MAE 0.248
+INFO:root:After 2000 instances : Loss 0.050 MAE 0.207
+INFO:root:After 5200 instances : Loss 2.507 MAE 1.581
+INFO:root:After 6400 instances : Loss 4.538 MAE 2.037
+INFO:root:After 5600 instances : Loss 1.309 MAE 1.141
+INFO:root:After 5600 instances : Loss 0.541 MAE 0.735
+INFO:root:After 2400 instances : Loss 0.553 MAE 0.739
+INFO:root:After 6800 instances : Loss 10.676 MAE 3.241
+INFO:root:After 6000 instances : Loss 0.177 MAE 0.385
+INFO:root:After 6000 instances : Loss 0.159 MAE 0.287
+INFO:root:After 2800 instances : Loss 2.246 MAE 1.474
+INFO:root:After 7200 instances : Loss 1.036 MAE 0.971
+INFO:root:After 6400 instances : Loss 0.403 MAE 0.625
+INFO:root:After 6400 instances : Loss 5.517 MAE 2.341
+INFO:root:After 3200 instances : Loss 0.250 MAE 0.379
+INFO:root:After 7600 instances : Loss 6.797 MAE 2.588
+INFO:root:After 6800 instances : Loss 0.827 MAE 0.906
+INFO:root:After 6800 instances : Loss 0.258 MAE 0.507
+INFO:root:After 3600 instances : Loss 1.243 MAE 1.079
+INFO:root:After 8000 instances : Loss 4.365 MAE 2.075
+INFO:root:After 7200 instances : Loss 0.158 MAE 0.224
+INFO:root:After 7200 instances : Loss 0.809 MAE 0.662
+INFO:root:After 4000 instances : Loss 0.395 MAE 0.611
+INFO:root:After 8400 instances : Loss 0.064 MAE 0.226
+INFO:root:After 7600 instances : Loss 0.453 MAE 0.671
+INFO:root:After 7600 instances : Loss 0.732 MAE 0.849
+INFO:root:After 8800 instances : Loss 9.179 MAE 3.018
+INFO:root:After 4400 instances : Loss 0.061 MAE 0.230
+INFO:root:After 8000 instances : Loss 0.447 MAE 0.340
+INFO:root:After 8000 instances : Loss 0.752 MAE 0.866
+INFO:root:After 9200 instances : Loss 1.324 MAE 1.106
+INFO:root:After 8400 instances : Loss 0.406 MAE 0.625
+INFO:root:After 4800 instances : Loss 0.586 MAE 0.596
+INFO:root:After 8400 instances : Loss 1.569 MAE 1.209
+INFO:root:After 9600 instances : Loss 2.449 MAE 1.556
+INFO:root:After 8800 instances : Loss 0.456 MAE 0.576
+INFO:root:After 5200 instances : Loss 1.967 MAE 1.347
+INFO:root:After 8800 instances : Loss 2.707 MAE 1.586
+INFO:root:After 10000 instances : Loss 0.006 MAE 0.071
+INFO:root:After 9200 instances : Loss 0.234 MAE 0.481
+INFO:root:After 9200 instances : Loss 0.924 MAE 0.951
+INFO:root:After 5600 instances : Loss 0.105 MAE 0.241
+INFO:root:After 10400 instances : Loss 14.030 MAE 3.631
+INFO:root:After 9600 instances : Loss 0.378 MAE 0.546
+INFO:root:After 9600 instances : Loss 9.506 MAE 2.967
+INFO:root:After 6000 instances : Loss 1.019 MAE 0.910
+INFO:__main__:Epoch 5 : Avg Error 0.615; Average Loss 0.414 Time : 3188
+INFO:root:After 0 instances : Loss 4.580 MAE 2.140
+INFO:root:After 10000 instances : Loss 1.624 MAE 1.273
+INFO:root:After 10000 instances : Loss 5.632 MAE 2.360
+INFO:root:After 400 instances : Loss 0.071 MAE 0.258
+INFO:root:After 6400 instances : Loss 0.920 MAE 0.928
+INFO:root:After 10400 instances : Loss 1.090 MAE 1.022
+INFO:root:After 10400 instances : Loss 1.759 MAE 1.323
+INFO:root:After 800 instances : Loss 1.314 MAE 0.991
+INFO:root:After 6800 instances : Loss 3.856 MAE 1.948
+INFO:__main__:Epoch 5 : Avg Error 0.406; Average Loss 0.239 Time : 3246
+INFO:root:After 0 instances : Loss 1.311 MAE 1.145
+INFO:__main__:Epoch 5 : Avg Error 0.210; Average Loss 0.069 Time : 3251
+INFO:root:After 0 instances : Loss 1.791 MAE 1.338
+INFO:root:After 1200 instances : Loss 1.275 MAE 0.967
+INFO:root:After 7200 instances : Loss 0.159 MAE 0.368
+INFO:root:After 400 instances : Loss 0.108 MAE 0.308
+INFO:root:After 400 instances : Loss 0.030 MAE 0.161
+INFO:root:After 1600 instances : Loss 1.039 MAE 1.016
+INFO:root:After 800 instances : Loss 0.064 MAE 0.245
+INFO:root:After 7600 instances : Loss 0.048 MAE 0.072
+INFO:root:After 800 instances : Loss 0.863 MAE 0.762
+INFO:root:After 2000 instances : Loss 1.127 MAE 1.060
+INFO:root:After 1200 instances : Loss 1.508 MAE 1.224
+INFO:root:After 8000 instances : Loss 0.304 MAE 0.485
+INFO:root:After 1200 instances : Loss 15.162 MAE 3.710
+INFO:root:After 2400 instances : Loss 7.381 MAE 2.712
+INFO:root:After 1600 instances : Loss 0.352 MAE 0.587
+INFO:root:After 1600 instances : Loss 4.021 MAE 2.001
+INFO:root:After 8400 instances : Loss 0.071 MAE 0.078
+INFO:root:After 2800 instances : Loss 0.193 MAE 0.433
+INFO:root:After 2000 instances : Loss 3.558 MAE 1.810
+INFO:root:After 2000 instances : Loss 3.649 MAE 1.905
+INFO:root:After 8800 instances : Loss 0.416 MAE 0.343
+INFO:root:After 3200 instances : Loss 0.560 MAE 0.742
+INFO:root:After 2400 instances : Loss 0.124 MAE 0.277
+INFO:root:After 2400 instances : Loss 0.231 MAE 0.366
+INFO:root:After 9200 instances : Loss 5.319 MAE 2.285
+INFO:root:After 3600 instances : Loss 0.274 MAE 0.477
+INFO:root:After 2800 instances : Loss 0.908 MAE 0.935
+INFO:root:After 2800 instances : Loss 13.449 MAE 3.525
+INFO:root:After 4000 instances : Loss 1.679 MAE 1.288
+INFO:root:After 9600 instances : Loss 0.171 MAE 0.410
+INFO:root:After 3200 instances : Loss 0.579 MAE 0.740
+INFO:root:After 3200 instances : Loss 0.789 MAE 0.787
+INFO:root:After 4400 instances : Loss 1.636 MAE 1.254
+INFO:root:After 10000 instances : Loss 6.646 MAE 2.493
+INFO:root:After 3600 instances : Loss 0.474 MAE 0.642
+INFO:root:After 3600 instances : Loss 3.579 MAE 1.863
+INFO:root:After 4800 instances : Loss 0.275 MAE 0.498
+INFO:root:After 10400 instances : Loss 0.548 MAE 0.622
+INFO:root:After 4000 instances : Loss 0.278 MAE 0.517
+INFO:root:After 4000 instances : Loss 3.136 MAE 1.746
+INFO:root:After 5200 instances : Loss 0.808 MAE 0.872
+INFO:__main__:Epoch 5 : Avg Error 0.234; Average Loss 0.161 Time : 3628
+INFO:root:After 0 instances : Loss 1.685 MAE 1.298
+INFO:root:After 4400 instances : Loss 0.707 MAE 0.809
+INFO:root:After 4400 instances : Loss 3.586 MAE 1.882
+INFO:root:After 5600 instances : Loss 3.563 MAE 1.861
+INFO:root:After 400 instances : Loss 1.816 MAE 1.282
+INFO:root:After 4800 instances : Loss 0.105 MAE 0.319
+INFO:root:After 4800 instances : Loss 6.537 MAE 2.501
+INFO:root:After 6000 instances : Loss 2.015 MAE 1.389
+INFO:root:After 800 instances : Loss 0.176 MAE 0.323
+INFO:root:After 5200 instances : Loss 0.081 MAE 0.123
+INFO:root:After 5200 instances : Loss 1.699 MAE 1.302
+INFO:root:After 6400 instances : Loss 0.919 MAE 0.951
+INFO:root:After 5600 instances : Loss 0.478 MAE 0.689
+INFO:root:After 1200 instances : Loss 0.433 MAE 0.595
+INFO:root:After 5600 instances : Loss 0.497 MAE 0.703
+INFO:root:After 6800 instances : Loss 5.825 MAE 2.402
+INFO:root:After 6000 instances : Loss 0.079 MAE 0.176
+INFO:root:After 1600 instances : Loss 0.737 MAE 0.289
+INFO:root:After 6000 instances : Loss 0.154 MAE 0.314
+INFO:root:After 7200 instances : Loss 0.247 MAE 0.459
+INFO:root:After 6400 instances : Loss 0.456 MAE 0.667
+INFO:root:After 2000 instances : Loss 0.083 MAE 0.284
+INFO:root:After 6400 instances : Loss 4.727 MAE 2.170
+INFO:root:After 7600 instances : Loss 2.438 MAE 1.554
+INFO:root:After 6800 instances : Loss 1.041 MAE 1.020
+INFO:root:After 6800 instances : Loss 0.677 MAE 0.819
+INFO:root:After 2400 instances : Loss 1.020 MAE 1.004
+INFO:root:After 8000 instances : Loss 4.609 MAE 2.124
+INFO:root:After 7200 instances : Loss 2.079 MAE 1.435
+INFO:root:After 7200 instances : Loss 0.426 MAE 0.281
+INFO:root:After 8400 instances : Loss 0.159 MAE 0.373
+INFO:root:After 2800 instances : Loss 5.210 MAE 2.259
+INFO:root:After 7600 instances : Loss 0.395 MAE 0.627
+INFO:root:After 7600 instances : Loss 0.954 MAE 0.953
+INFO:root:After 8800 instances : Loss 2.991 MAE 1.667
+INFO:root:After 3200 instances : Loss 0.214 MAE 0.461
+INFO:root:After 8000 instances : Loss 0.438 MAE 0.322
+INFO:root:After 8000 instances : Loss 0.626 MAE 0.787
+INFO:root:After 9200 instances : Loss 2.929 MAE 1.708
+INFO:root:After 3600 instances : Loss 0.582 MAE 0.496
+INFO:root:After 8400 instances : Loss 0.131 MAE 0.339
+INFO:root:After 9600 instances : Loss 4.973 MAE 2.143
+INFO:root:After 8400 instances : Loss 1.034 MAE 0.969
+INFO:root:After 4000 instances : Loss 0.240 MAE 0.455
+INFO:root:After 8800 instances : Loss 0.654 MAE 0.767
+INFO:root:After 10000 instances : Loss 0.074 MAE 0.242
+INFO:root:After 8800 instances : Loss 1.986 MAE 1.325
+INFO:root:After 4400 instances : Loss 0.974 MAE 0.980
+INFO:root:After 9200 instances : Loss 0.157 MAE 0.392
+INFO:root:After 9200 instances : Loss 0.718 MAE 0.837
+INFO:root:After 10400 instances : Loss 9.162 MAE 2.931
+INFO:root:After 9600 instances : Loss 0.349 MAE 0.544
+INFO:__main__:Epoch 6 : Avg Error 0.343; Average Loss 0.133 Time : 3181
+INFO:root:After 0 instances : Loss 1.714 MAE 1.309
+INFO:root:After 4800 instances : Loss 1.046 MAE 0.960
+INFO:root:After 9600 instances : Loss 4.626 MAE 2.096
+INFO:root:After 10000 instances : Loss 1.303 MAE 1.141
+INFO:root:After 400 instances : Loss 0.092 MAE 0.289
+INFO:root:After 5200 instances : Loss 3.179 MAE 1.707
+INFO:root:After 10000 instances : Loss 4.580 MAE 2.131
+INFO:root:After 800 instances : Loss 0.699 MAE 0.835
+INFO:root:After 10400 instances : Loss 1.436 MAE 1.175
+INFO:root:After 5600 instances : Loss 0.058 MAE 0.115
+INFO:root:After 10400 instances : Loss 1.501 MAE 1.220
+INFO:__main__:Epoch 6 : Avg Error 0.281; Average Loss 0.157 Time : 3233
+INFO:root:After 0 instances : Loss 0.504 MAE 0.710
+INFO:root:After 1200 instances : Loss 0.919 MAE 0.871
+INFO:__main__:Epoch 6 : Avg Error 0.105; Average Loss 0.052 Time : 3241
+INFO:root:After 0 instances : Loss 1.823 MAE 1.350
+INFO:root:After 6000 instances : Loss 2.066 MAE 1.367
+INFO:root:After 400 instances : Loss 0.053 MAE 0.137
+INFO:root:After 1600 instances : Loss 0.874 MAE 0.909
+INFO:root:After 400 instances : Loss 0.253 MAE 0.483
+INFO:root:After 6400 instances : Loss 0.938 MAE 0.942
+INFO:root:After 800 instances : Loss 0.036 MAE 0.170
+INFO:root:After 2000 instances : Loss 0.533 MAE 0.717
+INFO:root:After 800 instances : Loss 0.676 MAE 0.699
+INFO:root:After 6800 instances : Loss 4.422 MAE 2.079
+INFO:root:After 1200 instances : Loss 1.060 MAE 1.027
+INFO:root:After 2400 instances : Loss 5.161 MAE 2.270
+INFO:root:After 1200 instances : Loss 10.442 MAE 3.088
+INFO:root:After 7200 instances : Loss 0.033 MAE 0.113
+INFO:root:After 1600 instances : Loss 0.482 MAE 0.687
+INFO:root:After 2800 instances : Loss 0.261 MAE 0.506
+INFO:root:After 1600 instances : Loss 4.155 MAE 2.011
+INFO:root:After 2000 instances : Loss 3.568 MAE 1.861
+INFO:root:After 7600 instances : Loss 0.031 MAE 0.167
+INFO:root:After 3200 instances : Loss 0.851 MAE 0.904
+INFO:root:After 2000 instances : Loss 2.918 MAE 1.706
+INFO:root:After 2400 instances : Loss 0.062 MAE 0.103
+INFO:root:After 3600 instances : Loss 0.690 MAE 0.812
+INFO:root:After 8000 instances : Loss 0.798 MAE 0.883
+INFO:root:After 2400 instances : Loss 0.459 MAE 0.428
+INFO:root:After 2800 instances : Loss 1.412 MAE 1.135
+INFO:root:After 4000 instances : Loss 0.842 MAE 0.916
+INFO:root:After 8400 instances : Loss 0.161 MAE 0.275
+INFO:root:After 2800 instances : Loss 9.931 MAE 3.081
+INFO:root:After 3200 instances : Loss 0.793 MAE 0.858
+INFO:root:After 4400 instances : Loss 1.883 MAE 1.364
+INFO:root:After 3200 instances : Loss 0.427 MAE 0.277
+INFO:root:After 8800 instances : Loss 0.318 MAE 0.281
+INFO:root:After 3600 instances : Loss 0.340 MAE 0.553
+INFO:root:After 4800 instances : Loss 0.880 MAE 0.912
+INFO:root:After 3600 instances : Loss 2.988 MAE 1.707
+INFO:root:After 9200 instances : Loss 2.815 MAE 1.675
+INFO:root:After 4000 instances : Loss 0.174 MAE 0.399
+INFO:root:After 5200 instances : Loss 1.901 MAE 1.356
+INFO:root:After 4000 instances : Loss 2.409 MAE 1.513
+INFO:root:After 9600 instances : Loss 0.150 MAE 0.381
+INFO:root:After 4400 instances : Loss 0.586 MAE 0.750
+INFO:root:After 5600 instances : Loss 6.107 MAE 2.459
+INFO:root:After 4400 instances : Loss 3.007 MAE 1.723
+INFO:root:After 10000 instances : Loss 4.281 MAE 1.994
+INFO:root:After 4800 instances : Loss 0.107 MAE 0.325
+INFO:root:After 6000 instances : Loss 1.679 MAE 1.283
+INFO:root:After 4800 instances : Loss 3.343 MAE 1.801
+INFO:root:After 10400 instances : Loss 2.774 MAE 1.497
+INFO:root:After 6400 instances : Loss 0.436 MAE 0.646
+INFO:root:After 5200 instances : Loss 0.126 MAE 0.301
+INFO:root:After 5200 instances : Loss 2.239 MAE 1.478
+INFO:__main__:Epoch 6 : Avg Error 0.062; Average Loss 0.035 Time : 3575
+INFO:root:After 0 instances : Loss 1.485 MAE 1.218
+INFO:root:After 6800 instances : Loss 1.916 MAE 1.380
+INFO:root:After 5600 instances : Loss 0.460 MAE 0.674
+INFO:root:After 5600 instances : Loss 0.743 MAE 0.858
+INFO:root:After 400 instances : Loss 0.812 MAE 0.858
+INFO:root:After 7200 instances : Loss 0.074 MAE 0.269
+INFO:root:After 6000 instances : Loss 0.082 MAE 0.116
+INFO:root:After 6000 instances : Loss 0.041 MAE 0.125
+INFO:root:After 800 instances : Loss 0.110 MAE 0.155
+INFO:root:After 7600 instances : Loss 0.645 MAE 0.801
+INFO:root:After 6400 instances : Loss 0.424 MAE 0.646
+INFO:root:After 6400 instances : Loss 2.870 MAE 1.689
+INFO:root:After 8000 instances : Loss 8.828 MAE 2.939
+INFO:root:After 1200 instances : Loss 0.377 MAE 0.521
+INFO:root:After 6800 instances : Loss 0.983 MAE 0.988
+INFO:root:After 6800 instances : Loss 0.082 MAE 0.193
+INFO:root:After 8400 instances : Loss 0.681 MAE 0.771
+INFO:root:After 7200 instances : Loss 0.487 MAE 0.694
+INFO:root:After 1600 instances : Loss 0.827 MAE 0.665
+INFO:root:After 7200 instances : Loss 0.464 MAE 0.482
+INFO:root:After 8800 instances : Loss 1.754 MAE 1.140
+INFO:root:After 7600 instances : Loss 0.427 MAE 0.645
+INFO:root:After 2000 instances : Loss 0.306 MAE 0.551
+INFO:root:After 7600 instances : Loss 1.731 MAE 1.310
+INFO:root:After 9200 instances : Loss 1.035 MAE 1.016
+INFO:root:After 8000 instances : Loss 0.325 MAE 0.309
+INFO:root:After 2400 instances : Loss 0.451 MAE 0.661
+INFO:root:After 8000 instances : Loss 0.219 MAE 0.468
+INFO:root:After 9600 instances : Loss 5.035 MAE 2.191
+INFO:root:After 8400 instances : Loss 0.124 MAE 0.337
+INFO:root:After 8400 instances : Loss 0.277 MAE 0.508
+INFO:root:After 2800 instances : Loss 3.932 MAE 1.949
+INFO:root:After 10000 instances : Loss 0.458 MAE 0.675
+INFO:root:After 8800 instances : Loss 0.918 MAE 0.927
+INFO:root:After 8800 instances : Loss 1.243 MAE 0.964
+INFO:root:After 3200 instances : Loss 0.223 MAE 0.467
+INFO:root:After 10400 instances : Loss 6.991 MAE 2.575
+INFO:root:After 9200 instances : Loss 0.322 MAE 0.559
+INFO:root:After 9200 instances : Loss 0.590 MAE 0.757
+INFO:__main__:Epoch 7 : Avg Error 0.539; Average Loss 0.300 Time : 3168
+INFO:root:After 0 instances : Loss 3.418 MAE 1.849
+INFO:root:After 3600 instances : Loss 0.353 MAE 0.318
+INFO:root:After 9600 instances : Loss 0.446 MAE 0.629
+INFO:root:After 9600 instances : Loss 0.809 MAE 0.891
+INFO:root:After 400 instances : Loss 0.068 MAE 0.252
+INFO:root:After 4000 instances : Loss 1.765 MAE 1.302
+INFO:root:After 10000 instances : Loss 0.780 MAE 0.883
+INFO:root:After 10000 instances : Loss 3.254 MAE 1.795
+INFO:root:After 800 instances : Loss 0.233 MAE 0.478
+INFO:root:After 4400 instances : Loss 1.320 MAE 1.148
+INFO:root:After 10400 instances : Loss 1.381 MAE 1.153
+INFO:root:After 10400 instances : Loss 0.504 MAE 0.709
+INFO:root:After 1200 instances : Loss 0.467 MAE 0.667
+INFO:__main__:Epoch 7 : Avg Error 0.182; Average Loss 0.126 Time : 3226
+INFO:root:After 0 instances : Loss 0.769 MAE 0.877
+INFO:root:After 4800 instances : Loss 1.389 MAE 1.161
+INFO:__main__:Epoch 7 : Avg Error 0.176; Average Loss 0.073 Time : 3235
+INFO:root:After 0 instances : Loss 1.048 MAE 1.024
+INFO:root:After 1600 instances : Loss 0.258 MAE 0.489
+INFO:root:After 400 instances : Loss 0.087 MAE 0.277
+INFO:root:After 5200 instances : Loss 3.763 MAE 1.855
+INFO:root:After 400 instances : Loss 0.089 MAE 0.289
+INFO:root:After 2000 instances : Loss 0.545 MAE 0.735
+INFO:root:After 800 instances : Loss 0.097 MAE 0.303
+INFO:root:After 800 instances : Loss 0.708 MAE 0.792
+INFO:root:After 5600 instances : Loss 0.059 MAE 0.133
+INFO:root:After 2400 instances : Loss 1.708 MAE 1.306
+INFO:root:After 1200 instances : Loss 0.765 MAE 0.871
+INFO:root:After 1200 instances : Loss 7.131 MAE 2.552
+INFO:root:After 6000 instances : Loss 3.831 MAE 1.918
+INFO:root:After 2800 instances : Loss 0.116 MAE 0.128
+INFO:root:After 1600 instances : Loss 0.906 MAE 0.946
+INFO:root:After 1600 instances : Loss 2.034 MAE 1.422
+INFO:root:After 6400 instances : Loss 0.308 MAE 0.476
+INFO:root:After 3200 instances : Loss 1.069 MAE 0.989
+INFO:root:After 2000 instances : Loss 3.144 MAE 1.716
+INFO:root:After 2000 instances : Loss 1.497 MAE 1.208
+INFO:root:After 3600 instances : Loss 0.550 MAE 0.720
+INFO:root:After 6800 instances : Loss 3.441 MAE 1.840
+INFO:root:After 2400 instances : Loss 0.080 MAE 0.186
+INFO:root:After 2400 instances : Loss 0.590 MAE 0.620
+INFO:root:After 4000 instances : Loss 0.192 MAE 0.397
+INFO:root:After 7200 instances : Loss 0.290 MAE 0.524
+INFO:root:After 2800 instances : Loss 2.187 MAE 1.439
+INFO:root:After 2800 instances : Loss 8.732 MAE 2.854
+INFO:root:After 4400 instances : Loss 1.141 MAE 1.024
+INFO:root:After 7600 instances : Loss 0.298 MAE 0.523
+INFO:root:After 3200 instances : Loss 0.610 MAE 0.747
+INFO:root:After 3200 instances : Loss 0.407 MAE 0.503
+INFO:root:After 4800 instances : Loss 0.993 MAE 0.983
+INFO:root:After 3600 instances : Loss 0.179 MAE 0.346
+INFO:root:After 8000 instances : Loss 0.947 MAE 0.966
+INFO:root:After 3600 instances : Loss 2.725 MAE 1.636
+INFO:root:After 5200 instances : Loss 0.960 MAE 0.948
+INFO:root:After 4000 instances : Loss 0.218 MAE 0.449
+INFO:root:After 8400 instances : Loss 0.477 MAE 0.664
+INFO:root:After 4000 instances : Loss 2.747 MAE 1.626
+INFO:root:After 5600 instances : Loss 5.179 MAE 2.270
+INFO:root:After 4400 instances : Loss 0.307 MAE 0.549
+INFO:root:After 8800 instances : Loss 0.325 MAE 0.250
+INFO:root:After 4400 instances : Loss 2.179 MAE 1.471
+INFO:root:After 6000 instances : Loss 1.860 MAE 1.358
+INFO:root:After 4800 instances : Loss 0.149 MAE 0.384
+INFO:root:After 9200 instances : Loss 2.841 MAE 1.679
+INFO:root:After 4800 instances : Loss 3.718 MAE 1.906
+INFO:root:After 6400 instances : Loss 0.044 MAE 0.131
+INFO:root:After 5200 instances : Loss 0.146 MAE 0.355
+INFO:root:After 5200 instances : Loss 1.682 MAE 1.274
+INFO:root:After 6800 instances : Loss 0.868 MAE 0.925
+INFO:root:After 9600 instances : Loss 0.126 MAE 0.263
+INFO:root:After 5600 instances : Loss 0.251 MAE 0.493
+INFO:root:After 5600 instances : Loss 0.325 MAE 0.569
+INFO:root:After 7200 instances : Loss 0.245 MAE 0.493
+INFO:root:After 10000 instances : Loss 2.445 MAE 1.525
+INFO:root:After 6000 instances : Loss 0.446 MAE 0.650
+INFO:root:After 6000 instances : Loss 0.096 MAE 0.288
+INFO:root:After 7600 instances : Loss 0.044 MAE 0.200
+INFO:root:After 10400 instances : Loss 2.365 MAE 1.358
+INFO:root:After 6400 instances : Loss 0.389 MAE 0.616
+INFO:root:After 8000 instances : Loss 4.859 MAE 2.180
+INFO:root:After 6400 instances : Loss 1.797 MAE 1.334
+INFO:__main__:Epoch 7 : Avg Error 0.054; Average Loss 0.019 Time : 3578
+INFO:root:After 0 instances : Loss 1.480 MAE 1.216
+INFO:root:After 6800 instances : Loss 1.112 MAE 1.049
+INFO:root:After 8400 instances : Loss 0.343 MAE 0.544
+INFO:root:After 6800 instances : Loss 0.034 MAE 0.084
+INFO:root:After 400 instances : Loss 0.405 MAE 0.615
+INFO:root:After 7200 instances : Loss 0.187 MAE 0.414
+INFO:root:After 8800 instances : Loss 1.534 MAE 1.149
+INFO:root:After 7200 instances : Loss 0.224 MAE 0.250
+INFO:root:After 800 instances : Loss 0.080 MAE 0.113
+INFO:root:After 7600 instances : Loss 0.499 MAE 0.698
+INFO:root:After 9200 instances : Loss 1.114 MAE 1.044
+INFO:root:After 7600 instances : Loss 1.227 MAE 1.102
+INFO:root:After 1200 instances : Loss 0.340 MAE 0.468
+INFO:root:After 8000 instances : Loss 0.346 MAE 0.452
+INFO:root:After 9600 instances : Loss 8.573 MAE 2.874
+INFO:root:After 8000 instances : Loss 0.160 MAE 0.396
+INFO:root:After 1600 instances : Loss 0.874 MAE 0.768
+INFO:root:After 8400 instances : Loss 0.147 MAE 0.372
+INFO:root:After 10000 instances : Loss 0.343 MAE 0.581
+INFO:root:After 8400 instances : Loss 0.042 MAE 0.197
+INFO:root:After 8800 instances : Loss 0.861 MAE 0.860
+INFO:root:After 2000 instances : Loss 0.173 MAE 0.403
+INFO:root:After 10400 instances : Loss 3.156 MAE 1.731
+INFO:root:After 8800 instances : Loss 1.129 MAE 0.857
+INFO:root:After 9200 instances : Loss 0.092 MAE 0.300
+INFO:__main__:Epoch 8 : Avg Error 0.678; Average Loss 0.466 Time : 3165
+INFO:root:After 0 instances : Loss 4.693 MAE 2.166
+INFO:root:After 2400 instances : Loss 0.845 MAE 0.889
+INFO:root:After 9200 instances : Loss 0.385 MAE 0.612
+INFO:root:After 9600 instances : Loss 0.437 MAE 0.644
+INFO:root:After 400 instances : Loss 0.114 MAE 0.337
+INFO:root:After 2800 instances : Loss 3.202 MAE 1.749
+INFO:root:After 9600 instances : Loss 0.485 MAE 0.691
+INFO:root:After 10000 instances : Loss 0.552 MAE 0.732
+INFO:root:After 800 instances : Loss 0.444 MAE 0.597
+INFO:root:After 3200 instances : Loss 0.070 MAE 0.263
+INFO:root:After 10000 instances : Loss 2.964 MAE 1.716
+INFO:root:After 10400 instances : Loss 2.257 MAE 1.490
+INFO:root:After 1200 instances : Loss 0.614 MAE 0.780
+INFO:root:After 10400 instances : Loss 0.693 MAE 0.829
+INFO:root:After 3600 instances : Loss 0.227 MAE 0.171
+INFO:__main__:Epoch 8 : Avg Error 0.327; Average Loss 0.143 Time : 3226
+INFO:root:After 0 instances : Loss 0.562 MAE 0.750
+INFO:root:After 1600 instances : Loss 0.003 MAE 0.014
+INFO:__main__:Epoch 8 : Avg Error 0.437; Average Loss 0.223 Time : 3235
+INFO:root:After 0 instances : Loss 1.165 MAE 1.079
+INFO:root:After 4000 instances : Loss 0.705 MAE 0.831
+INFO:root:After 400 instances : Loss 0.114 MAE 0.319
+INFO:root:After 2000 instances : Loss 0.080 MAE 0.266
+INFO:root:After 400 instances : Loss 0.065 MAE 0.236
+INFO:root:After 800 instances : Loss 0.138 MAE 0.364
+INFO:root:After 4400 instances : Loss 1.061 MAE 1.017
+INFO:root:After 2400 instances : Loss 1.454 MAE 1.203
+INFO:root:After 800 instances : Loss 0.219 MAE 0.277
+INFO:root:After 1200 instances : Loss 0.333 MAE 0.567
+INFO:root:After 4800 instances : Loss 1.257 MAE 1.114
+INFO:root:After 2800 instances : Loss 0.037 MAE 0.126
+INFO:root:After 1200 instances : Loss 5.068 MAE 2.159
+INFO:root:After 1600 instances : Loss 0.989 MAE 0.989
+INFO:root:After 3200 instances : Loss 0.143 MAE 0.348
+INFO:root:After 5200 instances : Loss 2.766 MAE 1.595
+INFO:root:After 1600 instances : Loss 2.686 MAE 1.618
+INFO:root:After 2000 instances : Loss 2.761 MAE 1.650
+INFO:root:After 3600 instances : Loss 0.069 MAE 0.171
+INFO:root:After 5600 instances : Loss 0.129 MAE 0.326
+INFO:root:After 2000 instances : Loss 0.658 MAE 0.779
+INFO:root:After 2400 instances : Loss 0.096 MAE 0.300
+INFO:root:After 4000 instances : Loss 0.268 MAE 0.501
+INFO:root:After 6000 instances : Loss 3.925 MAE 1.947
+INFO:root:After 2400 instances : Loss 0.442 MAE 0.423
+INFO:root:After 2800 instances : Loss 1.684 MAE 1.269
+INFO:root:After 4400 instances : Loss 0.557 MAE 0.733
+INFO:root:After 2800 instances : Loss 7.012 MAE 2.574
+INFO:root:After 6400 instances : Loss 0.072 MAE 0.248
+INFO:root:After 3200 instances : Loss 0.786 MAE 0.852
+INFO:root:After 4800 instances : Loss 0.804 MAE 0.889
+INFO:root:After 3200 instances : Loss 0.319 MAE 0.450
+INFO:root:After 6800 instances : Loss 1.886 MAE 1.371
+INFO:root:After 3600 instances : Loss 0.115 MAE 0.255
+INFO:root:After 5200 instances : Loss 2.499 MAE 1.562
+INFO:root:After 3600 instances : Loss 2.023 MAE 1.408
+INFO:root:After 7200 instances : Loss 0.115 MAE 0.334
+INFO:root:After 4000 instances : Loss 0.215 MAE 0.430
+INFO:root:After 5600 instances : Loss 7.151 MAE 2.668
+INFO:root:After 4000 instances : Loss 2.548 MAE 1.570
+INFO:root:After 7600 instances : Loss 0.250 MAE 0.476
+INFO:root:After 4400 instances : Loss 0.281 MAE 0.520
+INFO:root:After 6000 instances : Loss 1.095 MAE 1.019
+INFO:root:After 4400 instances : Loss 1.404 MAE 1.171
+INFO:root:After 8000 instances : Loss 1.256 MAE 1.118
+INFO:root:After 6400 instances : Loss 0.010 MAE 0.072
+INFO:root:After 4800 instances : Loss 0.108 MAE 0.327
+INFO:root:After 4800 instances : Loss 3.616 MAE 1.884
+INFO:root:After 6800 instances : Loss 0.057 MAE 0.219
+INFO:root:After 5200 instances : Loss 0.123 MAE 0.335
+INFO:root:After 8400 instances : Loss 0.437 MAE 0.634
+INFO:root:After 5200 instances : Loss 1.368 MAE 1.140
+INFO:root:After 7200 instances : Loss 1.494 MAE 1.167
+INFO:root:After 5600 instances : Loss 0.168 MAE 0.391
+INFO:root:After 8800 instances : Loss 0.393 MAE 0.510
+INFO:root:After 5600 instances : Loss 0.099 MAE 0.313
+INFO:root:After 7600 instances : Loss 0.599 MAE 0.770
+INFO:root:After 6000 instances : Loss 0.190 MAE 0.322
+INFO:root:After 9200 instances : Loss 3.794 MAE 1.926
+INFO:root:After 6000 instances : Loss 0.143 MAE 0.365
+INFO:root:After 8000 instances : Loss 7.677 MAE 2.738
+INFO:root:After 6400 instances : Loss 0.271 MAE 0.504
+INFO:root:After 9600 instances : Loss 0.106 MAE 0.285
+INFO:root:After 6400 instances : Loss 1.570 MAE 1.249
+INFO:root:After 8400 instances : Loss 0.450 MAE 0.612
+INFO:root:After 6800 instances : Loss 1.291 MAE 1.123
+INFO:root:After 10000 instances : Loss 1.848 MAE 1.341
+INFO:root:After 6800 instances : Loss 0.038 MAE 0.161
+INFO:root:After 8800 instances : Loss 0.660 MAE 0.528
+INFO:root:After 7200 instances : Loss 0.218 MAE 0.463
+INFO:root:After 7200 instances : Loss 0.114 MAE 0.160
+INFO:root:After 10400 instances : Loss 0.590 MAE 0.710
+INFO:root:After 9200 instances : Loss 0.640 MAE 0.790
+INFO:root:After 7600 instances : Loss 0.368 MAE 0.605
+INFO:__main__:Epoch 8 : Avg Error 0.112; Average Loss 0.031 Time : 3574
+INFO:root:After 0 instances : Loss 0.268 MAE 0.518
+INFO:root:After 7600 instances : Loss 0.868 MAE 0.928
+INFO:root:After 9600 instances : Loss 7.099 MAE 2.641
+INFO:root:After 8000 instances : Loss 0.282 MAE 0.328
+INFO:root:After 8000 instances : Loss 0.291 MAE 0.538
+INFO:root:After 400 instances : Loss 0.183 MAE 0.422
+INFO:root:After 10000 instances : Loss 0.101 MAE 0.300
+INFO:root:After 8400 instances : Loss 0.192 MAE 0.429
+INFO:root:After 8400 instances : Loss 0.039 MAE 0.186
+INFO:root:After 800 instances : Loss 0.122 MAE 0.246
+INFO:root:After 10400 instances : Loss 2.518 MAE 1.541
+INFO:root:After 8800 instances : Loss 1.258 MAE 1.090
+INFO:root:After 8800 instances : Loss 0.827 MAE 0.636
+INFO:__main__:Epoch 9 : Avg Error 0.734; Average Loss 0.550 Time : 3169
+INFO:root:After 0 instances : Loss 3.020 MAE 1.738
+INFO:root:After 1200 instances : Loss 0.532 MAE 0.719
+INFO:root:After 9200 instances : Loss 0.161 MAE 0.399
+INFO:root:After 9200 instances : Loss 0.661 MAE 0.804
+INFO:root:After 400 instances : Loss 0.004 MAE 0.058
+INFO:root:After 1600 instances : Loss 0.697 MAE 0.639
+INFO:root:After 9600 instances : Loss 0.511 MAE 0.708
+INFO:root:After 9600 instances : Loss 0.409 MAE 0.636
+INFO:root:After 800 instances : Loss 0.433 MAE 0.635
+INFO:root:After 2000 instances : Loss 0.186 MAE 0.431
+INFO:root:After 10000 instances : Loss 0.368 MAE 0.591
+INFO:root:After 10000 instances : Loss 1.857 MAE 1.359
+INFO:root:After 1200 instances : Loss 0.107 MAE 0.327
+INFO:root:After 10400 instances : Loss 1.374 MAE 1.160
+INFO:root:After 2400 instances : Loss 1.227 MAE 1.105
+INFO:root:After 1600 instances : Loss 0.168 MAE 0.407
+INFO:root:After 10400 instances : Loss 0.513 MAE 0.715
+INFO:__main__:Epoch 9 : Avg Error 0.131; Average Loss 0.100 Time : 3226
+INFO:root:After 0 instances : Loss 0.774 MAE 0.880
+INFO:root:After 2800 instances : Loss 3.351 MAE 1.819
+INFO:__main__:Epoch 9 : Avg Error 0.244; Average Loss 0.120 Time : 3234
+INFO:root:After 0 instances : Loss 0.980 MAE 0.990
+INFO:root:After 2000 instances : Loss 0.072 MAE 0.232
+INFO:root:After 400 instances : Loss 0.548 MAE 0.698
+INFO:root:After 400 instances : Loss 0.046 MAE 0.202
+INFO:root:After 3200 instances : Loss 0.089 MAE 0.298
+INFO:root:After 2400 instances : Loss 0.411 MAE 0.567
+INFO:root:After 800 instances : Loss 0.186 MAE 0.430
+INFO:root:After 800 instances : Loss 0.181 MAE 0.308
+INFO:root:After 2800 instances : Loss 0.117 MAE 0.318
+INFO:root:After 3600 instances : Loss 0.556 MAE 0.616
+INFO:root:After 1200 instances : Loss 0.499 MAE 0.698
+INFO:root:After 1200 instances : Loss 4.214 MAE 1.972
+INFO:root:After 3200 instances : Loss 0.064 MAE 0.149
+INFO:root:After 4000 instances : Loss 0.845 MAE 0.906
+INFO:root:After 1600 instances : Loss 0.757 MAE 0.868
+INFO:root:After 1600 instances : Loss 2.746 MAE 1.648
+INFO:root:After 3600 instances : Loss 0.852 MAE 0.916
+INFO:root:After 4400 instances : Loss 0.674 MAE 0.799
+INFO:root:After 2000 instances : Loss 2.546 MAE 1.522
+INFO:root:After 2000 instances : Loss 0.199 MAE 0.369
+INFO:root:After 4000 instances : Loss 0.098 MAE 0.143
+INFO:root:After 2400 instances : Loss 0.205 MAE 0.441
+INFO:root:After 4800 instances : Loss 0.590 MAE 0.765
+INFO:root:After 2400 instances : Loss 0.322 MAE 0.410
+INFO:root:After 4400 instances : Loss 1.066 MAE 1.026
+INFO:root:After 2800 instances : Loss 1.505 MAE 1.192
+INFO:root:After 5200 instances : Loss 3.473 MAE 1.788
+INFO:root:After 2800 instances : Loss 7.491 MAE 2.637
+INFO:root:After 4800 instances : Loss 1.178 MAE 1.083
+INFO:root:After 3200 instances : Loss 0.321 MAE 0.557
+INFO:root:After 5600 instances : Loss 0.389 MAE 0.607
+INFO:root:After 3200 instances : Loss 0.214 MAE 0.253
+INFO:root:After 5200 instances : Loss 0.966 MAE 0.966
+INFO:root:After 3600 instances : Loss 0.114 MAE 0.157
+INFO:root:After 6000 instances : Loss 1.262 MAE 1.068
+INFO:root:After 3600 instances : Loss 1.427 MAE 1.164
+INFO:root:After 5600 instances : Loss 3.383 MAE 1.826
+INFO:root:After 4000 instances : Loss 0.132 MAE 0.318
+INFO:root:After 6400 instances : Loss 0.087 MAE 0.129
+INFO:root:After 6000 instances : Loss 2.704 MAE 1.638
+INFO:root:After 4000 instances : Loss 2.176 MAE 1.452
+INFO:root:After 4400 instances : Loss 0.373 MAE 0.579
+INFO:root:After 6800 instances : Loss 1.389 MAE 1.177
+INFO:root:After 6400 instances : Loss 0.038 MAE 0.188
+INFO:root:After 4400 instances : Loss 1.010 MAE 0.985
+INFO:root:After 4800 instances : Loss 0.006 MAE 0.069
+INFO:root:After 6800 instances : Loss 0.184 MAE 0.426
+INFO:root:After 4800 instances : Loss 2.992 MAE 1.711
+INFO:root:After 7200 instances : Loss 0.027 MAE 0.163
+INFO:root:After 5200 instances : Loss 0.155 MAE 0.387
+INFO:root:After 7200 instances : Loss 1.708 MAE 1.279
+INFO:root:After 5200 instances : Loss 0.807 MAE 0.875
+INFO:root:After 7600 instances : Loss 0.050 MAE 0.118
+INFO:root:After 5600 instances : Loss 0.137 MAE 0.347
+INFO:root:After 7600 instances : Loss 0.120 MAE 0.346
+INFO:root:After 5600 instances : Loss 0.130 MAE 0.359
+INFO:root:After 8000 instances : Loss 1.630 MAE 1.274
+INFO:root:After 6000 instances : Loss 0.328 MAE 0.517
+INFO:root:After 8000 instances : Loss 8.474 MAE 2.894
+INFO:root:After 6000 instances : Loss 0.155 MAE 0.374
+INFO:root:After 8400 instances : Loss 0.200 MAE 0.387
+INFO:root:After 6400 instances : Loss 0.228 MAE 0.456
+INFO:root:After 8400 instances : Loss 0.753 MAE 0.796
+INFO:root:After 6400 instances : Loss 1.642 MAE 1.278
+INFO:root:After 6800 instances : Loss 1.110 MAE 1.035
+INFO:root:After 8800 instances : Loss 0.328 MAE 0.334
+INFO:root:After 8800 instances : Loss 0.700 MAE 0.489
+INFO:root:After 6800 instances : Loss 0.027 MAE 0.097
+INFO:root:After 7200 instances : Loss 0.217 MAE 0.465
+INFO:root:After 9200 instances : Loss 3.408 MAE 1.817
+INFO:root:After 9200 instances : Loss 0.727 MAE 0.826
+INFO:root:After 7200 instances : Loss 0.062 MAE 0.108
+INFO:root:After 7600 instances : Loss 0.359 MAE 0.594
+INFO:root:After 9600 instances : Loss 0.106 MAE 0.300
+INFO:root:After 9600 instances : Loss 3.347 MAE 1.821
+INFO:root:After 7600 instances : Loss 0.902 MAE 0.942
+INFO:root:After 8000 instances : Loss 0.237 MAE 0.171
+INFO:root:After 10000 instances : Loss 0.351 MAE 0.591
+INFO:root:After 10000 instances : Loss 1.509 MAE 1.227
+INFO:root:After 8000 instances : Loss 0.609 MAE 0.776
+INFO:root:After 8400 instances : Loss 0.024 MAE 0.109
+INFO:root:After 10400 instances : Loss 0.787 MAE 0.878
+INFO:root:After 10400 instances : Loss 0.519 MAE 0.672
+INFO:root:After 8400 instances : Loss 0.024 MAE 0.145
+INFO:root:After 8800 instances : Loss 1.253 MAE 1.095
+INFO:__main__:Epoch 10 : Avg Error 0.355; Average Loss 0.162 Time : 3168
+INFO:root:After 0 instances : Loss 0.767 MAE 0.876
+INFO:__main__:Epoch 9 : Avg Error 0.141; Average Loss 0.038 Time : 3575
+INFO:root:After 0 instances : Loss 0.079 MAE 0.280
+INFO:root:After 8800 instances : Loss 0.704 MAE 0.412
+INFO:root:After 9200 instances : Loss 0.099 MAE 0.312
+INFO:root:After 400 instances : Loss 0.095 MAE 0.297
+INFO:root:After 400 instances : Loss 0.103 MAE 0.317
+INFO:root:After 9200 instances : Loss 0.432 MAE 0.651
+INFO:root:After 9600 instances : Loss 0.444 MAE 0.665
+INFO:root:After 800 instances : Loss 0.235 MAE 0.453
+INFO:root:After 800 instances : Loss 0.141 MAE 0.304
+INFO:root:After 9600 instances : Loss 0.374 MAE 0.606
+INFO:root:After 10000 instances : Loss 0.296 MAE 0.528
+INFO:root:After 1200 instances : Loss 0.334 MAE 0.571
+INFO:root:After 10000 instances : Loss 1.243 MAE 1.111
+INFO:root:After 1200 instances : Loss 0.433 MAE 0.647
+INFO:root:After 10400 instances : Loss 0.954 MAE 0.965
+INFO:root:After 1600 instances : Loss 1.113 MAE 1.024
+INFO:root:After 10400 instances : Loss 0.513 MAE 0.710
+INFO:__main__:Epoch 10 : Avg Error 0.166; Average Loss 0.091 Time : 3224
+INFO:root:After 0 instances : Loss 0.372 MAE 0.610
+INFO:root:After 1600 instances : Loss 0.704 MAE 0.651
+INFO:root:After 2000 instances : Loss 0.462 MAE 0.649
+INFO:__main__:Epoch 10 : Avg Error 0.231; Average Loss 0.094 Time : 3233
+INFO:root:After 0 instances : Loss 1.414 MAE 1.189
+INFO:root:After 400 instances : Loss 0.337 MAE 0.535
+INFO:root:After 2000 instances : Loss 0.113 MAE 0.322
+INFO:root:After 2400 instances : Loss 0.485 MAE 0.539
+INFO:root:After 400 instances : Loss 0.014 MAE 0.036
+INFO:root:After 800 instances : Loss 0.225 MAE 0.473
+INFO:root:After 2800 instances : Loss 0.017 MAE 0.058
+INFO:root:After 2400 instances : Loss 1.185 MAE 1.054
+INFO:root:After 800 instances : Loss 0.229 MAE 0.449
+INFO:root:After 1200 instances : Loss 0.423 MAE 0.629
+INFO:root:After 3200 instances : Loss 0.103 MAE 0.133
+INFO:root:After 2800 instances : Loss 2.298 MAE 1.495
+INFO:root:After 1200 instances : Loss 3.134 MAE 1.699
+INFO:root:After 1600 instances : Loss 0.930 MAE 0.962
+INFO:root:After 3600 instances : Loss 1.829 MAE 1.346
+INFO:root:After 3200 instances : Loss 0.146 MAE 0.380
+INFO:root:After 1600 instances : Loss 2.655 MAE 1.599
+INFO:root:After 2000 instances : Loss 2.312 MAE 1.469
+INFO:root:After 4000 instances : Loss 0.207 MAE 0.438
+INFO:root:After 2000 instances : Loss 0.088 MAE 0.122
+INFO:root:After 3600 instances : Loss 0.629 MAE 0.711
+INFO:root:After 2400 instances : Loss 0.096 MAE 0.303
+INFO:root:After 4400 instances : Loss 0.838 MAE 0.915
+INFO:root:After 2400 instances : Loss 0.223 MAE 0.381
+INFO:root:After 4000 instances : Loss 1.353 MAE 1.147
+INFO:root:After 2800 instances : Loss 1.684 MAE 1.275
+INFO:root:After 4800 instances : Loss 1.069 MAE 1.032
+INFO:root:After 2800 instances : Loss 6.133 MAE 2.385
+INFO:root:After 4400 instances : Loss 1.097 MAE 1.038
+INFO:root:After 3200 instances : Loss 0.643 MAE 0.773
+INFO:root:After 5200 instances : Loss 0.690 MAE 0.813
+INFO:root:After 3200 instances : Loss 0.282 MAE 0.445
+INFO:root:After 4800 instances : Loss 0.333 MAE 0.574
+INFO:root:After 3600 instances : Loss 0.135 MAE 0.251
+INFO:root:After 5600 instances : Loss 2.539 MAE 1.587
+INFO:root:After 3600 instances : Loss 0.802 MAE 0.861
+INFO:root:After 4000 instances : Loss 0.062 MAE 0.213
+INFO:root:After 5200 instances : Loss 6.513 MAE 2.461
+INFO:root:After 6000 instances : Loss 2.287 MAE 1.507
+INFO:root:After 4000 instances : Loss 1.824 MAE 1.328
+INFO:root:After 4400 instances : Loss 0.389 MAE 0.592
+INFO:root:After 6400 instances : Loss 0.025 MAE 0.101
+INFO:root:After 5600 instances : Loss 0.928 MAE 0.942
+INFO:root:After 4400 instances : Loss 0.669 MAE 0.807
+INFO:root:After 4800 instances : Loss 0.083 MAE 0.285
+INFO:root:After 6800 instances : Loss 0.189 MAE 0.426
+INFO:root:After 6000 instances : Loss 0.948 MAE 0.964
+INFO:root:After 4800 instances : Loss 2.736 MAE 1.641
+INFO:root:After 5200 instances : Loss 0.122 MAE 0.348
+INFO:root:After 7200 instances : Loss 1.072 MAE 1.009
+INFO:root:After 6400 instances : Loss 0.160 MAE 0.352
+INFO:root:After 5200 instances : Loss 0.779 MAE 0.846
+INFO:root:After 5600 instances : Loss 0.115 MAE 0.300
+INFO:root:After 7600 instances : Loss 0.057 MAE 0.238
+INFO:root:After 6800 instances : Loss 1.257 MAE 1.118
+INFO:root:After 5600 instances : Loss 0.027 MAE 0.162
+INFO:root:After 8000 instances : Loss 5.392 MAE 2.314
+INFO:root:After 6000 instances : Loss 0.160 MAE 0.313
+INFO:root:After 7200 instances : Loss 0.104 MAE 0.322
+INFO:root:After 6000 instances : Loss 0.282 MAE 0.512
+INFO:root:After 8400 instances : Loss 0.662 MAE 0.759
+INFO:root:After 6400 instances : Loss 0.179 MAE 0.401
+INFO:root:After 6400 instances : Loss 1.671 MAE 1.290
+INFO:root:After 7600 instances : Loss 0.111 MAE 0.279
+INFO:root:After 8800 instances : Loss 0.764 MAE 0.543
+INFO:root:After 6800 instances : Loss 1.032 MAE 0.993
+INFO:root:After 6800 instances : Loss 0.030 MAE 0.089
+INFO:root:After 8000 instances : Loss 0.581 MAE 0.729
+INFO:root:After 9200 instances : Loss 0.244 MAE 0.486
+INFO:root:After 7200 instances : Loss 0.120 MAE 0.343
+INFO:root:After 7200 instances : Loss 0.027 MAE 0.065
+INFO:root:After 8400 instances : Loss 0.156 MAE 0.310
+INFO:root:After 9600 instances : Loss 1.689 MAE 1.293
+INFO:root:After 7600 instances : Loss 0.321 MAE 0.563
+INFO:root:After 7600 instances : Loss 0.666 MAE 0.809
+INFO:root:After 10000 instances : Loss 0.407 MAE 0.632
+INFO:root:After 8800 instances : Loss 0.329 MAE 0.332
+INFO:root:After 8000 instances : Loss 0.240 MAE 0.167
+INFO:root:After 8000 instances : Loss 0.541 MAE 0.728
+INFO:root:After 10400 instances : Loss 0.282 MAE 0.522
+INFO:root:After 8400 instances : Loss 0.080 MAE 0.273
+INFO:root:After 9200 instances : Loss 4.392 MAE 2.077
+INFO:__main__:Epoch 11 : Avg Error 0.454; Average Loss 0.220 Time : 3168
+INFO:root:After 0 instances : Loss 0.880 MAE 0.938
+INFO:root:After 8400 instances : Loss 0.003 MAE 0.022
+INFO:root:After 8800 instances : Loss 1.214 MAE 1.082
+INFO:root:After 9600 instances : Loss 0.162 MAE 0.394
+INFO:root:After 400 instances : Loss 0.145 MAE 0.370
+INFO:root:After 8800 instances : Loss 0.698 MAE 0.296
+INFO:root:After 9200 instances : Loss 0.041 MAE 0.188
+INFO:root:After 10000 instances : Loss 1.303 MAE 1.140
+INFO:root:After 800 instances : Loss 0.241 MAE 0.472
+INFO:root:After 9200 instances : Loss 0.304 MAE 0.545
+INFO:root:After 9600 instances : Loss 0.464 MAE 0.680
+INFO:root:After 10400 instances : Loss 0.407 MAE 0.614
+INFO:root:After 1200 instances : Loss 0.161 MAE 0.396
+INFO:root:After 9600 instances : Loss 0.333 MAE 0.565
+INFO:root:After 10000 instances : Loss 0.242 MAE 0.477
+INFO:__main__:Epoch 10 : Avg Error 0.184; Average Loss 0.056 Time : 3578
+INFO:root:After 0 instances : Loss 1.505 MAE 1.227
+INFO:root:After 1600 instances : Loss 1.158 MAE 1.035
+INFO:root:After 10000 instances : Loss 0.893 MAE 0.938
+INFO:root:After 10400 instances : Loss 0.670 MAE 0.799
+INFO:root:After 400 instances : Loss 0.162 MAE 0.383
+INFO:root:After 2000 instances : Loss 0.495 MAE 0.690
+INFO:root:After 10400 instances : Loss 0.278 MAE 0.512
+INFO:__main__:Epoch 11 : Avg Error 0.208; Average Loss 0.108 Time : 3223
+INFO:root:After 0 instances : Loss 1.267 MAE 1.126
+INFO:__main__:Epoch 11 : Avg Error 0.217; Average Loss 0.076 Time : 3233
+INFO:root:After 0 instances : Loss 1.483 MAE 1.218
+INFO:root:After 800 instances : Loss 0.208 MAE 0.396
+INFO:root:After 2400 instances : Loss 0.793 MAE 0.770
+INFO:root:After 400 instances : Loss 0.099 MAE 0.185
+INFO:root:After 400 instances : Loss 0.049 MAE 0.217
+INFO:root:After 2800 instances : Loss 0.063 MAE 0.224
+INFO:root:After 1200 instances : Loss 0.460 MAE 0.622
+INFO:root:After 800 instances : Loss 0.075 MAE 0.268
+INFO:root:After 800 instances : Loss 0.273 MAE 0.483
+INFO:root:After 3200 instances : Loss 0.088 MAE 0.245
+INFO:root:After 1600 instances : Loss 0.864 MAE 0.788
+INFO:root:After 1200 instances : Loss 0.418 MAE 0.621
+INFO:root:After 1200 instances : Loss 2.281 MAE 1.441
+INFO:root:After 3600 instances : Loss 0.543 MAE 0.733
+INFO:root:After 1600 instances : Loss 1.166 MAE 1.069
+INFO:root:After 2000 instances : Loss 0.270 MAE 0.511
+INFO:root:After 1600 instances : Loss 2.585 MAE 1.592
+INFO:root:After 4000 instances : Loss 0.243 MAE 0.477
+INFO:root:After 2000 instances : Loss 2.502 MAE 1.572
+INFO:root:After 2400 instances : Loss 1.090 MAE 1.039
+INFO:root:After 2000 instances : Loss 0.063 MAE 0.149
+INFO:root:After 4400 instances : Loss 1.199 MAE 1.078
+INFO:root:After 2400 instances : Loss 0.075 MAE 0.254
+INFO:root:After 2800 instances : Loss 2.455 MAE 1.558
+INFO:root:After 2400 instances : Loss 0.219 MAE 0.449
+INFO:root:After 4800 instances : Loss 1.069 MAE 1.030
+INFO:root:After 2800 instances : Loss 1.175 MAE 1.052
+INFO:root:After 3200 instances : Loss 0.188 MAE 0.434
+INFO:root:After 5200 instances : Loss 0.459 MAE 0.661
+INFO:root:After 2800 instances : Loss 5.809 MAE 2.305
+INFO:root:After 3200 instances : Loss 0.453 MAE 0.649
+INFO:root:After 3600 instances : Loss 0.507 MAE 0.637
+INFO:root:After 5600 instances : Loss 2.749 MAE 1.648
+INFO:root:After 3200 instances : Loss 0.378 MAE 0.565
+INFO:root:After 3600 instances : Loss 0.158 MAE 0.214
+INFO:root:After 6000 instances : Loss 2.173 MAE 1.469
+INFO:root:After 4000 instances : Loss 1.144 MAE 1.059
+INFO:root:After 3600 instances : Loss 0.486 MAE 0.674
+INFO:root:After 4000 instances : Loss 0.179 MAE 0.402
+INFO:root:After 6400 instances : Loss 0.134 MAE 0.343
+INFO:root:After 4000 instances : Loss 1.304 MAE 1.123
+INFO:root:After 4400 instances : Loss 0.859 MAE 0.918
+INFO:root:After 4400 instances : Loss 0.304 MAE 0.549
+INFO:root:After 6800 instances : Loss 0.146 MAE 0.374
+INFO:root:After 4400 instances : Loss 0.497 MAE 0.694
+INFO:root:After 4800 instances : Loss 0.302 MAE 0.542
+INFO:root:After 4800 instances : Loss 0.002 MAE 0.030
+INFO:root:After 7200 instances : Loss 1.041 MAE 0.998
+INFO:root:After 4800 instances : Loss 2.677 MAE 1.625
+INFO:root:After 5200 instances : Loss 6.447 MAE 2.445
+INFO:root:After 5200 instances : Loss 0.163 MAE 0.401
+INFO:root:After 7600 instances : Loss 0.027 MAE 0.156
+INFO:root:After 5200 instances : Loss 0.680 MAE 0.786
+INFO:root:After 5600 instances : Loss 0.085 MAE 0.259
+INFO:root:After 5600 instances : Loss 0.913 MAE 0.913
+INFO:root:After 8000 instances : Loss 4.099 MAE 2.021
+INFO:root:After 5600 instances : Loss 0.011 MAE 0.086
+INFO:root:After 6000 instances : Loss 0.313 MAE 0.500
+INFO:root:After 6000 instances : Loss 1.173 MAE 1.067
+INFO:root:After 8400 instances : Loss 0.468 MAE 0.623
+INFO:root:After 6000 instances : Loss 0.308 MAE 0.529
+INFO:root:After 6400 instances : Loss 0.110 MAE 0.271
+INFO:root:After 6400 instances : Loss 0.034 MAE 0.144
+INFO:root:After 8800 instances : Loss 0.628 MAE 0.389
+INFO:root:After 6400 instances : Loss 1.566 MAE 1.250
+INFO:root:After 6800 instances : Loss 0.825 MAE 0.882
+INFO:root:After 6800 instances : Loss 1.265 MAE 1.124
+INFO:root:After 9200 instances : Loss 0.383 MAE 0.606
+INFO:root:After 6800 instances : Loss 0.048 MAE 0.148
+INFO:root:After 7200 instances : Loss 0.347 MAE 0.589
+INFO:root:After 9600 instances : Loss 1.413 MAE 1.181
+INFO:root:After 7200 instances : Loss 0.006 MAE 0.045
+INFO:root:After 7200 instances : Loss 0.019 MAE 0.084
+INFO:root:After 7600 instances : Loss 0.432 MAE 0.655
+INFO:root:After 10000 instances : Loss 0.353 MAE 0.586
+INFO:root:After 7600 instances : Loss 0.100 MAE 0.279
+INFO:root:After 7600 instances : Loss 0.540 MAE 0.731
+INFO:root:After 8000 instances : Loss 0.221 MAE 0.253
+INFO:root:After 10400 instances : Loss 0.076 MAE 0.249
+INFO:root:After 8000 instances : Loss 0.967 MAE 0.980
+INFO:root:After 8000 instances : Loss 0.389 MAE 0.609
+INFO:root:After 8400 instances : Loss 0.201 MAE 0.444
+INFO:__main__:Epoch 12 : Avg Error 0.542; Average Loss 0.301 Time : 3170
+INFO:root:After 0 instances : Loss 0.831 MAE 0.912
+INFO:root:After 8400 instances : Loss 0.002 MAE 0.022
+INFO:root:After 8400 instances : Loss 0.061 MAE 0.089
+INFO:root:After 8800 instances : Loss 1.341 MAE 1.138
+INFO:root:After 400 instances : Loss 0.094 MAE 0.305
+INFO:root:After 8800 instances : Loss 0.734 MAE 0.300
+INFO:root:After 8800 instances : Loss 0.347 MAE 0.279
+INFO:root:After 9200 instances : Loss 0.065 MAE 0.253
+INFO:root:After 800 instances : Loss 0.170 MAE 0.385
+INFO:root:After 9200 instances : Loss 0.298 MAE 0.540
+INFO:root:After 9600 instances : Loss 0.668 MAE 0.817
+INFO:root:After 9200 instances : Loss 6.484 MAE 2.520
+INFO:root:After 1200 instances : Loss 0.157 MAE 0.382
+INFO:root:After 9600 instances : Loss 0.171 MAE 0.398
+INFO:root:After 10000 instances : Loss 0.218 MAE 0.456
+INFO:root:After 1600 instances : Loss 1.013 MAE 0.966
+INFO:root:After 9600 instances : Loss 0.313 MAE 0.537
+INFO:root:After 10000 instances : Loss 0.564 MAE 0.736
+INFO:root:After 10400 instances : Loss 0.932 MAE 0.952
+INFO:root:After 2000 instances : Loss 0.457 MAE 0.666
+INFO:root:After 10000 instances : Loss 1.188 MAE 1.090
+INFO:root:After 10400 instances : Loss 0.196 MAE 0.423
+INFO:__main__:Epoch 12 : Avg Error 0.182; Average Loss 0.093 Time : 3225
+INFO:root:After 0 instances : Loss 0.938 MAE 0.968
+INFO:root:After 2400 instances : Loss 0.716 MAE 0.711
+INFO:root:After 10400 instances : Loss 0.449 MAE 0.651
+INFO:__main__:Epoch 12 : Avg Error 0.203; Average Loss 0.067 Time : 3234
+INFO:root:After 0 instances : Loss 1.280 MAE 1.131
+INFO:root:After 400 instances : Loss 0.467 MAE 0.663
+INFO:root:After 2800 instances : Loss 0.033 MAE 0.148
+INFO:__main__:Epoch 11 : Avg Error 0.177; Average Loss 0.052 Time : 3574
+INFO:root:After 0 instances : Loss 0.173 MAE 0.416
+INFO:root:After 400 instances : Loss 0.030 MAE 0.155
+INFO:root:After 800 instances : Loss 0.128 MAE 0.356
+INFO:root:After 3200 instances : Loss 0.145 MAE 0.359
+INFO:root:After 400 instances : Loss 0.074 MAE 0.261
+INFO:root:After 800 instances : Loss 0.207 MAE 0.408
+INFO:root:After 1200 instances : Loss 0.352 MAE 0.574
+INFO:root:After 3600 instances : Loss 0.571 MAE 0.744
+INFO:root:After 800 instances : Loss 0.602 MAE 0.762
+INFO:root:After 1200 instances : Loss 2.135 MAE 1.402
+INFO:root:After 1600 instances : Loss 1.011 MAE 0.999
+INFO:root:After 4000 instances : Loss 0.207 MAE 0.437
+INFO:root:After 1600 instances : Loss 3.218 MAE 1.774
+INFO:root:After 1200 instances : Loss 0.517 MAE 0.623
+INFO:root:After 2000 instances : Loss 2.000 MAE 1.383
+INFO:root:After 4400 instances : Loss 0.801 MAE 0.882
+INFO:root:After 2000 instances : Loss 0.094 MAE 0.296
+INFO:root:After 1600 instances : Loss 0.569 MAE 0.528
+INFO:root:After 2400 instances : Loss 0.110 MAE 0.326
+INFO:root:After 4800 instances : Loss 1.007 MAE 0.999
+INFO:root:After 2400 instances : Loss 0.159 MAE 0.389
+INFO:root:After 2000 instances : Loss 0.299 MAE 0.541
+INFO:root:After 2800 instances : Loss 0.627 MAE 0.761
+INFO:root:After 5200 instances : Loss 0.440 MAE 0.646
+INFO:root:After 2800 instances : Loss 5.258 MAE 2.178
+INFO:root:After 3200 instances : Loss 0.737 MAE 0.833
+INFO:root:After 2400 instances : Loss 0.982 MAE 0.959
+INFO:root:After 5600 instances : Loss 2.293 MAE 1.506
+INFO:root:After 3200 instances : Loss 0.260 MAE 0.445
+INFO:root:After 3600 instances : Loss 0.129 MAE 0.165
+INFO:root:After 2800 instances : Loss 1.442 MAE 1.167
+INFO:root:After 6000 instances : Loss 1.968 MAE 1.400
+INFO:root:After 3600 instances : Loss 0.225 MAE 0.450
+INFO:root:After 4000 instances : Loss 0.182 MAE 0.413
+INFO:root:After 6400 instances : Loss 0.261 MAE 0.497
+INFO:root:After 3200 instances : Loss 0.039 MAE 0.185
+INFO:root:After 4000 instances : Loss 1.277 MAE 1.109
+INFO:root:After 4400 instances : Loss 0.260 MAE 0.469
+INFO:root:After 6800 instances : Loss 0.199 MAE 0.427
+INFO:root:After 3600 instances : Loss 0.825 MAE 0.802
+INFO:root:After 4400 instances : Loss 0.328 MAE 0.563
+INFO:root:After 4800 instances : Loss 0.055 MAE 0.233
+INFO:root:After 7200 instances : Loss 1.057 MAE 1.012
+INFO:root:After 4000 instances : Loss 1.453 MAE 1.181
+INFO:root:After 4800 instances : Loss 2.516 MAE 1.577
+INFO:root:After 5200 instances : Loss 0.229 MAE 0.478
+INFO:root:After 7600 instances : Loss 0.017 MAE 0.088
+INFO:root:After 4400 instances : Loss 0.089 MAE 0.274
+INFO:root:After 5200 instances : Loss 0.920 MAE 0.917
+INFO:root:After 5600 instances : Loss 0.044 MAE 0.151
+INFO:root:After 8000 instances : Loss 3.388 MAE 1.838
+INFO:root:After 4800 instances : Loss 0.057 MAE 0.231
+INFO:root:After 5600 instances : Loss 0.012 MAE 0.052
+INFO:root:After 6000 instances : Loss 0.118 MAE 0.140
+INFO:root:After 8400 instances : Loss 0.544 MAE 0.685
+INFO:root:After 6000 instances : Loss 0.528 MAE 0.704
+INFO:root:After 5200 instances : Loss 6.702 MAE 2.489
+INFO:root:After 6400 instances : Loss 0.102 MAE 0.242
+INFO:root:After 8800 instances : Loss 0.620 MAE 0.259
+INFO:root:After 6400 instances : Loss 1.490 MAE 1.220
+INFO:root:After 5600 instances : Loss 0.648 MAE 0.769
+INFO:root:After 6800 instances : Loss 1.195 MAE 1.071
+INFO:root:After 9200 instances : Loss 0.838 MAE 0.907
+INFO:root:After 6800 instances : Loss 0.076 MAE 0.250
+INFO:root:After 9600 instances : Loss 0.744 MAE 0.858
+INFO:root:After 7200 instances : Loss 0.439 MAE 0.661
+INFO:root:After 6000 instances : Loss 1.233 MAE 1.096
+INFO:root:After 7200 instances : Loss 0.015 MAE 0.108
+INFO:root:After 10000 instances : Loss 0.325 MAE 0.569
+INFO:root:After 7600 instances : Loss 0.238 MAE 0.486
+INFO:root:After 6400 instances : Loss 0.053 MAE 0.193
+INFO:root:After 7600 instances : Loss 0.387 MAE 0.621
+INFO:root:After 10400 instances : Loss 0.048 MAE 0.107
+INFO:root:After 8000 instances : Loss 0.276 MAE 0.422
+INFO:root:After 6800 instances : Loss 1.021 MAE 1.009
+INFO:__main__:Epoch 13 : Avg Error 0.589; Average Loss 0.350 Time : 3168
+INFO:root:After 0 instances : Loss 0.662 MAE 0.814
+INFO:root:After 8000 instances : Loss 0.329 MAE 0.545
+INFO:root:After 8400 instances : Loss 0.237 MAE 0.482
+INFO:root:After 7200 instances : Loss 0.108 MAE 0.275
+INFO:root:After 400 instances : Loss 0.118 MAE 0.343
+INFO:root:After 8400 instances : Loss 0.014 MAE 0.115
+INFO:root:After 8800 instances : Loss 1.191 MAE 1.071
+INFO:root:After 7600 instances : Loss 0.055 MAE 0.089
+INFO:root:After 800 instances : Loss 0.143 MAE 0.329
+INFO:root:After 8800 instances : Loss 0.747 MAE 0.305
+INFO:root:After 9200 instances : Loss 0.055 MAE 0.225
+INFO:root:After 8000 instances : Loss 0.634 MAE 0.792
+INFO:root:After 1200 instances : Loss 0.064 MAE 0.111
+INFO:root:After 9200 instances : Loss 0.159 MAE 0.389
+INFO:root:After 9600 instances : Loss 0.210 MAE 0.453
+INFO:root:After 1600 instances : Loss 0.912 MAE 0.917
+INFO:root:After 8400 instances : Loss 0.115 MAE 0.278
+INFO:root:After 9600 instances : Loss 0.136 MAE 0.259
+INFO:root:After 10000 instances : Loss 0.174 MAE 0.378
+INFO:root:After 2000 instances : Loss 0.468 MAE 0.676
+INFO:root:After 10000 instances : Loss 0.318 MAE 0.538
+INFO:root:After 8800 instances : Loss 0.361 MAE 0.329
+INFO:root:After 10400 instances : Loss 1.248 MAE 1.109
+INFO:root:After 2400 instances : Loss 0.717 MAE 0.723
+INFO:__main__:Epoch 13 : Avg Error 0.219; Average Loss 0.080 Time : 3226
+INFO:root:After 0 instances : Loss 0.386 MAE 0.621
+INFO:root:After 10400 instances : Loss 0.113 MAE 0.325
+INFO:root:After 9200 instances : Loss 2.276 MAE 1.474
+INFO:__main__:Epoch 13 : Avg Error 0.360; Average Loss 0.144 Time : 3235
+INFO:root:After 0 instances : Loss 1.262 MAE 1.123
+INFO:root:After 2800 instances : Loss 0.043 MAE 0.182
+INFO:root:After 400 instances : Loss 0.102 MAE 0.298
+INFO:root:After 9600 instances : Loss 0.177 MAE 0.414
+INFO:root:After 3200 instances : Loss 0.197 MAE 0.408
+INFO:root:After 400 instances : Loss 0.015 MAE 0.091
+INFO:root:After 800 instances : Loss 0.029 MAE 0.151
+INFO:root:After 10000 instances : Loss 0.784 MAE 0.852
+INFO:root:After 800 instances : Loss 0.391 MAE 0.616
+INFO:root:After 3600 instances : Loss 0.804 MAE 0.879
+INFO:root:After 1200 instances : Loss 0.434 MAE 0.638
+INFO:root:After 10400 instances : Loss 0.099 MAE 0.305
+INFO:root:After 4000 instances : Loss 0.207 MAE 0.442
+INFO:root:After 1200 instances : Loss 1.764 MAE 1.271
+INFO:root:After 1600 instances : Loss 1.152 MAE 1.066
+INFO:__main__:Epoch 12 : Avg Error 0.454; Average Loss 0.225 Time : 3574
+INFO:root:After 0 instances : Loss 2.240 MAE 1.497
+INFO:root:After 4400 instances : Loss 0.356 MAE 0.589
+INFO:root:After 1600 instances : Loss 2.910 MAE 1.687
+INFO:root:After 2000 instances : Loss 2.033 MAE 1.409
+INFO:root:After 400 instances : Loss 0.131 MAE 0.345
+INFO:root:After 4800 instances : Loss 0.973 MAE 0.981
+INFO:root:After 2000 instances : Loss 0.085 MAE 0.290
+INFO:root:After 2400 instances : Loss 0.056 MAE 0.152
+INFO:root:After 800 instances : Loss 0.386 MAE 0.595
+INFO:root:After 5200 instances : Loss 0.469 MAE 0.672
+INFO:root:After 2400 instances : Loss 0.096 MAE 0.250
+INFO:root:After 2800 instances : Loss 0.884 MAE 0.913
+INFO:root:After 1200 instances : Loss 0.522 MAE 0.607
+INFO:root:After 5600 instances : Loss 1.386 MAE 1.166
+INFO:root:After 2800 instances : Loss 4.740 MAE 2.075
+INFO:root:After 3200 instances : Loss 0.324 MAE 0.550
+INFO:root:After 6000 instances : Loss 1.464 MAE 1.207
+INFO:root:After 1600 instances : Loss 0.554 MAE 0.605
+INFO:root:After 3200 instances : Loss 0.318 MAE 0.510
+INFO:root:After 3600 instances : Loss 0.132 MAE 0.211
+INFO:root:After 6400 instances : Loss 0.148 MAE 0.370
+INFO:root:After 2000 instances : Loss 0.274 MAE 0.517
+INFO:root:After 3600 instances : Loss 0.093 MAE 0.274
+INFO:root:After 4000 instances : Loss 0.101 MAE 0.296
+INFO:root:After 6800 instances : Loss 0.275 MAE 0.503
+INFO:root:After 4000 instances : Loss 1.443 MAE 1.176
+INFO:root:After 2400 instances : Loss 0.607 MAE 0.746
+INFO:root:After 4400 instances : Loss 0.337 MAE 0.561
+INFO:root:After 7200 instances : Loss 0.869 MAE 0.919
+INFO:root:After 4400 instances : Loss 0.210 MAE 0.449
+INFO:root:After 4800 instances : Loss 0.001 MAE 0.023
+INFO:root:After 2800 instances : Loss 0.545 MAE 0.728
+INFO:root:After 7600 instances : Loss 0.020 MAE 0.096
+INFO:root:After 4800 instances : Loss 2.275 MAE 1.498
+INFO:root:After 5200 instances : Loss 0.201 MAE 0.448
+INFO:root:After 3200 instances : Loss 0.037 MAE 0.137
+INFO:root:After 8000 instances : Loss 3.143 MAE 1.771
+INFO:root:After 5200 instances : Loss 0.777 MAE 0.846
+INFO:root:After 5600 instances : Loss 0.054 MAE 0.211
+INFO:root:After 3600 instances : Loss 0.334 MAE 0.464
+INFO:root:After 8400 instances : Loss 0.479 MAE 0.640
+INFO:root:After 5600 instances : Loss 0.079 MAE 0.278
+INFO:root:After 6000 instances : Loss 0.602 MAE 0.766
+INFO:root:After 4000 instances : Loss 0.541 MAE 0.709
+INFO:root:After 8800 instances : Loss 0.578 MAE 0.389
+INFO:root:After 6000 instances : Loss 0.578 MAE 0.742
+INFO:root:After 6400 instances : Loss 0.101 MAE 0.272
+INFO:root:After 4400 instances : Loss 0.698 MAE 0.827
+INFO:root:After 9200 instances : Loss 0.735 MAE 0.842
+INFO:root:After 6400 instances : Loss 1.380 MAE 1.174
+INFO:root:After 6800 instances : Loss 1.051 MAE 0.996
+INFO:root:After 9600 instances : Loss 0.698 MAE 0.831
+INFO:root:After 4800 instances : Loss 1.098 MAE 1.040
+INFO:root:After 6800 instances : Loss 0.083 MAE 0.276
+INFO:root:After 7200 instances : Loss 0.367 MAE 0.605
+INFO:root:After 10000 instances : Loss 0.287 MAE 0.535
+INFO:root:After 5200 instances : Loss 4.773 MAE 2.100
+INFO:root:After 7200 instances : Loss 0.020 MAE 0.135
+INFO:root:After 7600 instances : Loss 0.231 MAE 0.480
+INFO:root:After 10400 instances : Loss 0.061 MAE 0.218
+INFO:root:After 5600 instances : Loss 0.669 MAE 0.790
+INFO:root:After 7600 instances : Loss 0.194 MAE 0.439
+INFO:root:After 8000 instances : Loss 0.206 MAE 0.228
+INFO:__main__:Epoch 14 : Avg Error 0.607; Average Loss 0.371 Time : 3169
+INFO:root:After 0 instances : Loss 0.889 MAE 0.943
+INFO:root:After 8000 instances : Loss 0.237 MAE 0.436
+INFO:root:After 6000 instances : Loss 0.714 MAE 0.826
+INFO:root:After 8400 instances : Loss 0.140 MAE 0.371
+INFO:root:After 400 instances : Loss 0.075 MAE 0.273
+INFO:root:After 8400 instances : Loss 0.018 MAE 0.132
+INFO:root:After 8800 instances : Loss 0.845 MAE 0.887
+INFO:root:After 6400 instances : Loss 0.158 MAE 0.382
+INFO:root:After 800 instances : Loss 0.156 MAE 0.378
+INFO:root:After 8800 instances : Loss 0.960 MAE 0.734
+INFO:root:After 9200 instances : Loss 0.140 MAE 0.371
+INFO:root:After 6800 instances : Loss 1.109 MAE 1.052
+INFO:root:After 1200 instances : Loss 0.100 MAE 0.201
+INFO:root:After 9200 instances : Loss 0.052 MAE 0.203
+INFO:root:After 9600 instances : Loss 0.546 MAE 0.738
+INFO:root:After 1600 instances : Loss 1.244 MAE 1.091
+INFO:root:After 7200 instances : Loss 0.013 MAE 0.066
+INFO:root:After 9600 instances : Loss 0.130 MAE 0.177
+INFO:root:After 10000 instances : Loss 0.164 MAE 0.386
+INFO:root:After 2000 instances : Loss 0.447 MAE 0.663
+INFO:root:After 7600 instances : Loss 0.045 MAE 0.103
+INFO:root:After 10000 instances : Loss 0.165 MAE 0.378
+INFO:root:After 10400 instances : Loss 0.629 MAE 0.774
+INFO:root:After 2400 instances : Loss 0.395 MAE 0.455
+INFO:root:After 8000 instances : Loss 1.446 MAE 1.201
+INFO:__main__:Epoch 14 : Avg Error 0.140; Average Loss 0.052 Time : 3224
+INFO:root:After 0 instances : Loss 0.444 MAE 0.666
+INFO:root:After 10400 instances : Loss 0.155 MAE 0.393
+INFO:root:After 2800 instances : Loss 0.016 MAE 0.077
+INFO:root:After 8400 instances : Loss 0.020 MAE 0.088
+INFO:__main__:Epoch 14 : Avg Error 0.267; Average Loss 0.076 Time : 3232
+INFO:root:After 0 instances : Loss 1.065 MAE 1.032
+INFO:root:After 400 instances : Loss 0.082 MAE 0.170
+INFO:root:After 3200 instances : Loss 0.113 MAE 0.259
+INFO:root:After 400 instances : Loss 0.164 MAE 0.403
+INFO:root:After 8800 instances : Loss 0.285 MAE 0.216
+INFO:root:After 800 instances : Loss 0.021 MAE 0.056
+INFO:root:After 3600 instances : Loss 0.268 MAE 0.495
+INFO:root:After 800 instances : Loss 0.236 MAE 0.449
+INFO:root:After 9200 instances : Loss 3.423 MAE 1.830
+INFO:root:After 1200 instances : Loss 0.414 MAE 0.625
+INFO:root:After 4000 instances : Loss 0.135 MAE 0.363
+INFO:root:After 1200 instances : Loss 1.838 MAE 1.306
+INFO:root:After 1600 instances : Loss 1.120 MAE 1.047
+INFO:root:After 9600 instances : Loss 0.158 MAE 0.392
+INFO:root:After 4400 instances : Loss 0.071 MAE 0.261
+INFO:root:After 1600 instances : Loss 2.461 MAE 1.559
+INFO:root:After 2000 instances : Loss 2.086 MAE 1.407
+INFO:root:After 10000 instances : Loss 0.604 MAE 0.731
+INFO:root:After 4800 instances : Loss 0.979 MAE 0.984
+INFO:root:After 2000 instances : Loss 0.100 MAE 0.315
+INFO:root:After 2400 instances : Loss 0.093 MAE 0.191
+INFO:root:After 5200 instances : Loss 0.356 MAE 0.589
+INFO:root:After 10400 instances : Loss 0.070 MAE 0.243
+INFO:root:After 2400 instances : Loss 0.026 MAE 0.117
+INFO:root:After 2800 instances : Loss 0.722 MAE 0.832
+INFO:__main__:Epoch 13 : Avg Error 0.345; Average Loss 0.135 Time : 3571
+INFO:root:After 0 instances : Loss 1.616 MAE 1.271
+INFO:root:After 5600 instances : Loss 0.749 MAE 0.850
+INFO:root:After 2800 instances : Loss 4.133 MAE 1.933
+INFO:root:After 3200 instances : Loss 0.499 MAE 0.688
+INFO:root:After 6000 instances : Loss 0.486 MAE 0.695
+INFO:root:After 400 instances : Loss 0.035 MAE 0.185
+INFO:root:After 3200 instances : Loss 0.259 MAE 0.459
+INFO:root:After 3600 instances : Loss 0.107 MAE 0.114
+INFO:root:After 6400 instances : Loss 0.184 MAE 0.422
+INFO:root:After 800 instances : Loss 0.355 MAE 0.562
+INFO:root:After 3600 instances : Loss 0.068 MAE 0.180
+INFO:root:After 4000 instances : Loss 0.063 MAE 0.224
+INFO:root:After 6800 instances : Loss 0.258 MAE 0.488
+INFO:root:After 1200 instances : Loss 0.661 MAE 0.778
+INFO:root:After 4000 instances : Loss 1.740 MAE 1.289
+INFO:root:After 4400 instances : Loss 0.278 MAE 0.447
+INFO:root:After 7200 instances : Loss 0.845 MAE 0.912
+INFO:root:After 1600 instances : Loss 1.304 MAE 1.029
+INFO:root:After 4400 instances : Loss 0.142 MAE 0.361
+INFO:root:After 4800 instances : Loss 0.001 MAE 0.022
+INFO:root:After 7600 instances : Loss 0.041 MAE 0.150
+INFO:root:After 2000 instances : Loss 0.220 MAE 0.446
+INFO:root:After 4800 instances : Loss 1.991 MAE 1.403
+INFO:root:After 5200 instances : Loss 0.220 MAE 0.465
+INFO:root:After 8000 instances : Loss 2.366 MAE 1.538
+INFO:root:After 2400 instances : Loss 0.873 MAE 0.911
+INFO:root:After 5200 instances : Loss 0.807 MAE 0.867
+INFO:root:After 5600 instances : Loss 0.061 MAE 0.218
+INFO:root:After 8400 instances : Loss 0.384 MAE 0.567
+INFO:root:After 5600 instances : Loss 0.027 MAE 0.147
+INFO:root:After 2800 instances : Loss 0.790 MAE 0.864
+INFO:root:After 6000 instances : Loss 0.174 MAE 0.317
+INFO:root:After 8800 instances : Loss 0.596 MAE 0.377
+INFO:root:After 6000 instances : Loss 0.567 MAE 0.733
+INFO:root:After 6400 instances : Loss 0.069 MAE 0.193
+INFO:root:After 3200 instances : Loss 0.067 MAE 0.254
+INFO:root:After 9200 instances : Loss 0.460 MAE 0.666
+INFO:root:After 6400 instances : Loss 1.550 MAE 1.244
+INFO:root:After 6800 instances : Loss 1.123 MAE 1.029
+INFO:root:After 9600 instances : Loss 0.646 MAE 0.801
+INFO:root:After 3600 instances : Loss 0.732 MAE 0.815
+INFO:root:After 6800 instances : Loss 0.118 MAE 0.337
+INFO:root:After 7200 instances : Loss 0.272 MAE 0.521
+INFO:root:After 10000 instances : Loss 0.264 MAE 0.513
+INFO:root:After 4000 instances : Loss 1.118 MAE 1.036
+INFO:root:After 7200 instances : Loss 0.011 MAE 0.095
+INFO:root:After 7600 instances : Loss 0.280 MAE 0.528
+INFO:root:After 10400 instances : Loss 0.037 MAE 0.147
+INFO:root:After 4400 instances : Loss 0.278 MAE 0.508
+INFO:__main__:Epoch 15 : Avg Error 0.687; Average Loss 0.473 Time : 3169
+INFO:root:After 0 instances : Loss 0.677 MAE 0.823
+INFO:root:After 7600 instances : Loss 0.091 MAE 0.292
+INFO:root:After 8000 instances : Loss 0.199 MAE 0.210
+INFO:root:After 4800 instances : Loss 0.987 MAE 0.978
+INFO:root:After 400 instances : Loss 0.030 MAE 0.172
+INFO:root:After 8000 instances : Loss 0.177 MAE 0.346
+INFO:root:After 8400 instances : Loss 0.163 MAE 0.402
+INFO:root:After 5200 instances : Loss 6.187 MAE 2.403
+INFO:root:After 800 instances : Loss 0.124 MAE 0.320
+INFO:root:After 8400 instances : Loss 0.026 MAE 0.157
+INFO:root:After 8800 instances : Loss 0.893 MAE 0.901
+INFO:root:After 5600 instances : Loss 0.172 MAE 0.352
+INFO:root:After 1200 instances : Loss 0.082 MAE 0.167
+INFO:root:After 8800 instances : Loss 0.765 MAE 0.358
+INFO:root:After 9200 instances : Loss 0.039 MAE 0.179
+INFO:root:After 1600 instances : Loss 1.042 MAE 0.979
+INFO:root:After 6000 instances : Loss 0.554 MAE 0.702
+INFO:root:After 9200 instances : Loss 0.017 MAE 0.048
+INFO:root:After 9600 instances : Loss 0.526 MAE 0.723
+INFO:root:After 2000 instances : Loss 0.389 MAE 0.621
+INFO:root:After 6400 instances : Loss 0.289 MAE 0.533
+INFO:root:After 9600 instances : Loss 0.190 MAE 0.245
+INFO:root:After 10000 instances : Loss 0.154 MAE 0.321
+INFO:root:After 2400 instances : Loss 0.386 MAE 0.470
+INFO:root:After 10000 instances : Loss 0.073 MAE 0.207
+INFO:root:After 10400 instances : Loss 0.430 MAE 0.637
+INFO:root:After 6800 instances : Loss 1.033 MAE 1.016
+INFO:root:After 2800 instances : Loss 0.038 MAE 0.165
+INFO:__main__:Epoch 15 : Avg Error 0.122; Average Loss 0.061 Time : 3225
+INFO:root:After 0 instances : Loss 0.009 MAE 0.094
+INFO:root:After 10400 instances : Loss 0.132 MAE 0.363
+INFO:root:After 7200 instances : Loss 0.025 MAE 0.128
+INFO:root:After 3200 instances : Loss 0.128 MAE 0.287
+INFO:__main__:Epoch 15 : Avg Error 0.201; Average Loss 0.042 Time : 3234
+INFO:root:After 0 instances : Loss 0.575 MAE 0.759
+INFO:root:After 400 instances : Loss 0.313 MAE 0.541
+INFO:root:After 7600 instances : Loss 0.040 MAE 0.065
+INFO:root:After 3600 instances : Loss 0.671 MAE 0.793
+INFO:root:After 400 instances : Loss 0.246 MAE 0.492
+INFO:root:After 800 instances : Loss 0.014 MAE 0.066
+INFO:root:After 8000 instances : Loss 0.818 MAE 0.901
+INFO:root:After 4000 instances : Loss 0.133 MAE 0.361
+INFO:root:After 800 instances : Loss 0.237 MAE 0.469
+INFO:root:After 1200 instances : Loss 0.495 MAE 0.690
+INFO:root:After 8400 instances : Loss 0.172 MAE 0.383
+INFO:root:After 4400 instances : Loss 0.014 MAE 0.101
+INFO:root:After 1200 instances : Loss 1.548 MAE 1.187
+INFO:root:After 1600 instances : Loss 1.330 MAE 1.139
+INFO:root:After 8800 instances : Loss 0.321 MAE 0.219
+INFO:root:After 4800 instances : Loss 0.778 MAE 0.878
+INFO:root:After 1600 instances : Loss 2.042 MAE 1.420
+INFO:root:After 2000 instances : Loss 2.030 MAE 1.410
+INFO:root:After 5200 instances : Loss 0.313 MAE 0.554
+INFO:root:After 9200 instances : Loss 2.177 MAE 1.451
+INFO:root:After 2000 instances : Loss 0.058 MAE 0.238
+INFO:root:After 2400 instances : Loss 0.061 MAE 0.191
+INFO:root:After 5600 instances : Loss 0.516 MAE 0.702
+INFO:root:After 2400 instances : Loss 0.026 MAE 0.145
+INFO:root:After 2800 instances : Loss 0.472 MAE 0.667
+INFO:root:After 9600 instances : Loss 0.102 MAE 0.316
+INFO:root:After 6000 instances : Loss 0.016 MAE 0.053
+INFO:root:After 2800 instances : Loss 4.001 MAE 1.907
+INFO:root:After 3200 instances : Loss 0.772 MAE 0.862
+INFO:root:After 10000 instances : Loss 0.370 MAE 0.515
+INFO:root:After 6400 instances : Loss 0.058 MAE 0.224
+INFO:root:After 3200 instances : Loss 0.240 MAE 0.454
+INFO:root:After 3600 instances : Loss 0.136 MAE 0.121
+INFO:root:After 10400 instances : Loss 0.038 MAE 0.180
+INFO:root:After 6800 instances : Loss 0.271 MAE 0.501
+INFO:root:After 3600 instances : Loss 0.048 MAE 0.118
+INFO:root:After 4000 instances : Loss 0.112 MAE 0.316
+INFO:__main__:Epoch 14 : Avg Error 0.350; Average Loss 0.139 Time : 3570
+INFO:root:After 0 instances : Loss 1.608 MAE 1.268
+INFO:root:After 7200 instances : Loss 1.010 MAE 0.996
+INFO:root:After 4400 instances : Loss 0.245 MAE 0.454
+INFO:root:After 4000 instances : Loss 1.697 MAE 1.277
+INFO:root:After 400 instances : Loss 0.017 MAE 0.103
+INFO:root:After 7600 instances : Loss 0.035 MAE 0.085
+INFO:root:After 4400 instances : Loss 0.128 MAE 0.341
+INFO:root:After 4800 instances : Loss 0.002 MAE 0.022
+INFO:root:After 800 instances : Loss 0.213 MAE 0.405
+INFO:root:After 8000 instances : Loss 2.199 MAE 1.481
+INFO:root:After 5200 instances : Loss 0.183 MAE 0.408
+INFO:root:After 4800 instances : Loss 1.721 MAE 1.304
+INFO:root:After 1200 instances : Loss 0.586 MAE 0.750
+INFO:root:After 8400 instances : Loss 0.396 MAE 0.584
+INFO:root:After 5200 instances : Loss 0.622 MAE 0.759
+INFO:root:After 5600 instances : Loss 0.027 MAE 0.121
+INFO:root:After 1600 instances : Loss 1.155 MAE 0.992
+INFO:root:After 8800 instances : Loss 0.596 MAE 0.451
+INFO:root:After 6000 instances : Loss 0.207 MAE 0.388
+INFO:root:After 5600 instances : Loss 0.020 MAE 0.104
+INFO:root:After 2000 instances : Loss 0.318 MAE 0.534
+INFO:root:After 9200 instances : Loss 0.430 MAE 0.642
+INFO:root:After 6400 instances : Loss 0.060 MAE 0.188
+INFO:root:After 6000 instances : Loss 0.577 MAE 0.730
+INFO:root:After 9600 instances : Loss 0.692 MAE 0.829
+INFO:root:After 2400 instances : Loss 0.794 MAE 0.853
+INFO:root:After 6800 instances : Loss 0.914 MAE 0.929
+INFO:root:After 6400 instances : Loss 1.507 MAE 1.226
+INFO:root:After 10000 instances : Loss 0.291 MAE 0.539
+INFO:root:After 2800 instances : Loss 1.071 MAE 0.984
+INFO:root:After 7200 instances : Loss 0.143 MAE 0.376
+INFO:root:After 6800 instances : Loss 0.193 MAE 0.433
+INFO:root:After 10400 instances : Loss 0.098 MAE 0.303
+INFO:root:After 3200 instances : Loss 0.142 MAE 0.366
+INFO:root:After 7600 instances : Loss 0.188 MAE 0.433
+INFO:root:After 7200 instances : Loss 0.015 MAE 0.114
+INFO:__main__:Epoch 16 : Avg Error 0.786; Average Loss 0.620 Time : 3169
+INFO:root:After 0 instances : Loss 1.006 MAE 1.003
+INFO:root:After 8000 instances : Loss 0.178 MAE 0.172
+INFO:root:After 7600 instances : Loss 0.059 MAE 0.222
+INFO:root:After 3600 instances : Loss 1.029 MAE 0.994
+INFO:root:After 400 instances : Loss 0.250 MAE 0.494
+INFO:root:After 8400 instances : Loss 0.307 MAE 0.554
+INFO:root:After 8000 instances : Loss 0.172 MAE 0.340
+INFO:root:After 4000 instances : Loss 0.559 MAE 0.727
+INFO:root:After 800 instances : Loss 0.084 MAE 0.247
+INFO:root:After 8800 instances : Loss 0.790 MAE 0.856
+INFO:root:After 8400 instances : Loss 0.078 MAE 0.279
+INFO:root:After 4400 instances : Loss 0.774 MAE 0.872
+INFO:root:After 1200 instances : Loss 0.119 MAE 0.117
+INFO:root:After 9200 instances : Loss 0.060 MAE 0.243
+INFO:root:After 8800 instances : Loss 0.887 MAE 0.670
+INFO:root:After 1600 instances : Loss 0.840 MAE 0.890
+INFO:root:After 4800 instances : Loss 0.226 MAE 0.459
+INFO:root:After 9600 instances : Loss 0.655 MAE 0.809
+INFO:root:After 9200 instances : Loss 0.015 MAE 0.096
+INFO:root:After 2000 instances : Loss 0.430 MAE 0.653
+INFO:root:After 5200 instances : Loss 6.463 MAE 2.468
+INFO:root:After 10000 instances : Loss 0.182 MAE 0.347
+INFO:root:After 9600 instances : Loss 0.151 MAE 0.135
+INFO:root:After 2400 instances : Loss 0.392 MAE 0.492
+INFO:root:After 5600 instances : Loss 0.495 MAE 0.660
+INFO:root:After 10400 instances : Loss 0.674 MAE 0.809
+INFO:root:After 10000 instances : Loss 0.039 MAE 0.064
+INFO:root:After 2800 instances : Loss 0.021 MAE 0.102
+INFO:root:After 6000 instances : Loss 0.100 MAE 0.285
+INFO:__main__:Epoch 16 : Avg Error 0.247; Average Loss 0.080 Time : 3222
+INFO:root:After 0 instances : Loss 0.461 MAE 0.679
+INFO:root:After 10400 instances : Loss 0.153 MAE 0.390
+INFO:root:After 3200 instances : Loss 0.198 MAE 0.386
+INFO:root:After 400 instances : Loss 0.495 MAE 0.700
+INFO:root:After 6400 instances : Loss 0.513 MAE 0.715
+INFO:__main__:Epoch 16 : Avg Error 0.179; Average Loss 0.033 Time : 3232
+INFO:root:After 0 instances : Loss 0.458 MAE 0.677
+INFO:root:After 3600 instances : Loss 0.266 MAE 0.492
+INFO:root:After 800 instances : Loss 0.046 MAE 0.198
+INFO:root:After 400 instances : Loss 0.293 MAE 0.536
+INFO:root:After 6800 instances : Loss 0.996 MAE 0.997
+INFO:root:After 4000 instances : Loss 0.177 MAE 0.415
+INFO:root:After 1200 instances : Loss 0.490 MAE 0.688
+INFO:root:After 800 instances : Loss 0.214 MAE 0.452
+INFO:root:After 7200 instances : Loss 0.005 MAE 0.055
+INFO:root:After 4400 instances : Loss 0.009 MAE 0.059
+INFO:root:After 1600 instances : Loss 0.925 MAE 0.943
+INFO:root:After 1200 instances : Loss 1.272 MAE 1.080
+INFO:root:After 7600 instances : Loss 0.010 MAE 0.054
+INFO:root:After 4800 instances : Loss 0.907 MAE 0.947
+INFO:root:After 2000 instances : Loss 1.854 MAE 1.346
+INFO:root:After 1600 instances : Loss 1.978 MAE 1.397
+INFO:root:After 5200 instances : Loss 0.293 MAE 0.537
+INFO:root:After 8000 instances : Loss 0.962 MAE 0.970
+INFO:root:After 2400 instances : Loss 0.068 MAE 0.247
+INFO:root:After 2000 instances : Loss 0.013 MAE 0.090
+INFO:root:After 5600 instances : Loss 0.582 MAE 0.750
+INFO:root:After 8400 instances : Loss 0.099 MAE 0.300
+INFO:root:After 2800 instances : Loss 0.442 MAE 0.647
+INFO:root:After 2400 instances : Loss 0.023 MAE 0.142
+INFO:root:After 6000 instances : Loss 0.017 MAE 0.082
+INFO:root:After 8800 instances : Loss 0.514 MAE 0.547
+INFO:root:After 3200 instances : Loss 0.791 MAE 0.872
+INFO:root:After 2800 instances : Loss 3.525 MAE 1.787
+INFO:root:After 6400 instances : Loss 0.043 MAE 0.198
+INFO:root:After 9200 instances : Loss 2.262 MAE 1.473
+INFO:root:After 3600 instances : Loss 0.157 MAE 0.133
+INFO:root:After 3200 instances : Loss 0.144 MAE 0.331
+INFO:root:After 6800 instances : Loss 0.272 MAE 0.511
+INFO:root:After 9600 instances : Loss 0.142 MAE 0.360
+INFO:root:After 4000 instances : Loss 0.140 MAE 0.357
+INFO:root:After 3600 instances : Loss 0.033 MAE 0.083
+INFO:root:After 7200 instances : Loss 1.272 MAE 1.116
+INFO:root:After 10000 instances : Loss 0.327 MAE 0.301
+INFO:root:After 4400 instances : Loss 0.302 MAE 0.508
+INFO:root:After 4000 instances : Loss 1.584 MAE 1.236
+INFO:root:After 7600 instances : Loss 0.046 MAE 0.165
+INFO:root:After 4800 instances : Loss 0.016 MAE 0.121
+INFO:root:After 4400 instances : Loss 0.071 MAE 0.250
+INFO:root:After 10400 instances : Loss 0.040 MAE 0.197
+INFO:root:After 8000 instances : Loss 1.930 MAE 1.386
+INFO:__main__:Epoch 15 : Avg Error 0.289; Average Loss 0.100 Time : 3568
+INFO:root:After 0 instances : Loss 1.120 MAE 1.058
+INFO:root:After 5200 instances : Loss 0.147 MAE 0.370
+INFO:root:After 4800 instances : Loss 1.622 MAE 1.264
+INFO:root:After 8400 instances : Loss 0.223 MAE 0.407
+INFO:root:After 5600 instances : Loss 0.037 MAE 0.093
+INFO:root:After 400 instances : Loss 0.016 MAE 0.063
+INFO:root:After 5200 instances : Loss 0.577 MAE 0.731
+INFO:root:After 8800 instances : Loss 0.606 MAE 0.426
+INFO:root:After 6000 instances : Loss 0.105 MAE 0.216
+INFO:root:After 5600 instances : Loss 0.054 MAE 0.220
+INFO:root:After 800 instances : Loss 0.331 MAE 0.542
+INFO:root:After 9200 instances : Loss 0.272 MAE 0.510
+INFO:root:After 6400 instances : Loss 0.068 MAE 0.203
+INFO:root:After 6000 instances : Loss 0.717 MAE 0.819
+INFO:root:After 9600 instances : Loss 0.855 MAE 0.921
+INFO:root:After 1200 instances : Loss 0.570 MAE 0.744
+INFO:root:After 6800 instances : Loss 0.879 MAE 0.910
+INFO:root:After 6400 instances : Loss 1.287 MAE 1.132
+INFO:root:After 10000 instances : Loss 0.207 MAE 0.454
+INFO:root:After 1600 instances : Loss 0.862 MAE 0.886
+INFO:root:After 7200 instances : Loss 0.015 MAE 0.045
+INFO:root:After 6800 instances : Loss 0.267 MAE 0.512
+INFO:root:After 10400 instances : Loss 0.431 MAE 0.651
+INFO:root:After 2000 instances : Loss 0.288 MAE 0.499
+INFO:__main__:Epoch 17 : Avg Error 0.770; Average Loss 0.594 Time : 3170
+INFO:root:After 0 instances : Loss 0.703 MAE 0.839
+INFO:root:After 7600 instances : Loss 0.276 MAE 0.524
+INFO:root:After 7200 instances : Loss 0.004 MAE 0.030
+INFO:root:After 2400 instances : Loss 1.116 MAE 1.027
+INFO:root:After 400 instances : Loss 0.198 MAE 0.436
+INFO:root:After 8000 instances : Loss 0.164 MAE 0.173
+INFO:root:After 7600 instances : Loss 0.042 MAE 0.162
+INFO:root:After 2800 instances : Loss 1.914 MAE 1.359
+INFO:root:After 800 instances : Loss 0.086 MAE 0.236
+INFO:root:After 8400 instances : Loss 0.263 MAE 0.512
+INFO:root:After 8000 instances : Loss 0.167 MAE 0.330
+INFO:root:After 3200 instances : Loss 0.097 MAE 0.241
+INFO:root:After 1200 instances : Loss 0.092 MAE 0.106
+INFO:root:After 8800 instances : Loss 0.479 MAE 0.600
+INFO:root:After 8400 instances : Loss 0.115 MAE 0.337
+INFO:root:After 1600 instances : Loss 0.933 MAE 0.939
+INFO:root:After 3600 instances : Loss 0.975 MAE 0.974
+INFO:root:After 9200 instances : Loss 0.083 MAE 0.286
+INFO:root:After 8800 instances : Loss 0.853 MAE 0.548
+INFO:root:After 2000 instances : Loss 0.500 MAE 0.704
+INFO:root:After 9600 instances : Loss 0.390 MAE 0.624
+INFO:root:After 4000 instances : Loss 1.266 MAE 1.114
+INFO:root:After 9200 instances : Loss 0.020 MAE 0.115
+INFO:root:After 2400 instances : Loss 0.409 MAE 0.516
+INFO:root:After 10000 instances : Loss 0.143 MAE 0.330
+INFO:root:After 9600 instances : Loss 0.151 MAE 0.214
+INFO:root:After 4400 instances : Loss 0.202 MAE 0.436
+INFO:root:After 2800 instances : Loss 0.039 MAE 0.164
+INFO:root:After 10400 instances : Loss 0.554 MAE 0.733
+INFO:root:After 10000 instances : Loss 0.043 MAE 0.127
+INFO:root:After 4800 instances : Loss 0.283 MAE 0.526
+INFO:__main__:Epoch 17 : Avg Error 0.156; Average Loss 0.051 Time : 3222
+INFO:root:After 0 instances : Loss 0.094 MAE 0.307
+INFO:root:After 3200 instances : Loss 0.113 MAE 0.185
+INFO:root:After 10400 instances : Loss 0.118 MAE 0.343
+INFO:root:After 5200 instances : Loss 5.680 MAE 2.317
+INFO:root:After 400 instances : Loss 0.197 MAE 0.438
+INFO:root:After 3600 instances : Loss 0.038 MAE 0.170
+INFO:__main__:Epoch 17 : Avg Error 0.145; Average Loss 0.022 Time : 3233
+INFO:root:After 0 instances : Loss 0.281 MAE 0.530
+INFO:root:After 5600 instances : Loss 0.887 MAE 0.904
+INFO:root:After 800 instances : Loss 0.010 MAE 0.046
+INFO:root:After 4000 instances : Loss 0.189 MAE 0.430
+INFO:root:After 400 instances : Loss 0.447 MAE 0.660
+INFO:root:After 6000 instances : Loss 0.345 MAE 0.579
+INFO:root:After 4400 instances : Loss 0.008 MAE 0.059
+INFO:root:After 1200 instances : Loss 0.437 MAE 0.634
+INFO:root:After 800 instances : Loss 0.229 MAE 0.472
+INFO:root:After 6400 instances : Loss 0.355 MAE 0.594
+INFO:root:After 4800 instances : Loss 0.971 MAE 0.979
+INFO:root:After 1600 instances : Loss 0.600 MAE 0.774
+INFO:root:After 1200 instances : Loss 1.052 MAE 0.981
+INFO:root:After 5200 instances : Loss 0.318 MAE 0.561
+INFO:root:After 2000 instances : Loss 1.833 MAE 1.295
+INFO:root:After 6800 instances : Loss 1.290 MAE 1.131
+INFO:root:After 1600 instances : Loss 1.827 MAE 1.344
+INFO:root:After 5600 instances : Loss 0.388 MAE 0.607
+INFO:root:After 2400 instances : Loss 0.138 MAE 0.345
+INFO:root:After 7200 instances : Loss 0.653 MAE 0.778
+INFO:root:After 2000 instances : Loss 0.007 MAE 0.041
+INFO:root:After 6000 instances : Loss 0.024 MAE 0.121
+INFO:root:After 2800 instances : Loss 0.568 MAE 0.731
+INFO:root:After 2400 instances : Loss 0.041 MAE 0.199
+INFO:root:After 7600 instances : Loss 0.008 MAE 0.065
+INFO:root:After 6400 instances : Loss 0.016 MAE 0.068
+INFO:root:After 3200 instances : Loss 0.491 MAE 0.680
+INFO:root:After 2800 instances : Loss 3.513 MAE 1.800
+INFO:root:After 8000 instances : Loss 0.107 MAE 0.153
+INFO:root:After 6800 instances : Loss 0.234 MAE 0.472
+INFO:root:After 3600 instances : Loss 0.168 MAE 0.149
+INFO:root:After 3200 instances : Loss 0.152 MAE 0.360
+INFO:root:After 8400 instances : Loss 0.302 MAE 0.538
+INFO:root:After 7200 instances : Loss 1.207 MAE 1.086
+INFO:root:After 4000 instances : Loss 0.078 MAE 0.245
+INFO:root:After 3600 instances : Loss 0.031 MAE 0.071
+INFO:root:After 8800 instances : Loss 0.312 MAE 0.202
+INFO:root:After 7600 instances : Loss 0.023 MAE 0.067
+INFO:root:After 4400 instances : Loss 0.375 MAE 0.608
+INFO:root:After 4000 instances : Loss 1.528 MAE 1.215
+INFO:root:After 9200 instances : Loss 2.518 MAE 1.568
+INFO:root:After 8000 instances : Loss 2.016 MAE 1.416
+INFO:root:After 4800 instances : Loss 0.001 MAE 0.015
+INFO:root:After 4400 instances : Loss 0.064 MAE 0.234
+INFO:root:After 9600 instances : Loss 0.152 MAE 0.375
+INFO:root:After 8400 instances : Loss 0.209 MAE 0.386
+INFO:root:After 5200 instances : Loss 0.229 MAE 0.462
+INFO:root:After 4800 instances : Loss 1.563 MAE 1.241
+INFO:root:After 8800 instances : Loss 0.617 MAE 0.479
+INFO:root:After 10000 instances : Loss 0.089 MAE 0.143
+INFO:root:After 5600 instances : Loss 0.060 MAE 0.222
+INFO:root:After 5200 instances : Loss 0.503 MAE 0.678
+INFO:root:After 9200 instances : Loss 0.299 MAE 0.535
+INFO:root:After 10400 instances : Loss 0.238 MAE 0.480
+INFO:root:After 6000 instances : Loss 0.127 MAE 0.251
+INFO:root:After 5600 instances : Loss 0.063 MAE 0.239
+INFO:root:After 9600 instances : Loss 0.820 MAE 0.902
+INFO:__main__:Epoch 16 : Avg Error 0.082; Average Loss 0.036 Time : 3565
+INFO:root:After 0 instances : Loss 0.052 MAE 0.227
+INFO:root:After 6400 instances : Loss 0.056 MAE 0.172
+INFO:root:After 6000 instances : Loss 0.703 MAE 0.810
+INFO:root:After 10000 instances : Loss 0.198 MAE 0.444
+INFO:root:After 400 instances : Loss 0.024 MAE 0.143
+INFO:root:After 6800 instances : Loss 1.006 MAE 0.976
+INFO:root:After 6400 instances : Loss 1.397 MAE 1.179
+INFO:root:After 10400 instances : Loss 0.148 MAE 0.377
+INFO:root:After 800 instances : Loss 0.830 MAE 0.907
+INFO:root:After 7200 instances : Loss 0.018 MAE 0.056
+INFO:root:After 6800 instances : Loss 0.246 MAE 0.491
+INFO:__main__:Epoch 18 : Avg Error 0.751; Average Loss 0.566 Time : 3171
+INFO:root:After 0 instances : Loss 0.705 MAE 0.840
+INFO:root:After 7600 instances : Loss 0.161 MAE 0.396
+INFO:root:After 1200 instances : Loss 0.447 MAE 0.659
+INFO:root:After 7200 instances : Loss 0.006 MAE 0.048
+INFO:root:After 400 instances : Loss 0.358 MAE 0.581
+INFO:root:After 8000 instances : Loss 0.206 MAE 0.286
+INFO:root:After 1600 instances : Loss 0.479 MAE 0.652
+INFO:root:After 7600 instances : Loss 0.037 MAE 0.142
+INFO:root:After 800 instances : Loss 0.141 MAE 0.357
+INFO:root:After 8400 instances : Loss 0.171 MAE 0.410
+INFO:root:After 8000 instances : Loss 0.150 MAE 0.293
+INFO:root:After 2000 instances : Loss 0.394 MAE 0.611
+INFO:root:After 1200 instances : Loss 0.105 MAE 0.132
+INFO:root:After 8800 instances : Loss 0.671 MAE 0.779
+INFO:root:After 8400 instances : Loss 0.104 MAE 0.319
+INFO:root:After 1600 instances : Loss 0.789 MAE 0.872
+INFO:root:After 2400 instances : Loss 0.689 MAE 0.805
+INFO:root:After 9200 instances : Loss 0.110 MAE 0.329
+INFO:root:After 8800 instances : Loss 0.958 MAE 0.655
+INFO:root:After 2000 instances : Loss 0.510 MAE 0.710
+INFO:root:After 2800 instances : Loss 1.619 MAE 1.247
+INFO:root:After 9600 instances : Loss 0.490 MAE 0.697
+INFO:root:After 9200 instances : Loss 0.046 MAE 0.204
+INFO:root:After 2400 instances : Loss 0.407 MAE 0.521
+INFO:root:After 3200 instances : Loss 0.092 MAE 0.277
+INFO:root:After 10000 instances : Loss 0.154 MAE 0.385
+INFO:root:After 9600 instances : Loss 0.151 MAE 0.204
+INFO:root:After 2800 instances : Loss 0.015 MAE 0.054
+INFO:root:After 3600 instances : Loss 1.013 MAE 0.998
+INFO:root:After 10400 instances : Loss 0.888 MAE 0.941
+INFO:root:After 10000 instances : Loss 0.051 MAE 0.198
+INFO:root:After 3200 instances : Loss 0.077 MAE 0.225
+INFO:__main__:Epoch 18 : Avg Error 0.293; Average Loss 0.104 Time : 3225
+INFO:root:After 0 instances : Loss 0.482 MAE 0.694
+INFO:root:After 4000 instances : Loss 0.926 MAE 0.948
+INFO:root:After 10400 instances : Loss 0.078 MAE 0.275
+INFO:root:After 3600 instances : Loss 0.038 MAE 0.181
+INFO:root:After 400 instances : Loss 0.061 MAE 0.176
+INFO:root:After 4400 instances : Loss 0.612 MAE 0.775
+INFO:__main__:Epoch 18 : Avg Error 0.096; Average Loss 0.012 Time : 3235
+INFO:root:After 0 instances : Loss 0.427 MAE 0.653
+INFO:root:After 4000 instances : Loss 0.191 MAE 0.432
+INFO:root:After 800 instances : Loss 0.042 MAE 0.115
+INFO:root:After 400 instances : Loss 0.301 MAE 0.545
+INFO:root:After 4800 instances : Loss 0.359 MAE 0.578
+INFO:root:After 4400 instances : Loss 0.062 MAE 0.245
+INFO:root:After 1200 instances : Loss 0.502 MAE 0.703
+INFO:root:After 800 instances : Loss 0.198 MAE 0.431
+INFO:root:After 5200 instances : Loss 6.594 MAE 2.496
+INFO:root:After 4800 instances : Loss 0.749 MAE 0.860
+INFO:root:After 1600 instances : Loss 1.049 MAE 1.000
+INFO:root:After 1200 instances : Loss 0.974 MAE 0.957
+INFO:root:After 5200 instances : Loss 0.316 MAE 0.560
+INFO:root:After 5600 instances : Loss 1.534 MAE 1.186
+INFO:root:After 2000 instances : Loss 1.784 MAE 1.313
+INFO:root:After 1600 instances : Loss 1.801 MAE 1.335
+INFO:root:After 5600 instances : Loss 0.366 MAE 0.589
+INFO:root:After 6000 instances : Loss 0.152 MAE 0.377
+INFO:root:After 2400 instances : Loss 0.076 MAE 0.204
+INFO:root:After 2000 instances : Loss 0.026 MAE 0.156
+INFO:root:After 6000 instances : Loss 0.022 MAE 0.103
+INFO:root:After 6400 instances : Loss 0.359 MAE 0.597
+INFO:root:After 2800 instances : Loss 0.591 MAE 0.742
+INFO:root:After 2400 instances : Loss 0.013 MAE 0.101
+INFO:root:After 6400 instances : Loss 0.016 MAE 0.065
+INFO:root:After 6800 instances : Loss 1.249 MAE 1.113
+INFO:root:After 3200 instances : Loss 0.590 MAE 0.748
+INFO:root:After 2800 instances : Loss 3.498 MAE 1.794
+INFO:root:After 6800 instances : Loss 0.139 MAE 0.371
+INFO:root:After 7200 instances : Loss 0.293 MAE 0.519
+INFO:root:After 3600 instances : Loss 0.181 MAE 0.158
+INFO:root:After 3200 instances : Loss 0.147 MAE 0.358
+INFO:root:After 7200 instances : Loss 1.272 MAE 1.115
+INFO:root:After 4000 instances : Loss 0.089 MAE 0.267
+INFO:root:After 7600 instances : Loss 0.009 MAE 0.097
+INFO:root:After 3600 instances : Loss 0.047 MAE 0.089
+INFO:root:After 7600 instances : Loss 0.040 MAE 0.154
+INFO:root:After 4400 instances : Loss 0.510 MAE 0.699
+INFO:root:After 8000 instances : Loss 0.264 MAE 0.436
+INFO:root:After 4000 instances : Loss 1.619 MAE 1.252
+INFO:root:After 8000 instances : Loss 2.085 MAE 1.439
+INFO:root:After 4800 instances : Loss 0.084 MAE 0.288
+INFO:root:After 8400 instances : Loss 0.322 MAE 0.556
+INFO:root:After 4400 instances : Loss 0.054 MAE 0.210
+INFO:root:After 8400 instances : Loss 0.212 MAE 0.406
+INFO:root:After 5200 instances : Loss 0.989 MAE 0.955
+INFO:root:After 4800 instances : Loss 1.553 MAE 1.235
+INFO:root:After 8800 instances : Loss 0.595 MAE 0.410
+INFO:root:After 8800 instances : Loss 0.367 MAE 0.329
+INFO:root:After 5600 instances : Loss 0.027 MAE 0.144
+INFO:root:After 5200 instances : Loss 0.479 MAE 0.660
+INFO:root:After 9200 instances : Loss 0.299 MAE 0.535
+INFO:root:After 9200 instances : Loss 2.639 MAE 1.613
+INFO:root:After 6000 instances : Loss 0.177 MAE 0.401
+INFO:root:After 5600 instances : Loss 0.076 MAE 0.265
+INFO:root:After 9600 instances : Loss 0.878 MAE 0.934
+INFO:root:After 9600 instances : Loss 0.185 MAE 0.418
+INFO:root:After 6400 instances : Loss 1.485 MAE 1.172
+INFO:root:After 6000 instances : Loss 0.510 MAE 0.680
+INFO:root:After 10000 instances : Loss 0.166 MAE 0.406
+INFO:root:After 10000 instances : Loss 0.248 MAE 0.263
+INFO:root:After 6800 instances : Loss 1.094 MAE 1.040
+INFO:root:After 6400 instances : Loss 1.296 MAE 1.137
+INFO:root:After 10400 instances : Loss 0.274 MAE 0.508
+INFO:root:After 10400 instances : Loss 0.043 MAE 0.201
+INFO:root:After 7200 instances : Loss 1.076 MAE 1.026
+INFO:__main__:Epoch 19 : Avg Error 0.731; Average Loss 0.534 Time : 3173
+INFO:root:After 0 instances : Loss 0.492 MAE 0.702
+INFO:root:After 6800 instances : Loss 0.254 MAE 0.500
+INFO:__main__:Epoch 17 : Avg Error 0.078; Average Loss 0.039 Time : 3569
+INFO:root:After 0 instances : Loss 0.304 MAE 0.552
+INFO:root:After 400 instances : Loss 0.305 MAE 0.543
+INFO:root:After 7600 instances : Loss 0.272 MAE 0.519
+INFO:root:After 7200 instances : Loss 0.008 MAE 0.081
+INFO:root:After 400 instances : Loss 0.060 MAE 0.243
+INFO:root:After 800 instances : Loss 0.084 MAE 0.257
+INFO:root:After 8000 instances : Loss 0.216 MAE 0.186
+INFO:root:After 7600 instances : Loss 0.028 MAE 0.100
+INFO:root:After 800 instances : Loss 1.008 MAE 1.001
+INFO:root:After 1200 instances : Loss 0.095 MAE 0.257
+INFO:root:After 8400 instances : Loss 0.389 MAE 0.599
+INFO:root:After 8000 instances : Loss 0.213 MAE 0.384
+INFO:root:After 1200 instances : Loss 0.385 MAE 0.614
+INFO:root:After 1600 instances : Loss 0.675 MAE 0.787
+INFO:root:After 8800 instances : Loss 0.325 MAE 0.553
+INFO:root:After 8400 instances : Loss 0.184 MAE 0.424
+INFO:root:After 2000 instances : Loss 0.250 MAE 0.493
+INFO:root:After 9200 instances : Loss 0.211 MAE 0.438
+INFO:root:After 1600 instances : Loss 0.695 MAE 0.828
+INFO:root:After 8800 instances : Loss 0.883 MAE 0.580
+INFO:root:After 2400 instances : Loss 0.419 MAE 0.512
+INFO:root:After 9600 instances : Loss 0.698 MAE 0.830
+INFO:root:After 2000 instances : Loss 0.422 MAE 0.627
+INFO:root:After 9200 instances : Loss 0.010 MAE 0.062
+INFO:root:After 2800 instances : Loss 0.017 MAE 0.076
+INFO:root:After 10000 instances : Loss 0.639 MAE 0.769
+INFO:root:After 2400 instances : Loss 0.407 MAE 0.630
+INFO:root:After 9600 instances : Loss 0.110 MAE 0.103
+INFO:root:After 3200 instances : Loss 0.054 MAE 0.172
+INFO:root:After 10400 instances : Loss 0.251 MAE 0.499
+INFO:root:After 10000 instances : Loss 0.061 MAE 0.229
+INFO:root:After 2800 instances : Loss 1.824 MAE 1.319
+INFO:__main__:Epoch 19 : Avg Error 0.105; Average Loss 0.076 Time : 3228
+INFO:root:After 0 instances : Loss 0.002 MAE 0.043
+INFO:root:After 3600 instances : Loss 0.038 MAE 0.138
+INFO:root:After 10400 instances : Loss 0.077 MAE 0.269
+INFO:root:After 3200 instances : Loss 0.129 MAE 0.358
+INFO:root:After 400 instances : Loss 0.374 MAE 0.610
+INFO:root:After 4000 instances : Loss 0.102 MAE 0.314
+INFO:__main__:Epoch 19 : Avg Error 0.106; Average Loss 0.013 Time : 3234
+INFO:root:After 0 instances : Loss 0.326 MAE 0.571
+INFO:root:After 3600 instances : Loss 0.586 MAE 0.761
+INFO:root:After 800 instances : Loss 0.293 MAE 0.539
+INFO:root:After 4400 instances : Loss 0.070 MAE 0.260
+INFO:root:After 400 instances : Loss 0.554 MAE 0.733
+INFO:root:After 4000 instances : Loss 1.204 MAE 1.085
+INFO:root:After 1200 instances : Loss 1.450 MAE 1.200
+INFO:root:After 4800 instances : Loss 0.517 MAE 0.714
+INFO:root:After 800 instances : Loss 0.229 MAE 0.471
+INFO:root:After 1600 instances : Loss 0.466 MAE 0.652
+INFO:root:After 4400 instances : Loss 0.587 MAE 0.760
+INFO:root:After 5200 instances : Loss 0.309 MAE 0.555
+INFO:root:After 1200 instances : Loss 0.779 MAE 0.843
+INFO:root:After 2000 instances : Loss 4.401 MAE 2.012
+INFO:root:After 5600 instances : Loss 0.322 MAE 0.552
+INFO:root:After 4800 instances : Loss 0.241 MAE 0.486
+INFO:root:After 1600 instances : Loss 1.328 MAE 1.147
+INFO:root:After 2400 instances : Loss 0.013 MAE 0.084
+INFO:root:After 6000 instances : Loss 0.029 MAE 0.150
+INFO:root:After 5200 instances : Loss 7.333 MAE 2.634
+INFO:root:After 2000 instances : Loss 0.015 MAE 0.120
+INFO:root:After 2800 instances : Loss 0.080 MAE 0.189
+INFO:root:After 6400 instances : Loss 0.018 MAE 0.060
+INFO:root:After 2400 instances : Loss 0.020 MAE 0.140
+INFO:root:After 5600 instances : Loss 0.916 MAE 0.912
+INFO:root:After 6800 instances : Loss 0.276 MAE 0.519
+INFO:root:After 3200 instances : Loss 0.397 MAE 0.627
+INFO:root:After 2800 instances : Loss 3.443 MAE 1.785
+INFO:root:After 6000 instances : Loss 0.033 MAE 0.150
+INFO:root:After 7200 instances : Loss 1.411 MAE 1.173
+INFO:root:After 3600 instances : Loss 0.069 MAE 0.126
+INFO:root:After 3200 instances : Loss 0.253 MAE 0.490
+INFO:root:After 6400 instances : Loss 0.337 MAE 0.576
+INFO:root:After 7600 instances : Loss 0.012 MAE 0.042
+INFO:root:After 4000 instances : Loss 0.651 MAE 0.803
+INFO:root:After 3600 instances : Loss 0.055 MAE 0.176
+INFO:root:After 6800 instances : Loss 1.197 MAE 1.092
+INFO:root:After 8000 instances : Loss 1.781 MAE 1.328
+INFO:root:After 4400 instances : Loss 0.443 MAE 0.661
+INFO:root:After 4000 instances : Loss 1.716 MAE 1.288
+INFO:root:After 7200 instances : Loss 0.024 MAE 0.148
+INFO:root:After 8400 instances : Loss 0.191 MAE 0.364
+INFO:root:After 4800 instances : Loss 0.143 MAE 0.363
+INFO:root:After 4400 instances : Loss 0.085 MAE 0.273
+INFO:root:After 7600 instances : Loss 0.002 MAE 0.019
+INFO:root:After 8800 instances : Loss 0.551 MAE 0.240
+INFO:root:After 5200 instances : Loss 1.132 MAE 1.041
+INFO:root:After 4800 instances : Loss 1.615 MAE 1.260
+INFO:root:After 9200 instances : Loss 0.215 MAE 0.459
+INFO:root:After 8000 instances : Loss 0.225 MAE 0.414
+INFO:root:After 5600 instances : Loss 0.014 MAE 0.087
+INFO:root:After 5200 instances : Loss 0.410 MAE 0.609
+INFO:root:After 9600 instances : Loss 0.953 MAE 0.971
+INFO:root:After 6000 instances : Loss 0.066 MAE 0.199
+INFO:root:After 8400 instances : Loss 0.191 MAE 0.426
+INFO:root:After 5600 instances : Loss 0.055 MAE 0.217
+INFO:root:After 10000 instances : Loss 0.220 MAE 0.459
+INFO:root:After 6400 instances : Loss 1.199 MAE 1.060
+INFO:root:After 8800 instances : Loss 0.360 MAE 0.313
+INFO:root:After 6000 instances : Loss 0.774 MAE 0.861
+INFO:root:After 10400 instances : Loss 0.420 MAE 0.637
+INFO:root:After 6800 instances : Loss 1.523 MAE 1.229
+INFO:root:After 9200 instances : Loss 2.146 MAE 1.452
+INFO:root:After 6400 instances : Loss 0.906 MAE 0.951
+INFO:__main__:Epoch 20 : Avg Error 0.722; Average Loss 0.522 Time : 3172
+INFO:__main__:Training finished : Duration 63446 secs, Avg Loss 0.522, Mean Average Error 0.722, Error ratio 7.220
+ERROR:root:Issue saving model or model parameters
+INFO:__main__:Evaluating on the validation set...
+INFO:root:After 1 instances: Average Loss : 0.202 Average Error : 0.449
+INFO:root:After 21 instances: Average Loss : 0.442 Average Error : 0.458
+INFO:root:After 41 instances: Average Loss : 0.557 Average Error : 0.585
+INFO:root:After 61 instances: Average Loss : 0.484 Average Error : 0.546
+INFO:root:After 81 instances: Average Loss : 0.607 Average Error : 0.615
+INFO:root:After 101 instances: Average Loss : 0.735 Average Error : 0.657
+INFO:root:After 121 instances: Average Loss : 0.728 Average Error : 0.653
+INFO:root:After 141 instances: Average Loss : 0.705 Average Error : 0.640
+INFO:root:After 161 instances: Average Loss : 0.671 Average Error : 0.626
+INFO:root:After 181 instances: Average Loss : 0.638 Average Error : 0.610
+INFO:root:After 201 instances: Average Loss : 0.622 Average Error : 0.603
+INFO:root:After 221 instances: Average Loss : 0.586 Average Error : 0.581
+INFO:root:After 241 instances: Average Loss : 0.634 Average Error : 0.603
+INFO:root:After 7200 instances : Loss 0.268 MAE 0.515
+INFO:root:After 261 instances: Average Loss : 0.617 Average Error : 0.596
+INFO:root:After 281 instances: Average Loss : 0.602 Average Error : 0.591
+INFO:root:After 301 instances: Average Loss : 0.590 Average Error : 0.590
+INFO:root:After 321 instances: Average Loss : 0.582 Average Error : 0.586
+INFO:root:After 341 instances: Average Loss : 0.581 Average Error : 0.590
+INFO:root:After 361 instances: Average Loss : 0.582 Average Error : 0.593
+INFO:root:After 381 instances: Average Loss : 0.596 Average Error : 0.602
+INFO:root:After 401 instances: Average Loss : 0.606 Average Error : 0.603
+INFO:root:After 421 instances: Average Loss : 0.613 Average Error : 0.609
+INFO:root:After 441 instances: Average Loss : 0.608 Average Error : 0.607
+INFO:root:After 6800 instances : Loss 0.211 MAE 0.456
+INFO:root:After 461 instances: Average Loss : 0.603 Average Error : 0.608
+INFO:root:After 9600 instances : Loss 0.439 MAE 0.657
+INFO:root:After 481 instances: Average Loss : 0.591 Average Error : 0.601
+INFO:root:After 501 instances: Average Loss : 0.587 Average Error : 0.600
+INFO:root:After 521 instances: Average Loss : 0.582 Average Error : 0.599
+INFO:root:After 541 instances: Average Loss : 0.579 Average Error : 0.596
+INFO:root:After 561 instances: Average Loss : 0.576 Average Error : 0.594
+INFO:root:After 581 instances: Average Loss : 0.575 Average Error : 0.592
+INFO:root:After 601 instances: Average Loss : 0.573 Average Error : 0.590
+INFO:root:After 621 instances: Average Loss : 0.577 Average Error : 0.595
+INFO:root:After 641 instances: Average Loss : 0.572 Average Error : 0.593
+INFO:root:After 661 instances: Average Loss : 0.572 Average Error : 0.593
+INFO:root:After 681 instances: Average Loss : 0.575 Average Error : 0.596
+INFO:root:After 701 instances: Average Loss : 0.592 Average Error : 0.596
+INFO:root:After 721 instances: Average Loss : 0.582 Average Error : 0.592
+INFO:root:After 741 instances: Average Loss : 0.576 Average Error : 0.589
+INFO:root:After 761 instances: Average Loss : 0.570 Average Error : 0.585
+INFO:root:After 781 instances: Average Loss : 0.566 Average Error : 0.584
+INFO:root:After 801 instances: Average Loss : 0.571 Average Error : 0.585
+INFO:root:After 821 instances: Average Loss : 0.567 Average Error : 0.584
+INFO:root:After 841 instances: Average Loss : 0.563 Average Error : 0.582
+INFO:root:After 861 instances: Average Loss : 0.558 Average Error : 0.580
+INFO:root:After 881 instances: Average Loss : 0.557 Average Error : 0.580
+INFO:root:After 7600 instances : Loss 0.222 MAE 0.470
+INFO:root:After 901 instances: Average Loss : 0.554 Average Error : 0.579
+INFO:root:After 921 instances: Average Loss : 0.548 Average Error : 0.575
+INFO:root:After 941 instances: Average Loss : 0.544 Average Error : 0.574
+INFO:root:After 961 instances: Average Loss : 0.544 Average Error : 0.575
+INFO:root:After 981 instances: Average Loss : 0.541 Average Error : 0.575
+INFO:root:After 1001 instances: Average Loss : 0.544 Average Error : 0.577
+INFO:root:After 1021 instances: Average Loss : 0.546 Average Error : 0.579
+INFO:root:After 1041 instances: Average Loss : 0.543 Average Error : 0.578
+INFO:root:After 1061 instances: Average Loss : 0.543 Average Error : 0.578
+INFO:root:After 7200 instances : Loss 0.006 MAE 0.059
+INFO:root:After 1081 instances: Average Loss : 0.542 Average Error : 0.578
+INFO:root:After 1101 instances: Average Loss : 0.550 Average Error : 0.581
+INFO:root:After 1121 instances: Average Loss : 0.549 Average Error : 0.580
+INFO:root:After 1141 instances: Average Loss : 0.544 Average Error : 0.578
+INFO:root:After 1161 instances: Average Loss : 0.541 Average Error : 0.577
+INFO:root:After 10000 instances : Loss 0.161 MAE 0.247
+INFO:root:After 1181 instances: Average Loss : 0.543 Average Error : 0.579
+INFO:root:After 1201 instances: Average Loss : 0.542 Average Error : 0.579
+INFO:root:After 1221 instances: Average Loss : 0.545 Average Error : 0.580
+INFO:root:After 1241 instances: Average Loss : 0.546 Average Error : 0.581
+INFO:root:After 1261 instances: Average Loss : 0.546 Average Error : 0.582
+INFO:root:After 1281 instances: Average Loss : 0.544 Average Error : 0.581
+INFO:root:After 1301 instances: Average Loss : 0.540 Average Error : 0.578
+INFO:root:After 1321 instances: Average Loss : 0.538 Average Error : 0.577
+INFO:__main__:Validation finished : Avg loss 0.538, Mean Average Error 0.577, Error ratio 5.772, Duration : 259 seconds
+INFO:root:After 8000 instances : Loss 0.194 MAE 0.298
+INFO:root:After 7600 instances : Loss 0.027 MAE 0.086
+INFO:root:After 10400 instances : Loss 0.284 MAE 0.528
+INFO:root:After 8400 instances : Loss 0.342 MAE 0.564
+INFO:root:After 8000 instances : Loss 0.213 MAE 0.376
+INFO:__main__:Epoch 18 : Avg Error 0.143; Average Loss 0.035 Time : 3562
+INFO:root:After 0 instances : Loss 0.004 MAE 0.060
+INFO:root:After 8800 instances : Loss 0.395 MAE 0.523
+INFO:root:After 8400 instances : Loss 0.191 MAE 0.429
+INFO:root:After 400 instances : Loss 0.090 MAE 0.300
+INFO:root:After 9200 instances : Loss 0.277 MAE 0.517
+INFO:root:After 8800 instances : Loss 0.884 MAE 0.588
+INFO:root:After 800 instances : Loss 0.182 MAE 0.360
+INFO:root:After 9600 instances : Loss 0.054 MAE 0.231
+INFO:root:After 9200 instances : Loss 0.016 MAE 0.108
+INFO:root:After 1200 instances : Loss 0.616 MAE 0.780
+INFO:root:After 10000 instances : Loss 0.711 MAE 0.839
+INFO:root:After 9600 instances : Loss 0.107 MAE 0.150
+INFO:root:After 1600 instances : Loss 0.665 MAE 0.804
+INFO:root:After 10400 instances : Loss 0.138 MAE 0.368
+INFO:root:After 10000 instances : Loss 0.074 MAE 0.264
+INFO:__main__:Epoch 20 : Avg Error 0.316; Average Loss 0.188 Time : 3214
+INFO:__main__:Training finished : Duration 64541 secs, Avg Loss 0.188, Mean Average Error 0.316, Error ratio 3.160
+ERROR:root:Issue saving model or model parameters
+INFO:__main__:Evaluating on the validation set...
+INFO:root:After 1 instances: Average Loss : 0.015 Average Error : 0.123
+INFO:root:After 21 instances: Average Loss : 0.536 Average Error : 0.626
+INFO:root:After 41 instances: Average Loss : 0.521 Average Error : 0.611
+INFO:root:After 61 instances: Average Loss : 0.489 Average Error : 0.558
+INFO:root:After 81 instances: Average Loss : 0.494 Average Error : 0.576
+INFO:root:After 101 instances: Average Loss : 0.611 Average Error : 0.609
+INFO:root:After 2000 instances : Loss 0.473 MAE 0.675
+INFO:root:After 121 instances: Average Loss : 0.602 Average Error : 0.601
+INFO:root:After 141 instances: Average Loss : 0.588 Average Error : 0.591
+INFO:root:After 161 instances: Average Loss : 0.579 Average Error : 0.583
+INFO:root:After 181 instances: Average Loss : 0.551 Average Error : 0.571
+INFO:root:After 201 instances: Average Loss : 0.546 Average Error : 0.567
+INFO:root:After 221 instances: Average Loss : 0.527 Average Error : 0.560
+INFO:root:After 241 instances: Average Loss : 0.575 Average Error : 0.585
+INFO:root:After 261 instances: Average Loss : 0.596 Average Error : 0.594
+INFO:root:After 281 instances: Average Loss : 0.588 Average Error : 0.585
+INFO:root:After 301 instances: Average Loss : 0.593 Average Error : 0.588
+INFO:root:After 321 instances: Average Loss : 0.587 Average Error : 0.585
+INFO:root:After 341 instances: Average Loss : 0.606 Average Error : 0.596
+INFO:root:After 10400 instances : Loss 0.102 MAE 0.314
+INFO:root:After 361 instances: Average Loss : 0.600 Average Error : 0.595
+INFO:root:After 381 instances: Average Loss : 0.611 Average Error : 0.602
+INFO:root:After 401 instances: Average Loss : 0.631 Average Error : 0.608
+INFO:root:After 421 instances: Average Loss : 0.637 Average Error : 0.613
+INFO:root:After 441 instances: Average Loss : 0.623 Average Error : 0.607
+INFO:root:After 461 instances: Average Loss : 0.619 Average Error : 0.609
+INFO:root:After 481 instances: Average Loss : 0.628 Average Error : 0.608
+INFO:root:After 501 instances: Average Loss : 0.617 Average Error : 0.604
+INFO:root:After 521 instances: Average Loss : 0.623 Average Error : 0.611
+INFO:root:After 541 instances: Average Loss : 0.610 Average Error : 0.603
+INFO:root:After 561 instances: Average Loss : 0.603 Average Error : 0.600
+INFO:root:After 581 instances: Average Loss : 0.607 Average Error : 0.600
+INFO:root:After 601 instances: Average Loss : 0.600 Average Error : 0.598
+INFO:root:After 621 instances: Average Loss : 0.598 Average Error : 0.598
+INFO:root:After 641 instances: Average Loss : 0.596 Average Error : 0.598
+INFO:root:After 661 instances: Average Loss : 0.591 Average Error : 0.597
+INFO:root:After 681 instances: Average Loss : 0.588 Average Error : 0.596
+INFO:root:After 701 instances: Average Loss : 0.603 Average Error : 0.600
+INFO:root:After 721 instances: Average Loss : 0.599 Average Error : 0.598
+INFO:root:After 741 instances: Average Loss : 0.597 Average Error : 0.599
+INFO:root:After 761 instances: Average Loss : 0.591 Average Error : 0.597
+INFO:root:After 781 instances: Average Loss : 0.586 Average Error : 0.597
+INFO:root:After 2400 instances : Loss 0.492 MAE 0.697
+INFO:root:After 801 instances: Average Loss : 0.591 Average Error : 0.597
+INFO:root:After 821 instances: Average Loss : 0.582 Average Error : 0.592
+INFO:__main__:Epoch 20 : Avg Error 0.134; Average Loss 0.019 Time : 3221
+INFO:__main__:Training finished : Duration 64705 secs, Avg Loss 0.019, Mean Average Error 0.134, Error ratio 1.343
+ERROR:root:Issue saving model or model parameters
+INFO:__main__:Evaluating on the validation set...
+INFO:root:After 1 instances: Average Loss : 0.579 Average Error : 0.761
+INFO:root:After 841 instances: Average Loss : 0.572 Average Error : 0.586
+INFO:root:After 21 instances: Average Loss : 0.312 Average Error : 0.436
+INFO:root:After 861 instances: Average Loss : 0.572 Average Error : 0.588
+INFO:root:After 41 instances: Average Loss : 0.755 Average Error : 0.598
+INFO:root:After 881 instances: Average Loss : 0.569 Average Error : 0.587
+INFO:root:After 61 instances: Average Loss : 0.757 Average Error : 0.640
+INFO:root:After 901 instances: Average Loss : 0.570 Average Error : 0.589
+INFO:root:After 81 instances: Average Loss : 0.750 Average Error : 0.637
+INFO:root:After 921 instances: Average Loss : 0.565 Average Error : 0.586
+INFO:root:After 101 instances: Average Loss : 0.808 Average Error : 0.641
+INFO:root:After 941 instances: Average Loss : 0.562 Average Error : 0.585
+INFO:root:After 121 instances: Average Loss : 0.772 Average Error : 0.631
+INFO:root:After 961 instances: Average Loss : 0.566 Average Error : 0.589
+INFO:root:After 141 instances: Average Loss : 0.706 Average Error : 0.604
+INFO:root:After 981 instances: Average Loss : 0.571 Average Error : 0.592
+INFO:root:After 161 instances: Average Loss : 0.679 Average Error : 0.594
+INFO:root:After 1001 instances: Average Loss : 0.572 Average Error : 0.594
+INFO:root:After 181 instances: Average Loss : 0.661 Average Error : 0.593
+INFO:root:After 1021 instances: Average Loss : 0.571 Average Error : 0.594
+INFO:root:After 201 instances: Average Loss : 0.681 Average Error : 0.608
+INFO:root:After 1041 instances: Average Loss : 0.570 Average Error : 0.592
+INFO:root:After 221 instances: Average Loss : 0.656 Average Error : 0.600
+INFO:root:After 1061 instances: Average Loss : 0.574 Average Error : 0.594
+INFO:root:After 241 instances: Average Loss : 0.706 Average Error : 0.627
+INFO:root:After 1081 instances: Average Loss : 0.576 Average Error : 0.596
+INFO:root:After 261 instances: Average Loss : 0.704 Average Error : 0.626
+INFO:root:After 1101 instances: Average Loss : 0.584 Average Error : 0.599
+INFO:root:After 281 instances: Average Loss : 0.721 Average Error : 0.631
+INFO:root:After 1121 instances: Average Loss : 0.582 Average Error : 0.599
+INFO:root:After 301 instances: Average Loss : 0.703 Average Error : 0.625
+INFO:root:After 1141 instances: Average Loss : 0.577 Average Error : 0.596
+INFO:root:After 321 instances: Average Loss : 0.697 Average Error : 0.624
+INFO:root:After 1161 instances: Average Loss : 0.582 Average Error : 0.598
+INFO:root:After 341 instances: Average Loss : 0.692 Average Error : 0.623
+INFO:root:After 1181 instances: Average Loss : 0.584 Average Error : 0.599
+INFO:root:After 361 instances: Average Loss : 0.700 Average Error : 0.627
+INFO:root:After 1201 instances: Average Loss : 0.591 Average Error : 0.602
+INFO:root:After 381 instances: Average Loss : 0.709 Average Error : 0.632
+INFO:root:After 1221 instances: Average Loss : 0.603 Average Error : 0.606
+INFO:root:After 401 instances: Average Loss : 0.740 Average Error : 0.642
+INFO:root:After 1241 instances: Average Loss : 0.599 Average Error : 0.605
+INFO:root:After 421 instances: Average Loss : 0.734 Average Error : 0.641
+INFO:root:After 1261 instances: Average Loss : 0.602 Average Error : 0.606
+INFO:root:After 441 instances: Average Loss : 0.729 Average Error : 0.637
+INFO:root:After 1281 instances: Average Loss : 0.602 Average Error : 0.606
+INFO:root:After 461 instances: Average Loss : 0.712 Average Error : 0.628
+INFO:root:After 1301 instances: Average Loss : 0.599 Average Error : 0.604
+INFO:root:After 481 instances: Average Loss : 0.714 Average Error : 0.629
+INFO:root:After 1321 instances: Average Loss : 0.596 Average Error : 0.602
+INFO:root:After 501 instances: Average Loss : 0.708 Average Error : 0.629
+INFO:__main__:Validation finished : Avg loss 0.594, Mean Average Error 0.602, Error ratio 6.020, Duration : 262 seconds
+INFO:root:After 521 instances: Average Loss : 0.709 Average Error : 0.631
+INFO:root:After 541 instances: Average Loss : 0.703 Average Error : 0.628
+INFO:root:After 561 instances: Average Loss : 0.703 Average Error : 0.629
+INFO:root:After 581 instances: Average Loss : 0.712 Average Error : 0.635
+INFO:root:After 601 instances: Average Loss : 0.704 Average Error : 0.630
+INFO:root:After 621 instances: Average Loss : 0.731 Average Error : 0.639
+INFO:root:After 2800 instances : Loss 1.653 MAE 1.250
+INFO:root:After 641 instances: Average Loss : 0.727 Average Error : 0.641
+INFO:root:After 661 instances: Average Loss : 0.721 Average Error : 0.636
+INFO:root:After 681 instances: Average Loss : 0.714 Average Error : 0.633
+INFO:root:After 701 instances: Average Loss : 0.718 Average Error : 0.635
+INFO:root:After 721 instances: Average Loss : 0.714 Average Error : 0.635
+INFO:root:After 741 instances: Average Loss : 0.720 Average Error : 0.637
+INFO:root:After 761 instances: Average Loss : 0.721 Average Error : 0.639
+INFO:root:After 781 instances: Average Loss : 0.725 Average Error : 0.641
+INFO:root:After 801 instances: Average Loss : 0.733 Average Error : 0.643
+INFO:root:After 821 instances: Average Loss : 0.725 Average Error : 0.639
+INFO:root:After 841 instances: Average Loss : 0.717 Average Error : 0.635
+INFO:root:After 861 instances: Average Loss : 0.711 Average Error : 0.633
+INFO:root:After 881 instances: Average Loss : 0.712 Average Error : 0.633
+INFO:root:After 901 instances: Average Loss : 0.713 Average Error : 0.635
+INFO:root:After 921 instances: Average Loss : 0.717 Average Error : 0.636
+INFO:root:After 941 instances: Average Loss : 0.715 Average Error : 0.637
+INFO:root:After 961 instances: Average Loss : 0.719 Average Error : 0.640
+INFO:root:After 981 instances: Average Loss : 0.719 Average Error : 0.640
+INFO:root:After 1001 instances: Average Loss : 0.721 Average Error : 0.641
+INFO:root:After 1021 instances: Average Loss : 0.727 Average Error : 0.644
+INFO:root:After 1041 instances: Average Loss : 0.726 Average Error : 0.643
+INFO:root:After 1061 instances: Average Loss : 0.722 Average Error : 0.640
+INFO:root:After 1081 instances: Average Loss : 0.724 Average Error : 0.642
+INFO:root:After 1101 instances: Average Loss : 0.734 Average Error : 0.641
+INFO:root:After 1121 instances: Average Loss : 0.727 Average Error : 0.638
+INFO:root:After 1141 instances: Average Loss : 0.723 Average Error : 0.637
+INFO:root:After 1161 instances: Average Loss : 0.724 Average Error : 0.638
+INFO:root:After 1181 instances: Average Loss : 0.729 Average Error : 0.640
+INFO:root:After 1201 instances: Average Loss : 0.730 Average Error : 0.642
+INFO:root:After 1221 instances: Average Loss : 0.737 Average Error : 0.645
+INFO:root:After 1241 instances: Average Loss : 0.730 Average Error : 0.642
+INFO:root:After 1261 instances: Average Loss : 0.729 Average Error : 0.641
+INFO:root:After 1281 instances: Average Loss : 0.729 Average Error : 0.642
+INFO:root:After 1301 instances: Average Loss : 0.732 Average Error : 0.643
+INFO:root:After 3200 instances : Loss 0.145 MAE 0.379
+INFO:root:After 1321 instances: Average Loss : 0.727 Average Error : 0.642
+INFO:__main__:Validation finished : Avg loss 0.724, Mean Average Error 0.640, Error ratio 6.403, Duration : 262 seconds
+INFO:root:After 3600 instances : Loss 1.489 MAE 1.216
+INFO:root:After 4000 instances : Loss 1.037 MAE 1.000
+INFO:root:After 4400 instances : Loss 0.219 MAE 0.443
+INFO:root:After 4800 instances : Loss 0.317 MAE 0.548
+INFO:root:After 5200 instances : Loss 6.372 MAE 2.454
+INFO:root:After 5600 instances : Loss 0.573 MAE 0.727
+INFO:root:After 6000 instances : Loss 0.160 MAE 0.362
+INFO:root:After 6400 instances : Loss 0.273 MAE 0.518
+INFO:root:After 6800 instances : Loss 1.008 MAE 1.003
+INFO:root:After 7200 instances : Loss 0.204 MAE 0.448
+INFO:root:After 7600 instances : Loss 0.030 MAE 0.170
+INFO:root:After 8000 instances : Loss 2.140 MAE 1.461
+INFO:root:After 8400 instances : Loss 0.130 MAE 0.351
+INFO:root:After 8800 instances : Loss 0.335 MAE 0.200
+INFO:root:After 9200 instances : Loss 0.862 MAE 0.921
+INFO:root:After 9600 instances : Loss 0.553 MAE 0.743
+INFO:root:After 10000 instances : Loss 0.244 MAE 0.314
+INFO:root:After 10400 instances : Loss 0.045 MAE 0.201
+INFO:__main__:Epoch 19 : Avg Error 0.223; Average Loss 0.062 Time : 3495
+INFO:root:After 0 instances : Loss 0.013 MAE 0.116
+INFO:root:After 400 instances : Loss 0.188 MAE 0.433
+INFO:root:After 800 instances : Loss 0.105 MAE 0.240
+INFO:root:After 1200 instances : Loss 0.518 MAE 0.716
+INFO:root:After 1600 instances : Loss 0.576 MAE 0.747
+INFO:root:After 2000 instances : Loss 0.370 MAE 0.586
+INFO:root:After 2400 instances : Loss 0.551 MAE 0.734
+INFO:root:After 2800 instances : Loss 1.171 MAE 1.040
+INFO:root:After 3200 instances : Loss 0.120 MAE 0.343
+INFO:root:After 3600 instances : Loss 0.752 MAE 0.863
+INFO:root:After 4000 instances : Loss 1.160 MAE 1.062
+INFO:root:After 4400 instances : Loss 0.513 MAE 0.692
+INFO:root:After 4800 instances : Loss 0.113 MAE 0.335
+INFO:root:After 5200 instances : Loss 5.926 MAE 2.369
+INFO:root:After 5600 instances : Loss 0.573 MAE 0.727
+INFO:root:After 6000 instances : Loss 0.397 MAE 0.597
+INFO:root:After 6400 instances : Loss 0.315 MAE 0.557
+INFO:root:After 6800 instances : Loss 1.090 MAE 1.042
+INFO:root:After 7200 instances : Loss 0.018 MAE 0.106
+INFO:root:After 7600 instances : Loss 0.044 MAE 0.204
+INFO:root:After 8000 instances : Loss 1.994 MAE 1.409
+INFO:root:After 8400 instances : Loss 0.116 MAE 0.330
+INFO:root:After 8800 instances : Loss 0.387 MAE 0.355
+INFO:root:After 9200 instances : Loss 1.042 MAE 1.011
+INFO:root:After 9600 instances : Loss 0.335 MAE 0.578
+INFO:root:After 10000 instances : Loss 0.108 MAE 0.236
+INFO:root:After 10400 instances : Loss 0.095 MAE 0.263
+INFO:__main__:Epoch 20 : Avg Error 0.124; Average Loss 0.035 Time : 3436
+INFO:__main__:Training finished : Duration 70840 secs, Avg Loss 0.035, Mean Average Error 0.124, Error ratio 1.236
+ERROR:root:Issue saving model or model parameters
+INFO:__main__:Evaluating on the validation set...
+INFO:root:After 1 instances: Average Loss : 1.105 Average Error : 1.051
+INFO:root:After 21 instances: Average Loss : 0.419 Average Error : 0.505
+INFO:root:After 41 instances: Average Loss : 0.508 Average Error : 0.522
+INFO:root:After 61 instances: Average Loss : 0.429 Average Error : 0.494
+INFO:root:After 81 instances: Average Loss : 0.526 Average Error : 0.526
+INFO:root:After 101 instances: Average Loss : 0.635 Average Error : 0.530
+INFO:root:After 121 instances: Average Loss : 0.636 Average Error : 0.542
+INFO:root:After 141 instances: Average Loss : 0.614 Average Error : 0.531
+INFO:root:After 161 instances: Average Loss : 0.560 Average Error : 0.511
+INFO:root:After 181 instances: Average Loss : 0.533 Average Error : 0.492
+INFO:root:After 201 instances: Average Loss : 0.508 Average Error : 0.485
+INFO:root:After 221 instances: Average Loss : 0.471 Average Error : 0.467
+INFO:root:After 241 instances: Average Loss : 0.534 Average Error : 0.493
+INFO:root:After 261 instances: Average Loss : 0.525 Average Error : 0.495
+INFO:root:After 281 instances: Average Loss : 0.509 Average Error : 0.491
+INFO:root:After 301 instances: Average Loss : 0.503 Average Error : 0.485
+INFO:root:After 321 instances: Average Loss : 0.503 Average Error : 0.485
+INFO:root:After 341 instances: Average Loss : 0.523 Average Error : 0.493
+INFO:root:After 361 instances: Average Loss : 0.507 Average Error : 0.486
+INFO:root:After 381 instances: Average Loss : 0.503 Average Error : 0.485
+INFO:root:After 401 instances: Average Loss : 0.525 Average Error : 0.495
+INFO:root:After 421 instances: Average Loss : 0.536 Average Error : 0.498
+INFO:root:After 441 instances: Average Loss : 0.519 Average Error : 0.491
+INFO:root:After 461 instances: Average Loss : 0.510 Average Error : 0.487
+INFO:root:After 481 instances: Average Loss : 0.499 Average Error : 0.483
+INFO:root:After 501 instances: Average Loss : 0.496 Average Error : 0.482
+INFO:root:After 521 instances: Average Loss : 0.497 Average Error : 0.485
+INFO:root:After 541 instances: Average Loss : 0.494 Average Error : 0.485
+INFO:root:After 561 instances: Average Loss : 0.503 Average Error : 0.489
+INFO:root:After 581 instances: Average Loss : 0.507 Average Error : 0.490
+INFO:root:After 601 instances: Average Loss : 0.506 Average Error : 0.487
+INFO:root:After 621 instances: Average Loss : 0.507 Average Error : 0.489
+INFO:root:After 641 instances: Average Loss : 0.505 Average Error : 0.489
+INFO:root:After 661 instances: Average Loss : 0.498 Average Error : 0.485
+INFO:root:After 681 instances: Average Loss : 0.493 Average Error : 0.481
+INFO:root:After 701 instances: Average Loss : 0.505 Average Error : 0.484
+INFO:root:After 721 instances: Average Loss : 0.500 Average Error : 0.483
+INFO:root:After 741 instances: Average Loss : 0.501 Average Error : 0.483
+INFO:root:After 761 instances: Average Loss : 0.506 Average Error : 0.485
+INFO:root:After 781 instances: Average Loss : 0.499 Average Error : 0.482
+INFO:root:After 801 instances: Average Loss : 0.502 Average Error : 0.484
+INFO:root:After 821 instances: Average Loss : 0.500 Average Error : 0.484
+INFO:root:After 841 instances: Average Loss : 0.492 Average Error : 0.480
+INFO:root:After 861 instances: Average Loss : 0.488 Average Error : 0.479
+INFO:root:After 881 instances: Average Loss : 0.486 Average Error : 0.478
+INFO:root:After 901 instances: Average Loss : 0.480 Average Error : 0.475
+INFO:root:After 921 instances: Average Loss : 0.476 Average Error : 0.473
+INFO:root:After 941 instances: Average Loss : 0.476 Average Error : 0.475
+INFO:root:After 961 instances: Average Loss : 0.481 Average Error : 0.476
+INFO:root:After 981 instances: Average Loss : 0.477 Average Error : 0.474
+INFO:root:After 1001 instances: Average Loss : 0.473 Average Error : 0.472
+INFO:root:After 1021 instances: Average Loss : 0.473 Average Error : 0.472
+INFO:root:After 1041 instances: Average Loss : 0.473 Average Error : 0.472
+INFO:root:After 1061 instances: Average Loss : 0.470 Average Error : 0.471
+INFO:root:After 1081 instances: Average Loss : 0.466 Average Error : 0.468
+INFO:root:After 1101 instances: Average Loss : 0.480 Average Error : 0.471
+INFO:root:After 1121 instances: Average Loss : 0.477 Average Error : 0.469
+INFO:root:After 1141 instances: Average Loss : 0.477 Average Error : 0.471
+INFO:root:After 1161 instances: Average Loss : 0.475 Average Error : 0.471
+INFO:root:After 1181 instances: Average Loss : 0.477 Average Error : 0.473
+INFO:root:After 1201 instances: Average Loss : 0.473 Average Error : 0.471
+INFO:root:After 1221 instances: Average Loss : 0.478 Average Error : 0.473
+INFO:root:After 1241 instances: Average Loss : 0.475 Average Error : 0.472
+INFO:root:After 1261 instances: Average Loss : 0.473 Average Error : 0.471
+INFO:root:After 1281 instances: Average Loss : 0.472 Average Error : 0.471
+INFO:root:After 1301 instances: Average Loss : 0.469 Average Error : 0.470
+INFO:root:After 1321 instances: Average Loss : 0.466 Average Error : 0.469
+INFO:__main__:Validation finished : Avg loss 0.466, Mean Average Error 0.469, Error ratio 4.688, Duration : 288 seconds

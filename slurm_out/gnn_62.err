@@ -1,0 +1,91 @@
+INFO:__main__:Log path : log/qm9/lg_False_up_1_bs_30_ep_40_st_5_op_adamax_lr_0.001_da_0.9_L_20_h_2_ta_0_988.pickle
+INFO:__main__:Log path : log/qm9/lg_False_up_1_bs_30_ep_40_st_5_op_adamax_lr_0.001_da_0.9_L_20_h_2_ta_0_988.pickle
+INFO:__main__:Log path : log/qm9/lg_False_up_1_bs_30_ep_40_st_5_op_adamax_lr_0.001_da_0.9_L_20_h_2_ta_0_985.pickle
+INFO:__main__:Log path : log/qm9/lg_False_up_1_bs_30_ep_40_st_5_op_adamax_lr_0.001_da_0.9_L_20_h_2_ta_0_257.pickle
+INFO:__main__:Log path : log/qm9/lg_False_up_1_bs_30_ep_40_st_5_op_adamax_lr_0.001_da_0.9_L_20_h_2_ta_0_805.pickle
+INFO:root:New directory created
+INFO:root:New directory created
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:__main__:Working on CPU
+INFO:__main__:Working on CPU
+Traceback (most recent call last):
+  File "scripts/main_gnn_qm9.py", line 245, in <module>
+    main()
+  File "scripts/main_gnn_qm9.py", line 103, in main
+    logger = logs.Logger(args.log_path)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/chem/HGNN/functions/logs.py", line 48, in __init__
+    self._remove(log_dir)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/chem/HGNN/functions/logs.py", line 78, in _remove
+    shutil.rmtree(path) # remove dir and all contains
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/shutil.py", line 484, in rmtree
+    onerror(os.rmdir, path, sys.exc_info())
+  File "/misc/vlgscratch4/BrunaGroup/sulem/anaconda3/lib/python3.6/shutil.py", line 482, in rmtree
+    os.rmdir(path)
+OSError: [Errno 39] Directory not empty: 'log/qm9/lg_False_up_1_bs_30_ep_40_st_5_op_adamax_lr_0.001_da_0.9_L_20_h_2_ta_0_988.pickle'
+INFO:root:Loading data...
+INFO:root:Loading data...
+INFO:root:Loading data...
+INFO:root:Loading data...
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Number of training instances : 10710
+INFO:__main__:Number of validation instances : 1338
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Epoch 1 : Avg Error 2.079; Average Loss 7.628 Time : 153
+INFO:__main__:Epoch 1 : Avg Error 1.157; Average Loss 2.382 Time : 156
+INFO:__main__:Epoch 1 : Avg Error 1.266; Average Loss 2.657 Time : 156
+INFO:__main__:Epoch 1 : Avg Error 1.854; Average Loss 5.590 Time : 161
+INFO:__main__:Epoch 2 : Avg Error 1.531; Average Loss 4.344 Time : 152
+INFO:__main__:Epoch 2 : Avg Error 0.947; Average Loss 1.599 Time : 155
+INFO:__main__:Epoch 2 : Avg Error 0.802; Average Loss 1.148 Time : 155
+INFO:__main__:Epoch 2 : Avg Error 1.574; Average Loss 3.965 Time : 161
+INFO:__main__:Epoch 3 : Avg Error 1.048; Average Loss 1.934 Time : 153
+INFO:__main__:Epoch 3 : Avg Error 0.834; Average Loss 1.192 Time : 156
+INFO:__main__:Epoch 3 : Avg Error 0.620; Average Loss 0.672 Time : 156
+INFO:__main__:Epoch 3 : Avg Error 1.183; Average Loss 2.383 Time : 163
+Traceback (most recent call last):
+  File "scripts/main_gnn_qm9.py", line 245, in <module>
+    main()
+  File "scripts/main_gnn_qm9.py", line 195, in main
+    logger.add_epoch_info(epoch+1,run_loss.val, run_error.val, dur)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/chem/HGNN/functions/logs.py", line 130, in add_epoch_info
+    with open(self.res_file, 'a') as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'log/qm9/lg_False_up_1_bs_30_ep_40_st_5_op_adamax_lr_0.001_da_0.9_L_20_h_2_ta_0_257.pickle/results.txt'
+Traceback (most recent call last):
+  File "scripts/main_gnn_qm9.py", line 245, in <module>
+    main()
+  File "scripts/main_gnn_qm9.py", line 195, in main
+    logger.add_epoch_info(epoch+1,run_loss.val, run_error.val, dur)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/chem/HGNN/functions/logs.py", line 130, in add_epoch_info
+    with open(self.res_file, 'a') as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'log/qm9/lg_False_up_1_bs_30_ep_40_st_5_op_adamax_lr_0.001_da_0.9_L_20_h_2_ta_0_988.pickle/results.txt'
+Traceback (most recent call last):
+  File "scripts/main_gnn_qm9.py", line 245, in <module>
+    main()
+  File "scripts/main_gnn_qm9.py", line 195, in main
+    logger.add_epoch_info(epoch+1,run_loss.val, run_error.val, dur)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/chem/HGNN/functions/logs.py", line 130, in add_epoch_info
+    with open(self.res_file, 'a') as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'log/qm9/lg_False_up_1_bs_30_ep_40_st_5_op_adamax_lr_0.001_da_0.9_L_20_h_2_ta_0_985.pickle/results.txt'
+Traceback (most recent call last):
+  File "scripts/main_gnn_qm9.py", line 245, in <module>
+    main()
+  File "scripts/main_gnn_qm9.py", line 195, in main
+    logger.add_epoch_info(epoch+1,run_loss.val, run_error.val, dur)
+  File "/misc/vlgscratch4/BrunaGroup/sulem/chem/HGNN/functions/logs.py", line 130, in add_epoch_info
+    with open(self.res_file, 'a') as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'log/qm9/lg_False_up_1_bs_30_ep_40_st_5_op_adamax_lr_0.001_da_0.9_L_20_h_2_ta_0_805.pickle/results.txt'

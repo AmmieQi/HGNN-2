@@ -1,0 +1,48 @@
+INFO:__main__:Log path : log/qm9/lg_False_up_1_bs_5_ep_10_st_10_op_adamax_lr_0.0004_da_0.9_L_20_h_2_ta_0_723.pickle
+INFO:__main__:Log path : log/qm9/lg_False_up_1_bs_5_ep_10_st_10_op_adamax_lr_0.0004_da_0.9_L_20_h_2_ta_0_777.pickle
+INFO:__main__:Log path : log/qm9/lg_False_up_1_bs_5_ep_10_st_10_op_adamax_lr_0.0004_da_0.9_L_20_h_2_ta_0_506.pickle
+INFO:root:New directory created
+INFO:root:New directory created
+INFO:root:New directory created
+INFO:__main__:Working on CPU
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:root:Loading data...
+INFO:__main__:Working on CPU
+INFO:root:Loading data...
+INFO:__main__:Number of training instances : 107108
+INFO:__main__:Number of validation instances : 13388
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Number of training instances : 107108
+INFO:__main__:Number of validation instances : 13388
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Number of training instances : 107108
+INFO:__main__:Number of validation instances : 13388
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Number of training instances : 107108
+INFO:__main__:Number of validation instances : 13388
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Number of training instances : 107108
+INFO:__main__:Number of validation instances : 13388
+INFO:__main__:Network created
+INFO:__main__:Training the GNN
+INFO:__main__:Epoch 1 : Avg Error 0.628; Average Loss 0.426 Time : 2938
+INFO:__main__:Epoch 1 : Avg Error 0.547; Average Loss 0.339 Time : 3896
+INFO:__main__:Epoch 1 : Avg Error 0.298; Average Loss 0.091 Time : 2849
+INFO:__main__:Epoch 1 : Avg Error 0.496; Average Loss 0.263 Time : 2867
+INFO:__main__:Epoch 1 : Avg Error 0.217; Average Loss 0.060 Time : 3869
+/var/lib/slurm/slurmd/job68661/slurm_script: line 20: 14175 Killed                  python3 scripts/main_gnn_qm9.py --lr $lr --lrdamping $lrdamp --step $step --data_path $data_path --epochs $epochs --bs $bs
+INFO:__main__:Epoch 2 : Avg Error 0.162; Average Loss 0.030 Time : 1953
+INFO:__main__:Epoch 2 : Avg Error 0.247; Average Loss 0.075 Time : 2022
+/var/lib/slurm/slurmd/job68657/slurm_script: line 20: 14181 Killed                  python3 scripts/main_gnn_qm9.py --lr $lr --lrdamping $lrdamp --step $step --data_path $data_path --epochs $epochs --bs $bs
+/var/lib/slurm/slurmd/job68658/slurm_script: line 20:  2979 Killed                  python3 scripts/main_gnn_qm9.py --lr $lr --lrdamping $lrdamp --step $step --data_path $data_path --epochs $epochs --bs $bs
+INFO:__main__:Epoch 2 : Avg Error 0.579; Average Loss 0.360 Time : 4772
+INFO:__main__:Epoch 3 : Avg Error 0.115; Average Loss 0.021 Time : 1744
+INFO:__main__:Epoch 3 : Avg Error 0.460; Average Loss 0.229 Time : 1670
+INFO:__main__:Epoch 4 : Avg Error 0.074; Average Loss 0.009 Time : 1687
+/var/lib/slurm/slurmd/job68659/slurm_script: line 20:  2983 Killed                  python3 scripts/main_gnn_qm9.py --lr $lr --lrdamping $lrdamp --step $step --data_path $data_path --epochs $epochs --bs $bs
+/var/lib/slurm/slurmd/job68660/slurm_script: line 20: 14171 Killed                  python3 scripts/main_gnn_qm9.py --lr $lr --lrdamping $lrdamp --step $step --data_path $data_path --epochs $epochs --bs $bs
